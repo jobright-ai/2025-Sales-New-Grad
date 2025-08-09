@@ -76,8 +76,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Gerente de ventas comerciales](https://jobright.ai/jobs/info/6675f33f2617111d53a44316?utm_campaign=Sales&utm_source=1103)** | Spokane, WA | On Site | Aug 08 |
 | ↳ | **[Gerente de ventas comerciales](https://jobright.ai/jobs/info/66747e94d8033409f2da31f4?utm_campaign=Sales&utm_source=1103)** | Los Angeles, CA | On Site | Aug 08 |
 | ↳ | **[Gerente de ventas comerciales](https://jobright.ai/jobs/info/66b85be4fd0454ce4a7cce1b?utm_campaign=Sales&utm_source=1103)** | Temple City, CA | On Site | Aug 08 |
-| ↳ | **[Commercial Sales Manager](https://jobright.ai/jobs/info/6675b58b357894b74ff29f6e?utm_campaign=Sales&utm_source=1103)** | Golden, CO | On Site | Aug 08 |
 | ↳ | **[Commercial Sales Manager](https://jobright.ai/jobs/info/66b4fcaf1401f47738877e0d?utm_campaign=Sales&utm_source=1103)** | Vallejo, CA | On Site | Aug 08 |
+| ↳ | **[Commercial Sales Manager](https://jobright.ai/jobs/info/6675b58b357894b74ff29f6e?utm_campaign=Sales&utm_source=1103)** | Golden, CO | On Site | Aug 08 |
 | ↳ | **[Commercial Sales Manager](https://jobright.ai/jobs/info/667cc4fe6b5c78f2a486406a?utm_campaign=Sales&utm_source=1103)** | Anderson, CA | On Site | Aug 08 |
 | **[Gopuff](http://www.gopuff.com)** | **[Retail Key Holder, Ventura, #460](https://jobright.ai/jobs/info/6896a51e8c6d6b4426784173?utm_campaign=Sales&utm_source=1103)** | Ventura, CA | On Site | Aug 08 |
 | **[Hibu](https://hibu.com/)** | **[Entry Level Outside Sales Representative](https://jobright.ai/jobs/info/6896a63d8c6d6b442678437c?utm_campaign=Sales&utm_source=1103)** | Kalamazoo, Michigan, United States | On Site | Aug 08 |
