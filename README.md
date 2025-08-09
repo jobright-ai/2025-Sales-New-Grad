@@ -76,8 +76,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Gerente de ventas comerciales](https://jobright.ai/jobs/info/6675f33f2617111d53a44316?utm_campaign=Sales&utm_source=1103)** | Spokane, WA | On Site | Aug 08 |
 | ↳ | **[Gerente de ventas comerciales](https://jobright.ai/jobs/info/66747e94d8033409f2da31f4?utm_campaign=Sales&utm_source=1103)** | Los Angeles, CA | On Site | Aug 08 |
 | ↳ | **[Gerente de ventas comerciales](https://jobright.ai/jobs/info/66b85be4fd0454ce4a7cce1b?utm_campaign=Sales&utm_source=1103)** | Temple City, CA | On Site | Aug 08 |
-| ↳ | **[Commercial Sales Manager](https://jobright.ai/jobs/info/66b4fcaf1401f47738877e0d?utm_campaign=Sales&utm_source=1103)** | Vallejo, CA | On Site | Aug 08 |
 | ↳ | **[Commercial Sales Manager](https://jobright.ai/jobs/info/6675b58b357894b74ff29f6e?utm_campaign=Sales&utm_source=1103)** | Golden, CO | On Site | Aug 08 |
+| ↳ | **[Commercial Sales Manager](https://jobright.ai/jobs/info/66b4fcaf1401f47738877e0d?utm_campaign=Sales&utm_source=1103)** | Vallejo, CA | On Site | Aug 08 |
 | ↳ | **[Commercial Sales Manager](https://jobright.ai/jobs/info/667cc4fe6b5c78f2a486406a?utm_campaign=Sales&utm_source=1103)** | Anderson, CA | On Site | Aug 08 |
 | **[Gopuff](http://www.gopuff.com)** | **[Retail Key Holder, Ventura, #460](https://jobright.ai/jobs/info/6896a51e8c6d6b4426784173?utm_campaign=Sales&utm_source=1103)** | Ventura, CA | On Site | Aug 08 |
 | **[Hibu](https://hibu.com/)** | **[Entry Level Outside Sales Representative](https://jobright.ai/jobs/info/6896a63d8c6d6b442678437c?utm_campaign=Sales&utm_source=1103)** | Kalamazoo, Michigan, United States | On Site | Aug 08 |
@@ -325,7 +325,6 @@ For a complete list, click the following sortable link below:
 | **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Retail Front End Supervisor - Full-Time](https://jobright.ai/jobs/info/67e75be787978e49a0359f04?utm_campaign=Sales&utm_source=1103)** | Philadelphia, PA | On Site | Aug 03 |
 | **[Neiman Marcus](https://www.neimanmarcusgroup.com)** | **[Selling Assistant, Personal Shopping](https://jobright.ai/jobs/info/67aa54b0da7e35e52ba0ef84?utm_campaign=Sales&utm_source=1103)** | New York, NY | On Site | Aug 03 |
 | **[Associated Bank](http://associatedbank.com)** | **[Residential Loan Officer - Woodbury](https://jobright.ai/jobs/info/681bc36bcbe4b20a7adb484d?utm_campaign=Sales&utm_source=1103)** | Woodbury, MN | On Site | Aug 03 |
-| **[AutoZone](http://www.autozone.com/)** | **[Gerente de ventas comerciales](https://jobright.ai/jobs/info/6728f0a4d157e59c0a39337c?utm_campaign=Sales&utm_source=1103)** | Los Angeles, CA | On Site | Aug 03 |
 | **[ArcBest](http://www.arcb.com)** | **[Associate Account Manager](https://jobright.ai/jobs/info/681c13c59dbd724ea98f0e28?utm_campaign=Sales&utm_source=1103)** | Denver, CO | On Site | Aug 03 |
 | **[EXPRESS](http://express.com)** | **[Sales Associate](https://jobright.ai/jobs/info/681be8bca0f25cf3e67b3834?utm_campaign=Sales&utm_source=1103)** | Rockford, IL | On Site | Aug 03 |
 | ↳ | **[Sales Associate](https://jobright.ai/jobs/info/6724153d2a0943cb5bf804b2?utm_campaign=Sales&utm_source=1103)** | San Diego, CA | On Site | Aug 03 |
@@ -359,6 +358,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Mortgage Wholesale Account Executive](https://jobright.ai/jobs/info/67ef3ac38459ff38f478b36f?utm_campaign=Sales&utm_source=1103)** | Pennsylvania, United States | Remote | Aug 03 |
 | ↳ | **[Mortgage Wholesale Account Executive](https://jobright.ai/jobs/info/67ef3cdf8459ff38f478bb8e?utm_campaign=Sales&utm_source=1103)** | Virginia, United States | Remote | Aug 03 |
 | **[Priority1](http://priority1inc.com)** | **[Territory Manager - Outside Sales](https://jobright.ai/jobs/info/67aab8954ee08cbeecce7d2b?utm_campaign=Sales&utm_source=1103)** | Fort Worth, TX | On Site | Aug 03 |
+| **[AutoZone](http://www.autozone.com/)** | **[Gerente de ventas comerciales](https://jobright.ai/jobs/info/6728f0a4d157e59c0a393381?utm_campaign=Sales&utm_source=1103)** | Los Angeles, CA | On Site | Aug 03 |
 | **[AppsFlyer](https://www.appsflyer.com/)** | **[Sales Development Representative](https://jobright.ai/jobs/info/68098749b375c510743d97de?utm_campaign=Sales&utm_source=1103)** | San Francisco, CA | Hybrid | Aug 03 |
 | **[Newfi Lending](https://newfi.com)** | **[Mortgage Wholesale Account Executive](https://jobright.ai/jobs/info/67ef3ac38459ff38f478b4ad?utm_campaign=Sales&utm_source=1103)** | San Diego, CA | On Site | Aug 03 |
 | **[Tiffany & Co.](http://www.tiffany.com)** | **[Client Advisor-Hudson Yards Mandarin Speaker](https://jobright.ai/jobs/info/677e931e4d0537f22b6b11bf?utm_campaign=Sales&utm_source=1103)** | New York, NY | Hybrid | Aug 02 |
@@ -368,5 +368,4 @@ For a complete list, click the following sortable link below:
 | **[Kemper](http://kemper.com)** | **[Bilingual Sales Agent](https://jobright.ai/jobs/info/681c0fae47d1e1c624291027?utm_campaign=Sales&utm_source=1103)** | Reno, NV | On Site | Aug 02 |
 | **[The CAR Group (Norm Reeves)](https://www.normreeves.com)** | **[Honda Internet Sales](https://jobright.ai/jobs/info/6766b70aea82a16e9e086274?utm_campaign=Sales&utm_source=1103)** | Irvine, CA | On Site | Aug 02 |
 | **[Watts Water Technologies](https://www.watts.com)** | **[Account Manager Assistant](https://jobright.ai/jobs/info/681bee8115dba86b2d450677?utm_campaign=Sales&utm_source=1103)** | Escondido, CA | On Site | Aug 02 |
-| **[Bankers Life](https://www.bankers.com)** | **[Insurance Sales Agent - Akron, OH](https://jobright.ai/jobs/info/67f4dc949d761cb4e54dccec?utm_campaign=Sales&utm_source=1103)** | Akron, OH | Hybrid | Aug 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
