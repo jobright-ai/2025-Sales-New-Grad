@@ -325,6 +325,7 @@ For a complete list, click the following sortable link below:
 | **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Retail Front End Supervisor - Full-Time](https://jobright.ai/jobs/info/67e75be787978e49a0359f04?utm_campaign=Sales&utm_source=1103)** | Philadelphia, PA | On Site | Aug 03 |
 | **[Neiman Marcus](https://www.neimanmarcusgroup.com)** | **[Selling Assistant, Personal Shopping](https://jobright.ai/jobs/info/67aa54b0da7e35e52ba0ef84?utm_campaign=Sales&utm_source=1103)** | New York, NY | On Site | Aug 03 |
 | **[Associated Bank](http://associatedbank.com)** | **[Residential Loan Officer - Woodbury](https://jobright.ai/jobs/info/681bc36bcbe4b20a7adb484d?utm_campaign=Sales&utm_source=1103)** | Woodbury, MN | On Site | Aug 03 |
+| **[AutoZone](http://www.autozone.com/)** | **[Gerente de ventas comerciales](https://jobright.ai/jobs/info/6728f0a4d157e59c0a39337c?utm_campaign=Sales&utm_source=1103)** | Los Angeles, CA | On Site | Aug 03 |
 | **[ArcBest](http://www.arcb.com)** | **[Associate Account Manager](https://jobright.ai/jobs/info/681c13c59dbd724ea98f0e28?utm_campaign=Sales&utm_source=1103)** | Denver, CO | On Site | Aug 03 |
 | **[EXPRESS](http://express.com)** | **[Sales Associate](https://jobright.ai/jobs/info/681be8bca0f25cf3e67b3834?utm_campaign=Sales&utm_source=1103)** | Rockford, IL | On Site | Aug 03 |
 | ↳ | **[Sales Associate](https://jobright.ai/jobs/info/6724153d2a0943cb5bf804b2?utm_campaign=Sales&utm_source=1103)** | San Diego, CA | On Site | Aug 03 |
@@ -358,7 +359,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Mortgage Wholesale Account Executive](https://jobright.ai/jobs/info/67ef3ac38459ff38f478b36f?utm_campaign=Sales&utm_source=1103)** | Pennsylvania, United States | Remote | Aug 03 |
 | ↳ | **[Mortgage Wholesale Account Executive](https://jobright.ai/jobs/info/67ef3cdf8459ff38f478bb8e?utm_campaign=Sales&utm_source=1103)** | Virginia, United States | Remote | Aug 03 |
 | **[Priority1](http://priority1inc.com)** | **[Territory Manager - Outside Sales](https://jobright.ai/jobs/info/67aab8954ee08cbeecce7d2b?utm_campaign=Sales&utm_source=1103)** | Fort Worth, TX | On Site | Aug 03 |
-| **[AutoZone](http://www.autozone.com/)** | **[Gerente de ventas comerciales](https://jobright.ai/jobs/info/6728f0a4d157e59c0a393381?utm_campaign=Sales&utm_source=1103)** | Los Angeles, CA | On Site | Aug 03 |
 | **[AppsFlyer](https://www.appsflyer.com/)** | **[Sales Development Representative](https://jobright.ai/jobs/info/68098749b375c510743d97de?utm_campaign=Sales&utm_source=1103)** | San Francisco, CA | Hybrid | Aug 03 |
 | **[Newfi Lending](https://newfi.com)** | **[Mortgage Wholesale Account Executive](https://jobright.ai/jobs/info/67ef3ac38459ff38f478b4ad?utm_campaign=Sales&utm_source=1103)** | San Diego, CA | On Site | Aug 03 |
 | **[Tiffany & Co.](http://www.tiffany.com)** | **[Client Advisor-Hudson Yards Mandarin Speaker](https://jobright.ai/jobs/info/677e931e4d0537f22b6b11bf?utm_campaign=Sales&utm_source=1103)** | New York, NY | Hybrid | Aug 02 |
@@ -369,14 +369,4 @@ For a complete list, click the following sortable link below:
 | **[The CAR Group (Norm Reeves)](https://www.normreeves.com)** | **[Honda Internet Sales](https://jobright.ai/jobs/info/6766b70aea82a16e9e086274?utm_campaign=Sales&utm_source=1103)** | Irvine, CA | On Site | Aug 02 |
 | **[Watts Water Technologies](https://www.watts.com)** | **[Account Manager Assistant](https://jobright.ai/jobs/info/681bee8115dba86b2d450677?utm_campaign=Sales&utm_source=1103)** | Escondido, CA | On Site | Aug 02 |
 | **[Bankers Life](https://www.bankers.com)** | **[Insurance Sales Agent - Akron, OH](https://jobright.ai/jobs/info/67f4dc949d761cb4e54dccec?utm_campaign=Sales&utm_source=1103)** | Akron, OH | Hybrid | Aug 02 |
-| **[Samsara](http://www.samsara.com)** | **[Account Executive, Commercial - (Phoenix, AR)](https://jobright.ai/jobs/info/6896a3781b9e81727f192d39?utm_campaign=Sales&utm_source=1103)** | Phoenix, Arizona | Hybrid | Aug 02 |
-| **[Spirit Halloween](http://www.spirithalloween.com)** | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/67fdefaf639e70e7b1c400b8?utm_campaign=Sales&utm_source=1103)** | Spring Hill, FL | On Site | Aug 02 |
-| ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/67fe086a11933cb0f6ee6d9f?utm_campaign=Sales&utm_source=1103)** | Shreveport, LA | On Site | Aug 02 |
-| **[Nestlé Purina North America](https://www.nestlejobs.com/nestle-purina)** | **[Sales Manager (Veterinary Sales) - Wilmington, DE](https://jobright.ai/jobs/info/681a800017a99ebfb2fa8370?utm_campaign=Sales&utm_source=1103)** | King of Prussia, PA | On Site | Aug 02 |
-| **[Verkada](https://www.verkada.com)** | **[Sales Development Representative (AAE), New York City](https://jobright.ai/jobs/info/673f97d42b190b42f687f2af?utm_campaign=Sales&utm_source=1103)** | New York City, NY United States | On Site | Aug 02 |
-| **[EXPRESS](http://express.com)** | **[Sales Associate](https://jobright.ai/jobs/info/67c687e1032620e7a369a7c2?utm_campaign=Sales&utm_source=1103)** | Aurora, IL | On Site | Aug 02 |
-| **[The CAR Group (Norm Reeves)](https://www.normreeves.com)** | **[Honda Internet Sales](https://jobright.ai/jobs/info/67f6b0f5991ba0afe190c516?utm_campaign=Sales&utm_source=1103)** | Huntington Beach, CA | On Site | Aug 02 |
-| **[Tourneau|Bucherer](http://www.tourneau.com)** | **[Client Advisor, Breitling & Omega Boutique - Westchester](https://jobright.ai/jobs/info/68229487bb9491d0224fbbaf?utm_campaign=Sales&utm_source=1103)** | White Plains, NY | On Site | Aug 02 |
-| **[Gartner](http://www.gartner.com)** | **[Business Development Executive, Marketing, MSE](https://jobright.ai/jobs/info/681c7dc7d49204e7d40eff91?utm_campaign=Sales&utm_source=1103)** | Fort Myers, FL | Hybrid | Aug 02 |
-| **[The CAR Group (Norm Reeves)](https://www.normreeves.com)** | **[Honda Internet Salesperson](https://jobright.ai/jobs/info/6823a1782b1ddf8309ec82ed?utm_campaign=Sales&utm_source=1103)** | Vista, CA | On Site | Aug 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
