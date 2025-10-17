@@ -1356,6 +1356,7 @@ For a complete list, click the following sortable link below:
 | **[Techtronic Industries - TTI](http://ttigroup.com/)** | **[Field Sales and Marketing Representative - Manassas, VA](https://jobright.ai/jobs/info/68d78f9a295f8e37655dd97b?utm_campaign=Sales&utm_source=1103)** | Manassas, VA | On Site | Oct 11 |
 | **[Spirit Halloween](http://www.spirithalloween.com)** | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b4351cbc187f64e1be30b1?utm_campaign=Sales&utm_source=1103)** | Akron, OH | On Site | Oct 11 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68cf01ffdbd9fb154ede42f7?utm_campaign=Sales&utm_source=1103)** | Hollister, ID | On Site | Oct 11 |
+| ↳ | **[Sales Associate](https://jobright.ai/jobs/info/68b43d02bc187f64e1be3144?utm_campaign=Sales&utm_source=1103)** | Henderson, NV | On Site | Oct 11 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68bc2a6e5f383274918752d5?utm_campaign=Sales&utm_source=1103)** | Tacoma, WA | On Site | Oct 11 |
 | **[AMBA](https://amba.info)** | **[Benefits Representative](https://jobright.ai/jobs/info/6894631c8c6d6b442677163e?utm_campaign=Sales&utm_source=1103)** | Bowling Green, KY | On Site | Oct 11 |
 | **[Techtronic Industries - TTI](http://ttigroup.com/)** | **[Field Sales and Marketing Representative - San Antonio, TX](https://jobright.ai/jobs/info/68d65636894705799a2eacee?utm_campaign=Sales&utm_source=1103)** | San Antonio, TX | On Site | Oct 11 |
@@ -1413,7 +1414,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68c41a71e471ef3ce16d3a9f?utm_campaign=Sales&utm_source=1103)** | St Cloud, MN | On Site | Oct 11 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b592931ade4306aa6423f1?utm_campaign=Sales&utm_source=1103)** | Countryside, IL | On Site | Oct 11 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b98a4b8043103d4f217ea5?utm_campaign=Sales&utm_source=1103)** | Livermore, CA | On Site | Oct 11 |
-| ↳ | **[Sales Associate](https://jobright.ai/jobs/info/68c9550695f5211cd2cefafb?utm_campaign=Sales&utm_source=1103)** | Henderson, NV | On Site | Oct 11 |
 | **[Zurich North America](https://www.zurichna.com)** | **[Market Facing Underwriting Trainee](https://jobright.ai/jobs/info/68ce8903fb49c96ca6ea157c?utm_campaign=Sales&utm_source=1103)** | Washington, DC | Hybrid | Oct 11 |
 | **[Spirit Halloween](http://www.spirithalloween.com)** | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68ce3e4924dd5209002f0d75?utm_campaign=Sales&utm_source=1103)** | Shoreline, WA | On Site | Oct 11 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b2ed951ade4306aa63a5f0?utm_campaign=Sales&utm_source=1103)** | Brooklyn, NY | On Site | Oct 11 |
@@ -1630,29 +1630,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Benefits Representative](https://jobright.ai/jobs/info/6894676c73b3a600fe87f5ad?utm_campaign=Sales&utm_source=1103)** | Roswell, NM | On Site | Oct 10 |
 | **[EXPRESS](http://express.com)** | **[Sales Associate](https://jobright.ai/jobs/info/670afbf12514cacda8b31ef0?utm_campaign=Sales&utm_source=1103)** | Champaign, IL | On Site | Oct 10 |
 | **[AMBA](https://amba.info)** | **[Benefits Representative](https://jobright.ai/jobs/info/68cd2233e23def7af55b5e71?utm_campaign=Sales&utm_source=1103)** | Wauwatosa, WI | On Site | Oct 10 |
-| **[Ulta Beauty](https://www.ulta.com)** | **[Seasonal Task Associate](https://jobright.ai/jobs/info/68cd443f1ad6b16f0289752b?utm_campaign=Sales&utm_source=1103)** | Port Chester, NY | On Site | Oct 10 |
-| ↳ | **[Specialty Artist - MAC](https://jobright.ai/jobs/info/68cc799d7342c7623ae657a8?utm_campaign=Sales&utm_source=1103)** | Minneapolis, MN | On Site | Oct 10 |
-| **[AMBA](https://amba.info)** | **[Benefits Representative](https://jobright.ai/jobs/info/68946a434ed2ea559ca4db7f?utm_campaign=Sales&utm_source=1103)** | Dunwoody, GA | On Site | Oct 10 |
-| **[U.S. Bank](http://www.usbank.com)** | **[Mortgage Loan Originator](https://jobright.ai/jobs/info/68cc5b327342c7623ae62deb?utm_campaign=Sales&utm_source=1103)** | Fairborn, OH | On Site | Oct 10 |
-| **[AMBA](https://amba.info)** | **[Benefits Representative](https://jobright.ai/jobs/info/68946eea8c6d6b4426771c12?utm_campaign=Sales&utm_source=1103)** | Albuquerque, NM | On Site | Oct 10 |
-| **[Signet Jewelers](http://www.signetjewelers.com)** | **[Sales Associate / Jewelry Consultant - Zales Outlet - Fashion Outlets of Niagara Falls USA - Niagara Falls, NY](https://jobright.ai/jobs/info/6876d44dae2f413e4a5b4199?utm_campaign=Sales&utm_source=1103)** | Buffalo-Niagara Area | On Site | Oct 10 |
-| **[Peachy Insurance](https://marilyntoddinsurance.com)** | **[Licensed Insurance Agent](https://jobright.ai/jobs/info/68c62a14c96a22563eceabd4?utm_campaign=Sales&utm_source=1103)** | United States | Remote | Oct 10 |
-| **[AMBA](https://amba.info)** | **[Benefits Representative](https://jobright.ai/jobs/info/68946ac873b3a600fe87f6e4?utm_campaign=Sales&utm_source=1103)** | Wichita, KS | On Site | Oct 10 |
-| ↳ | **[Benefits Representative](https://jobright.ai/jobs/info/689461134ed2ea559ca4d5ff?utm_campaign=Sales&utm_source=1103)** | Dallas, TX | On Site | Oct 10 |
-| **[Orchard](https://orchard.com)** | **[Licensed Real Estate Agent](https://jobright.ai/jobs/info/674988e522f21fa6a6bcc5dd?utm_campaign=Sales&utm_source=1103)** | Houston, TX | Remote | Oct 10 |
-| **[Sazerac Company](https://www.sazerac.com/)** | **[Market Development Representative -Milwaukee](https://jobright.ai/jobs/info/68ccb87016d00d2beeb23657?utm_campaign=Sales&utm_source=1103)** | Oshkosh, WI | Hybrid | Oct 10 |
-| **[AMBA](https://amba.info)** | **[Benefits Representative (NV)](https://jobright.ai/jobs/info/68945d2673b3a600fe87ec9c?utm_campaign=Sales&utm_source=1103)** | Henderson, NV | On Site | Oct 10 |
-| **[Intertek Building & Construction](http://www.intertek.com/building/)** | **[Inside Sales Representative - Building Products](https://jobright.ai/jobs/info/6876bf855cebcd1dd51cc007?utm_campaign=Sales&utm_source=1103)** | York, PA | On Site | Oct 10 |
-| **[OpenGov Inc.](http://opengov.com)** | **[Sales Development Representative](https://jobright.ai/jobs/info/68cd70cf1ad6b16f02899a6d?utm_campaign=Sales&utm_source=1103)** | California, United States | On Site | Oct 10 |
-| **[Century Complete](https://www.centurycommunities.com)** | **[Sales Consultant](https://jobright.ai/jobs/info/68ccb7e516d00d2beeb2352a?utm_campaign=Sales&utm_source=1103)** | Kentucky, United States | On Site | Oct 10 |
-| **[Signet Jewelers](http://www.signetjewelers.com)** | **[Sales Associate / Jewelry Consultant - Zales - Deptford Mall - Deptford, NJ](https://jobright.ai/jobs/info/6876b8e9299cbc74b875fefd?utm_campaign=Sales&utm_source=1103)** | Deptford, NJ | On Site | Oct 10 |
-| **[Leaf Home](https://www.leafhome.com/)** | **[Leaf Home Stairlift - Outside Sales - Milwaukee](https://jobright.ai/jobs/info/6894bc4f4ed2ea559ca4ff04?utm_campaign=Sales&utm_source=1103)** | Hartland, WI | On Site | Oct 10 |
-| **[Signet Jewelers](http://www.signetjewelers.com)** | **[Sales Associate / Jewelry Consultant - Zales - Spokane Valley Mall - Spokane, WA](https://jobright.ai/jobs/info/6876cf97ae2f413e4a5b3eb6?utm_campaign=Sales&utm_source=1103)** | Spokane Valley, WA | On Site | Oct 10 |
-| ↳ | **[Sales Associate / Jewelry Consultant - Zales - Pearlridge Center - Aiea, HI](https://jobright.ai/jobs/info/6876b25f299cbc74b875fb6a?utm_campaign=Sales&utm_source=1103)** | Aiea, HI | On Site | Oct 10 |
-| **[Mercury](https://mercury.com)** | **[Account Executive - New Verticals](https://jobright.ai/jobs/info/687859555cebcd1dd51d99f1?utm_campaign=Sales&utm_source=1103)** | San Francisco, CA | On Site | Oct 10 |
-| **[Signet Jewelers](http://www.signetjewelers.com)** | **[Sales Associate / Jewelry Consultant - Zales - Westfield Culver City - Culver City, CA](https://jobright.ai/jobs/info/6876b6ba299cbc74b875fdf3?utm_campaign=Sales&utm_source=1103)** | Culver City, CA | On Site | Oct 10 |
-| **[Principal Financial Group](https://www.principalam.com/)** | **[Associate Sales Representative - Group Benefits (Waltham, MA)](https://jobright.ai/jobs/info/68ccb908128dc347fd9289f4?utm_campaign=Sales&utm_source=1103)** | Waltham, MA | On Site | Oct 10 |
-| **[AMBA](https://amba.info)** | **[Benefits Representative](https://jobright.ai/jobs/info/68976d2e8c6d6b442678b682?utm_campaign=Sales&utm_source=1103)** | Grand Island, NE | On Site | Oct 10 |
-| **[Allstate](http://www.allstate.com)** | **[Licensed Sales Professional (LSP) - Remote - NH](https://jobright.ai/jobs/info/68af3e291f0a2a568a05fe9e?utm_campaign=Sales&utm_source=1103)** | New Hampshire, United States | Remote | Oct 10 |
-| **[Ulta Beauty](https://www.ulta.com)** | **[Seasonal Task Associate](https://jobright.ai/jobs/info/68cc17087342c7623ae5eca5?utm_campaign=Sales&utm_source=1103)** | Glendora, CA | On Site | Oct 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
