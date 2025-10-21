@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Paddio](https://www.paddio.com)** | **[Flex Loan Specialist](https://jobright.ai/jobs/info/68d469f777769e778f508c9d?utm_campaign=Sales&utm_source=1103)** | Springfield, MO | On Site | Oct 20 |
+| **[Rooms To Go](http://www.roomstogo.com/)** | **[Furniture Returns Associate II - Pay $15-18/hr dep](https://jobright.ai/jobs/info/68bc55073bf9eb44f8323d23?utm_campaign=Sales&utm_source=1103)** | Lakeland, FL | On Site | Oct 20 |
 | **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68bc585868300c452ca1569b?utm_campaign=Sales&utm_source=1103)** | Gaylord, MI | On Site | Oct 20 |
 | **[The Kolter Group](http://kolter.com)** | **[New Home Sales Specialist](https://jobright.ai/jobs/info/68d1caf717554c2d9eedfc41?utm_campaign=Sales&utm_source=1103)** | Port St Lucie, FL | On Site | Oct 20 |
 | **[Spirit Halloween](http://www.spirithalloween.com)** | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b58f7ef4e41a61efd9026b?utm_campaign=Sales&utm_source=1103)** | Wyomissing, PA | On Site | Oct 19 |
@@ -443,15 +444,4 @@ For a complete list, click the following sortable link below:
 | **[Goosehead Insurance](https://www.goosehead.com)** | **[Account Executive - The Nick Christensen Agency](https://jobright.ai/jobs/info/68c8614b95f5211cd2ce42fb?utm_campaign=Sales&utm_source=1103)** | Meridian, ID | On Site | Oct 14 |
 | **[Dignity Health](https://www.dignityhealth.org)** | **[Client Relations Executive Home Health](https://jobright.ai/jobs/info/68d4782d77769e778f5093ea?utm_campaign=Sales&utm_source=1103)** | Santa Maria, CA | On Site | Oct 14 |
 | **[Veronica Beard](http://veronicabeard.com)** | **[Sales Supervisor, Seattle](https://jobright.ai/jobs/info/68b0d5d32d46f6396cae8eb0?utm_campaign=Sales&utm_source=1103)** | Seattle, WA | On Site | Oct 14 |
-| **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Seasonal Associate(6a-12p)-Northpark](https://jobright.ai/jobs/info/68d254e617554c2d9eee7183?utm_campaign=Sales&utm_source=1103)** | Joplin, MO | On Site | Oct 14 |
-| **[Leaf Home](https://www.leafhome.com/)** | **[Leaf Home Bath - Outside Sales Representative - Rochester](https://jobright.ai/jobs/info/68ce338ab2a74e1837ee04de?utm_campaign=Sales&utm_source=1103)** | Henrietta, NY | On Site | Oct 14 |
-| **[Serena & Lily](http://www.serenaandlily.com)** | **[Design Shop Advisor](https://jobright.ai/jobs/info/68cd7ff71ad6b16f0289a55b?utm_campaign=Sales&utm_source=1103)** | Westport, CT | On Site | Oct 14 |
-| **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Retail Front End Supervisor - Full-Time](https://jobright.ai/jobs/info/68d6f0d4d3fe025a3015d43f?utm_campaign=Sales&utm_source=1103)** | Elgin, IL | On Site | Oct 14 |
-| **[Next Door & Window](https://nextdoorandwindow.com)** | **[Showroom Coordinator](https://jobright.ai/jobs/info/68d63f374736ff202fdd13ed?utm_campaign=Sales&utm_source=1103)** | Arlington Heights, IL | Hybrid | Oct 14 |
-| **[Serena & Lily](http://www.serenaandlily.com)** | **[Design Shop Advisor](https://jobright.ai/jobs/info/68c9cd6f95f5211cd2cf4857?utm_campaign=Sales&utm_source=1103)** | Palo Alto, CA | On Site | Oct 14 |
-| **[Interior Logic Group, Inc.](http://interiorlogicgroup.com/)** | **[Account Manager - B2B Sales - Multifamily Flooring Installation](https://jobright.ai/jobs/info/68d1abf98c62e63bc7fce6d2?utm_campaign=Sales&utm_source=1103)** | Denver, CO | On Site | Oct 14 |
-| **[Helzberg Diamonds](https://www.helzberg.com/)** | **[Seasonal Associate](https://jobright.ai/jobs/info/6898df1c5574fd6bc0c7ab7e?utm_campaign=Sales&utm_source=1103)** | Fort Worth, TX | On Site | Oct 14 |
-| **[Camping World](http://www.campingworld.com/)** | **[Sales Development Rep](https://jobright.ai/jobs/info/68d196cc17554c2d9eedd061?utm_campaign=Sales&utm_source=1103)** | Tyler, TX | On Site | Oct 14 |
-| **[Vendition](https://vendition.com/)** | **[Sales Development Representative](https://jobright.ai/jobs/info/6823c4f255dd76da53d0225e?utm_campaign=Sales&utm_source=1103)** | SD Metro Area | Hybrid | Oct 14 |
-| **[Ulta Beauty](https://www.ulta.com)** | **[Seasonal Task Associate](https://jobright.ai/jobs/info/68d2874df0d9af73038d94a4?utm_campaign=Sales&utm_source=1103)** | Spokane, WA | On Site | Oct 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
