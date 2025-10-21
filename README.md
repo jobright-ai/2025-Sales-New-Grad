@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Paddio](https://www.paddio.com)** | **[Flex Loan Specialist](https://jobright.ai/jobs/info/68d469f777769e778f508c9d?utm_campaign=Sales&utm_source=1103)** | Springfield, MO | On Site | Oct 20 |
+| **[Centerfield](http://www.centerfield.com)** | **[Client Success Manager](https://jobright.ai/jobs/info/68daa4c26df7b8311bb108c7?utm_campaign=Sales&utm_source=1103)** | Los Angeles, CA | Hybrid | Oct 21 |
+| **[Movement Mortgage](https://movement.com)** | **[Inside Sales Agent](https://jobright.ai/jobs/info/68dafad90dffed6f83d2b7b7?utm_campaign=Sales&utm_source=1103)** | Fort Mill, SC | On Site | Oct 21 |
 | **[Rooms To Go](http://www.roomstogo.com/)** | **[Furniture Returns Associate II - Pay $15-18/hr dep](https://jobright.ai/jobs/info/68bc55073bf9eb44f8323d23?utm_campaign=Sales&utm_source=1103)** | Lakeland, FL | On Site | Oct 20 |
 | **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68bc585868300c452ca1569b?utm_campaign=Sales&utm_source=1103)** | Gaylord, MI | On Site | Oct 20 |
 | **[The Kolter Group](http://kolter.com)** | **[New Home Sales Specialist](https://jobright.ai/jobs/info/68d1caf717554c2d9eedfc41?utm_campaign=Sales&utm_source=1103)** | Port St Lucie, FL | On Site | Oct 20 |
@@ -124,7 +125,6 @@ For a complete list, click the following sortable link below:
 | **[Cox Communications](http://www.cox.com)** | **[Territory Sales Representative](https://jobright.ai/jobs/info/68d719b245853d0e39cccdde?utm_campaign=Sales&utm_source=1103)** | Tucson, AZ | On Site | Oct 16 |
 | **[Zscaler](https://www.zscaler.com)** | **[Sales Development Representative - LATAM](https://jobright.ai/jobs/info/689bdb9f79a9f96662534340?utm_campaign=Sales&utm_source=1103)** | North Carolina, United States | Hybrid | Oct 16 |
 | **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Seasonal Associate (6AM - 12PM) - The Summit](https://jobright.ai/jobs/info/68d49e3affc1276de3fdca0c?utm_campaign=Sales&utm_source=1103)** | Birmingham, AL | On Site | Oct 16 |
-| **[Cloudforce](https://www.gocloudforce.com)** | **[Associate Account Manager](https://jobright.ai/jobs/info/68b1b8bf1ade4306aa63163d?utm_campaign=Sales&utm_source=1103)** | DC-Baltimore Area | On Site | Oct 16 |
 | **[AUI Fine Foods](http://auifinefoods.com)** | **[Inside Sales Representative](https://jobright.ai/jobs/info/68c9b97d95f5211cd2cf35f8?utm_campaign=Sales&utm_source=1103)** | Gaithersburg, MD | On Site | Oct 16 |
 | **[Celero Commerce](https://www.celerocommerce.com/)** | **[National Account Executive (Inside Sales)- IL](https://jobright.ai/jobs/info/679984d2456cc0aeb6aedb6a?utm_campaign=Sales&utm_source=1103)** | Rosemont, IL | On Site | Oct 16 |
 | **[KOMPAN Inc Americas](https://www.kompan.com/en/us)** | **[Direct Sales Representative](https://jobright.ai/jobs/info/68a8d592d627244576e35df9?utm_campaign=Sales&utm_source=1103)** | League City, TX | Remote | Oct 16 |
@@ -387,7 +387,6 @@ For a complete list, click the following sortable link below:
 | **[Active International](http://activeinternational.com)** | **[Client Coordinator, Client Management](https://jobright.ai/jobs/info/68d2ddf2f0d9af73038dc48e?utm_campaign=Sales&utm_source=1103)** | Pearl River, NY | Hybrid | Oct 15 |
 | **[Gartner](http://www.gartner.com)** | **[Conference Sales Executive](https://jobright.ai/jobs/info/68d2e45b17554c2d9eeeb610?utm_campaign=Sales&utm_source=1103)** | Irving, TX | Hybrid | Oct 15 |
 | **[DoorDash](http://www.doordash.com)** | **[Sales Development Representative](https://jobright.ai/jobs/info/68b7cbf05e55be5e2604df6c?utm_campaign=Sales&utm_source=1103)** | Dallas, TX | On Site | Oct 15 |
-| **[TriNet](http://trinet.com)** | **[Sales Development Representative](https://jobright.ai/jobs/info/68cd0946b2a74e1837ed0f91?utm_campaign=Sales&utm_source=1103)** | Atlanta, GA | On Site | Oct 15 |
 | **[Ulta Beauty](https://www.ulta.com)** | **[Seasonal Task Associate](https://jobright.ai/jobs/info/68d1d9d98c62e63bc7fd0275?utm_campaign=Sales&utm_source=1103)** | Irvine, CA | On Site | Oct 15 |
 | **[EXPRESS](http://express.com)** | **[Sales Associate Keyholder](https://jobright.ai/jobs/info/68d1e085a54edb3bf3e16fe8?utm_campaign=Sales&utm_source=1103)** | Cerritos, CA | On Site | Oct 15 |
 | **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Selling Associate-Woodbridge PINK](https://jobright.ai/jobs/info/68984f3d83d13d1f5b68df8b?utm_campaign=Sales&utm_source=1103)** | Woodbridge, NJ | On Site | Oct 15 |
@@ -424,6 +423,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Development Rep](https://jobright.ai/jobs/info/68d198d917554c2d9eedd2c9?utm_campaign=Sales&utm_source=1103)** | Elkhart, IN | On Site | Oct 14 |
 | **[Ulta Beauty](https://www.ulta.com)** | **[Seasonal Task Associate](https://jobright.ai/jobs/info/68d1da5a8c62e63bc7fd030b?utm_campaign=Sales&utm_source=1103)** | Monrovia, CA | On Site | Oct 14 |
 | **[Amazon](https://amazon.com)** | **[Vendor/Buyer Manager, Amazon Fresh Grocery](https://jobright.ai/jobs/info/68d1e159a54edb3bf3e171a4?utm_campaign=Sales&utm_source=1103)** | Nashville, TN | On Site | Oct 14 |
+| **[TriNet](http://trinet.com)** | **[Sales Development Representative](https://jobright.ai/jobs/info/68cfc3af846f0b04af684d5e?utm_campaign=Sales&utm_source=1103)** | Atlanta, GA | On Site | Oct 14 |
 | **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Selling Associate-Washington Square VS](https://jobright.ai/jobs/info/68b59ac6bc187f64e1be7751?utm_campaign=Sales&utm_source=1103)** | Portland, OR | On Site | Oct 14 |
 | **[Ulta Beauty](https://www.ulta.com)** | **[Seasonal Task Associate](https://jobright.ai/jobs/info/68d1d8898c62e63bc7fd0137?utm_campaign=Sales&utm_source=1103)** | Pasadena, CA | On Site | Oct 14 |
 | **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Seasonal Associate (6AM-11AM) -Willowbrook VS](https://jobright.ai/jobs/info/68d261d48c62e63bc7fd75c7?utm_campaign=Sales&utm_source=1103)** | Wayne, NJ | On Site | Oct 14 |
@@ -434,14 +434,4 @@ For a complete list, click the following sortable link below:
 | **[Helzberg Diamonds](https://www.helzberg.com/)** | **[Seasonal Associate](https://jobright.ai/jobs/info/6898df2b83d13d1f5b69102e?utm_campaign=Sales&utm_source=1103)** | Fort Worth, TX | On Site | Oct 14 |
 | **[Concentrix](https://www.concentrix.com)** | **[Lead Development Representative](https://jobright.ai/jobs/info/68d6c2c6d3fe025a3015bc98?utm_campaign=Sales&utm_source=1103)** | Greenville, SC | On Site | Oct 14 |
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[Breast Care Sales Representative - Inland Empire, CA - Endoscopy](https://jobright.ai/jobs/info/68c65efa7d0db411427392db?utm_campaign=Sales&utm_source=1103)** | Riverside, CA | On Site | Oct 14 |
-| **[Rush Enterprises, Inc](http://www.rushenterprises.com/)** | **[Outside Sales Representative](https://jobright.ai/jobs/info/6899852b5574fd6bc0c7cf19?utm_campaign=Sales&utm_source=1103)** | Atlanta, GA | On Site | Oct 14 |
-| **[PLS Logistics Services](http://www.plslogistics.com)** | **[Sales Representative](https://jobright.ai/jobs/info/68cd7f711ad6b16f0289a435?utm_campaign=Sales&utm_source=1103)** | Cranberry Township, PA | On Site | Oct 14 |
-| **[The Cooper Group LLC](https://cooper-grp.com/)** | **[Sales Rep- FT/PT Work From Home](https://jobright.ai/jobs/info/68c841fff9c6ff7aedf0c3f1?utm_campaign=Sales&utm_source=1103)** | Ohio, United States | Remote | Oct 14 |
-| **[Milton CAT](http://www.miltoncat.com/Pages/default.aspx)** | **[Inside Sales Representative](https://jobright.ai/jobs/info/68478c93f76396f59fb38574?utm_campaign=Sales&utm_source=1103)** | North Syracuse, NY | On Site | Oct 14 |
-| **[Firebolt](https://www.firebolt.io)** | **[Sales Development Representative](https://jobright.ai/jobs/info/68cd1fe8b2a74e1837ed2c06?utm_campaign=Sales&utm_source=1103)** | San Francisco Bay Area | On Site | Oct 14 |
-| **[Camping World](http://www.campingworld.com/)** | **[Sales Development Rep](https://jobright.ai/jobs/info/68d199bacece431f8b585aff?utm_campaign=Sales&utm_source=1103)** | Fort Worth, TX | On Site | Oct 14 |
-| **[PLS Logistics Services](http://www.plslogistics.com)** | **[Sales Representative](https://jobright.ai/jobs/info/68cd78b1b2a74e1837ed73df?utm_campaign=Sales&utm_source=1103)** | Pittsburgh, PA | On Site | Oct 14 |
-| **[Goosehead Insurance](https://www.goosehead.com)** | **[Account Executive - The Nick Christensen Agency](https://jobright.ai/jobs/info/68c8614b95f5211cd2ce42fb?utm_campaign=Sales&utm_source=1103)** | Meridian, ID | On Site | Oct 14 |
-| **[Dignity Health](https://www.dignityhealth.org)** | **[Client Relations Executive Home Health](https://jobright.ai/jobs/info/68d4782d77769e778f5093ea?utm_campaign=Sales&utm_source=1103)** | Santa Maria, CA | On Site | Oct 14 |
-| **[Veronica Beard](http://veronicabeard.com)** | **[Sales Supervisor, Seattle](https://jobright.ai/jobs/info/68b0d5d32d46f6396cae8eb0?utm_campaign=Sales&utm_source=1103)** | Seattle, WA | On Site | Oct 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
