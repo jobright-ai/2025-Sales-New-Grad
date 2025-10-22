@@ -199,7 +199,6 @@ For a complete list, click the following sortable link below:
 | **[Leaf Home](https://www.leafhome.com/)** | **[LeafFilter - Territory Sales Representative - Joliet (Aurora)](https://jobright.ai/jobs/info/68c90efff9c6ff7aedf17086?utm_campaign=Sales&utm_source=1103)** | Aurora, IL | On Site | Oct 16 |
 | ↳ | **[LeafFilter - Outside Sales Representative - Scranton](https://jobright.ai/jobs/info/689726878c6d6b4426785d58?utm_campaign=Sales&utm_source=1103)** | Wilkes-Barre, PA | On Site | Oct 16 |
 | **[CMG Financial](http://www.cmgfi.com)** | **[Business Development Specialist (LO Training Program) (Tempe,AZ)](https://jobright.ai/jobs/info/68899c0d09808a6103e4929a?utm_campaign=Sales&utm_source=1103)** | Baltimore, MD | Hybrid | Oct 16 |
-| **[MyEyeDr.](http://www.MyEyeDr.com)** | **[Eyewear Customer Service/Sales Advisor](https://jobright.ai/jobs/info/68d48ca28c62e63bc7fea44e?utm_campaign=Sales&utm_source=1103)** | Crest Hill, IL | On Site | Oct 16 |
 | **[Rippling](https://www.rippling.com)** | **[SMB Account Executive, IT Cloud](https://jobright.ai/jobs/info/68d3c29b8c62e63bc7fe473d?utm_campaign=Sales&utm_source=1103)** | New York, NY | On Site | Oct 16 |
 | **[ADT](http://www.adt.com)** | **[Business Sales Representative](https://jobright.ai/jobs/info/68d1d67aa54edb3bf3e1697f?utm_campaign=Sales&utm_source=1103)** | Arden, NC | On Site | Oct 16 |
 | **[TDS Telecommunications LLC](http://www.tdstelecom.com)** | **[Field Sales Representative](https://jobright.ai/jobs/info/68d4eaab24b1ee4c7b661cad?utm_campaign=Sales&utm_source=1103)** | Spokane, WA | On Site | Oct 16 |
@@ -394,16 +393,4 @@ For a complete list, click the following sortable link below:
 | **[DoorDash](http://www.doordash.com)** | **[Sales Development Representative](https://jobright.ai/jobs/info/68cd9eabe23def7af55bce84?utm_campaign=Sales&utm_source=1103)** | Minneapolis, MN | On Site | Oct 15 |
 | **[Allstate](http://www.allstate.com)** | **[Licensed Sales Professional (LSP) - AZ](https://jobright.ai/jobs/info/68b77d102124650c140231cb?utm_campaign=Sales&utm_source=1103)** | Arizona, United States | Remote | Oct 15 |
 | **[The Tile Shop](http://www.tileshop.com/)** | **[Sales Design Consultant](https://jobright.ai/jobs/info/68d2f6e717554c2d9eeec33e?utm_campaign=Sales&utm_source=1103)** | Commack, NY | On Site | Oct 15 |
-| **[WebFX](https://www.webfx.com)** | **[Jr. Digital Communications Account Manager](https://jobright.ai/jobs/info/67eec162357dc4681d864284?utm_campaign=Sales&utm_source=1103)** | York, PA | On Site | Oct 15 |
-| **[The Tile Shop](http://www.tileshop.com/)** | **[Sales Associate](https://jobright.ai/jobs/info/689ba2cc79a9f96662532297?utm_campaign=Sales&utm_source=1103)** | Ypsilanti, MI | On Site | Oct 15 |
-| **[T-Mobile](https://www.t-mobile.com)** | **[Retail Associate Manager](https://jobright.ai/jobs/info/68ca1b63f16e3266d2822a0f?utm_campaign=Sales&utm_source=1103)** | Grand Forks, ND | On Site | Oct 15 |
-| **[Culligan Ultrapure](https://www.culliganiswater.com/)** | **[Household Sales Rep](https://jobright.ai/jobs/info/68a7e504d627244576e2f551?utm_campaign=Sales&utm_source=1103)** | Boone, IA | On Site | Oct 15 |
-| **[T-Mobile](https://www.t-mobile.com)** | **[Retail Associate Manager](https://jobright.ai/jobs/info/68ce4a86fb49c96ca6e9e891?utm_campaign=Sales&utm_source=1103)** | Hillsborough, NC | On Site | Oct 15 |
-| **[ZOLL Cardiac Management Solutions](https://cardiac.zoll.com/)** | **[Associate Territory Manager - Buffalo](https://jobright.ai/jobs/info/689b96b279a9f96662531af2?utm_campaign=Sales&utm_source=1103)** | Buffalo, NY | Remote | Oct 15 |
-| **[Ulta Beauty](https://www.ulta.com)** | **[Seasonal Task Associate](https://jobright.ai/jobs/info/68d24c2a8c62e63bc7fd6a5d?utm_campaign=Sales&utm_source=1103)** | Garden Grove, CA | On Site | Oct 15 |
-| **[Active International](http://activeinternational.com)** | **[Client Coordinator, Client Management](https://jobright.ai/jobs/info/68d2ddf2f0d9af73038dc48e?utm_campaign=Sales&utm_source=1103)** | Pearl River, NY | Hybrid | Oct 15 |
-| **[Gartner](http://www.gartner.com)** | **[Conference Sales Executive](https://jobright.ai/jobs/info/68d2e45b17554c2d9eeeb610?utm_campaign=Sales&utm_source=1103)** | Irving, TX | Hybrid | Oct 15 |
-| **[DoorDash](http://www.doordash.com)** | **[Sales Development Representative](https://jobright.ai/jobs/info/68b7cbf05e55be5e2604df6c?utm_campaign=Sales&utm_source=1103)** | Dallas, TX | On Site | Oct 15 |
-| **[Ulta Beauty](https://www.ulta.com)** | **[Seasonal Task Associate](https://jobright.ai/jobs/info/68d1d9d98c62e63bc7fd0275?utm_campaign=Sales&utm_source=1103)** | Irvine, CA | On Site | Oct 15 |
-| **[EXPRESS](http://express.com)** | **[Sales Associate Keyholder](https://jobright.ai/jobs/info/68d1e085a54edb3bf3e16fe8?utm_campaign=Sales&utm_source=1103)** | Cerritos, CA | On Site | Oct 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
