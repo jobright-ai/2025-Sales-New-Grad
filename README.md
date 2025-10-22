@@ -62,7 +62,8 @@ For a complete list, click the following sortable link below:
 | **[Neiman Marcus](https://www.neimanmarcusgroup.com)** | **[Designer Sportswear Client Advisor - Palo Alto](https://jobright.ai/jobs/info/68c0dce2702aa35207ab12d2?utm_campaign=Sales&utm_source=1103)** | Palo Alto, CA | Hybrid | Oct 22 |
 | **[Ulta Beauty](https://www.ulta.com)** | **[Seasonal Task Associate](https://jobright.ai/jobs/info/68d539641f7fb2169ab0df33?utm_campaign=Sales&utm_source=1103)** | Rancho Santa Margarita, CA | On Site | Oct 22 |
 | **[L'OCCITANE Group (B Corp)](https://group.loccitane.com/)** | **[Beauty Host - Full Time - Palo Alto](https://jobright.ai/jobs/info/68c085995c5d5f14f46debdd?utm_campaign=Sales&utm_source=1103)** | Palo Alto, CA | On Site | Oct 22 |
-| **[Humana](http://www.humana.com)** | **[Medicare Sales Field Agent - Burlington County, NJ](https://jobright.ai/jobs/info/68db031f0dffed6f83d2be11?utm_campaign=Sales&utm_source=1103)** | Mount Holly, NJ | Remote | Oct 21 |
+| **[Humana](http://www.humana.com)** | **[Medicare Sales Field Agent - Springfield, MO](https://jobright.ai/jobs/info/68db02fae9b48513789b1225?utm_campaign=Sales&utm_source=1103)** | Springfield, MO | Remote | Oct 21 |
+| ↳ | **[Medicare Sales Field Agent - Burlington County, NJ](https://jobright.ai/jobs/info/68db031f0dffed6f83d2be11?utm_campaign=Sales&utm_source=1103)** | Mount Holly, NJ | Remote | Oct 21 |
 | **[National Federation of Independent Business (NFIB)](http://www.nfib.com/)** | **[Outside Sales Representative](https://jobright.ai/jobs/info/68d6ad69d3fe025a3015b28c?utm_campaign=Sales&utm_source=1103)** | Oxford, AL | On Site | Oct 21 |
 | **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Seasonal Associate-Willowbrook PINK](https://jobright.ai/jobs/info/68bf8a365c5d5f14f46d7e63?utm_campaign=Sales&utm_source=1103)** | Wayne, NJ | On Site | Oct 21 |
 | **[Walmart](http://www.walmart.com)** | **[Seasonal Team Associate](https://jobright.ai/jobs/info/68db2e81e9b48513789b2722?utm_campaign=Sales&utm_source=1103)** | Hendersonville, TN | On Site | Oct 21 |
@@ -80,7 +81,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b5890e1ade4306aa642163?utm_campaign=Sales&utm_source=1103)** | Easton, MD | On Site | Oct 20 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b58744bc187f64e1be70b9?utm_campaign=Sales&utm_source=1103)** | Torrington, CT | On Site | Oct 20 |
 | **[Rooms To Go](http://www.roomstogo.com/)** | **[Furniture Returns Associate II - Pay $15-18/hr dep](https://jobright.ai/jobs/info/68bc55073bf9eb44f8323d23?utm_campaign=Sales&utm_source=1103)** | Lakeland, FL | On Site | Oct 20 |
-| **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68bc585868300c452ca1569b?utm_campaign=Sales&utm_source=1103)** | Gaylord, MI | On Site | Oct 20 |
 | **[Spirit Halloween](http://www.spirithalloween.com)** | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b4353e1ade4306aa63e0ee?utm_campaign=Sales&utm_source=1103)** | Allen Park, MI | On Site | Oct 20 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68ce3f5824dd5209002f0e79?utm_campaign=Sales&utm_source=1103)** | Rocky River, OH | On Site | Oct 20 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68bad7655f38327491869fba?utm_campaign=Sales&utm_source=1103)** | Woodbury, MN | On Site | Oct 20 |
@@ -136,7 +136,6 @@ For a complete list, click the following sortable link below:
 | **[AMBA](https://amba.info)** | **[Account Development Specialist](https://jobright.ai/jobs/info/68b9f0c28043103d4f21bfde?utm_campaign=Sales&utm_source=1103)** | Iowa City, IA | On Site | Oct 17 |
 | **[Lids](https://www.lids.com)** | **[Seasonal Part Time Sales Help](https://jobright.ai/jobs/info/68d5e2d92116ff37ee090e4b?utm_campaign=Sales&utm_source=1103)** | Montebello, CA | On Site | Oct 17 |
 | **[Food Lion](https://www.foodlion.com)** | **[PT Deli Bakery Sales Associate](https://jobright.ai/jobs/info/687f8f842097a271a899d44d?utm_campaign=Sales&utm_source=1103)** | Ocean City, MD | On Site | Oct 17 |
-| **[Brightway Insurance](http://www.brightway.com)** | **[Inside Insurance Agent](https://jobright.ai/jobs/info/68b98f7e6105227d11895b7e?utm_campaign=Sales&utm_source=1103)** | Cape Coral, FL | On Site | Oct 17 |
 | **[The Tile Shop](http://www.tileshop.com/)** | **[Sales Associate](https://jobright.ai/jobs/info/688091ce9f7280424570caf8?utm_campaign=Sales&utm_source=1103)** | Mentor, OH | On Site | Oct 17 |
 | **[VB Spine](https://vbspineco.com)** | **[Spine Sales Representative (Austin, TX)](https://jobright.ai/jobs/info/68d6666a894705799a2eb6d0?utm_campaign=Sales&utm_source=1103)** | Austin, TX | On Site | Oct 17 |
 | **[The Tile Shop](http://www.tileshop.com/)** | **[Sales Design Consultant](https://jobright.ai/jobs/info/6880f5e916ea5743a37347a0?utm_campaign=Sales&utm_source=1103)** | Columbia, SC | On Site | Oct 17 |
@@ -251,7 +250,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Licensed Sales Professional (LSP) - GA](https://jobright.ai/jobs/info/68b77eb2f4e41a61efd9957b?utm_campaign=Sales&utm_source=1103)** | Georgia, United States | On Site | Oct 16 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Retail Associate Manager](https://jobright.ai/jobs/info/68940674f47efe2113968c6e?utm_campaign=Sales&utm_source=1103)** | Ada, OK | On Site | Oct 16 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Retail Associate Manager](https://jobright.ai/jobs/info/68d5308e820803491963a07a?utm_campaign=Sales&utm_source=1103)** | Waterloo, IA | On Site | Oct 15 |
-| **[DoorDash](http://www.doordash.com)** | **[Sales Development Representative](https://jobright.ai/jobs/info/68b7ccdfa10b650604b60cde?utm_campaign=Sales&utm_source=1103)** | New Orleans, LA | On Site | Oct 15 |
-| **[T-Mobile](https://www.t-mobile.com)** | **[Retail Associate Manager](https://jobright.ai/jobs/info/68c8c7d4f9c6ff7aedf127cd?utm_campaign=Sales&utm_source=1103)** | Berea, KY | On Site | Oct 15 |
-| ↳ | **[Retail Associate Manager](https://jobright.ai/jobs/info/68c229954d652f044775d8e8?utm_campaign=Sales&utm_source=1103)** | St Louis, MO | On Site | Oct 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
