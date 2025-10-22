@@ -61,6 +61,7 @@ For a complete list, click the following sortable link below:
 | **[Spirit Halloween](http://www.spirithalloween.com)** | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68da978207c157682e56b316?utm_campaign=Sales&utm_source=1103)** | Louisville, KY | On Site | Oct 22 |
 | **[Neiman Marcus](https://www.neimanmarcusgroup.com)** | **[Designer Sportswear Client Advisor - Palo Alto](https://jobright.ai/jobs/info/68c0dce2702aa35207ab12d2?utm_campaign=Sales&utm_source=1103)** | Palo Alto, CA | Hybrid | Oct 22 |
 | **[Ulta Beauty](https://www.ulta.com)** | **[Seasonal Task Associate](https://jobright.ai/jobs/info/68d539641f7fb2169ab0df33?utm_campaign=Sales&utm_source=1103)** | Rancho Santa Margarita, CA | On Site | Oct 22 |
+| **[L'OCCITANE Group (B Corp)](https://group.loccitane.com/)** | **[Beauty Host - Full Time - Palo Alto](https://jobright.ai/jobs/info/68c085995c5d5f14f46debdd?utm_campaign=Sales&utm_source=1103)** | Palo Alto, CA | On Site | Oct 22 |
 | **[Humana](http://www.humana.com)** | **[Medicare Sales Field Agent - Burlington County, NJ](https://jobright.ai/jobs/info/68db031f0dffed6f83d2be11?utm_campaign=Sales&utm_source=1103)** | Mount Holly, NJ | Remote | Oct 21 |
 | **[National Federation of Independent Business (NFIB)](http://www.nfib.com/)** | **[Outside Sales Representative](https://jobright.ai/jobs/info/68d6ad69d3fe025a3015b28c?utm_campaign=Sales&utm_source=1103)** | Oxford, AL | On Site | Oct 21 |
 | **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Seasonal Associate-Willowbrook PINK](https://jobright.ai/jobs/info/68bf8a365c5d5f14f46d7e63?utm_campaign=Sales&utm_source=1103)** | Wayne, NJ | On Site | Oct 21 |
@@ -253,9 +254,4 @@ For a complete list, click the following sortable link below:
 | **[DoorDash](http://www.doordash.com)** | **[Sales Development Representative](https://jobright.ai/jobs/info/68b7ccdfa10b650604b60cde?utm_campaign=Sales&utm_source=1103)** | New Orleans, LA | On Site | Oct 15 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Retail Associate Manager](https://jobright.ai/jobs/info/68c8c7d4f9c6ff7aedf127cd?utm_campaign=Sales&utm_source=1103)** | Berea, KY | On Site | Oct 15 |
 | ↳ | **[Retail Associate Manager](https://jobright.ai/jobs/info/68c229954d652f044775d8e8?utm_campaign=Sales&utm_source=1103)** | St Louis, MO | On Site | Oct 15 |
-| ↳ | **[Account Executive, SMB Team Sales - Los Angeles and Area](https://jobright.ai/jobs/info/68b7e63ea10b650604b61dfd?utm_campaign=Sales&utm_source=1103)** | California, United States | On Site | Oct 15 |
-| **[Groundworks](https://www.groundworks.com)** | **[Outside Sales Representative](https://jobright.ai/jobs/info/689b3838faa4e875e825efcf?utm_campaign=Sales&utm_source=1103)** | Columbia, SC | On Site | Oct 15 |
-| **[EXPRESS](http://express.com)** | **[Sales Associate](https://jobright.ai/jobs/info/68b7fbd60514b74d7c3ec088?utm_campaign=Sales&utm_source=1103)** | Houston, TX | On Site | Oct 15 |
-| **[Prophet Homes](http://www.prophethomes.com)** | **[Investment Real Estate Agent - Austin, TX](https://jobright.ai/jobs/info/6780cef1ef5c7f30ed40135d?utm_campaign=Sales&utm_source=1103)** | Austin, TX | On Site | Oct 15 |
-| **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68d3149c8c62e63bc7fdd7da?utm_campaign=Sales&utm_source=1103)** | Lunenburg, MA | On Site | Oct 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
