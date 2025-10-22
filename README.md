@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ulta Beauty](https://www.ulta.com)** | **[Seasonal Task Associate](https://jobright.ai/jobs/info/68d539641f7fb2169ab0df33?utm_campaign=Sales&utm_source=1103)** | Rancho Santa Margarita, CA | On Site | Oct 22 |
 | **[National Federation of Independent Business (NFIB)](http://www.nfib.com/)** | **[Outside Sales Representative](https://jobright.ai/jobs/info/68d6ad69d3fe025a3015b28c?utm_campaign=Sales&utm_source=1103)** | Oxford, AL | On Site | Oct 21 |
 | **[Walmart](http://www.walmart.com)** | **[Seasonal Team Associate](https://jobright.ai/jobs/info/68db2e81e9b48513789b2722?utm_campaign=Sales&utm_source=1103)** | Hendersonville, TN | On Site | Oct 21 |
 | **[Humana](http://www.humana.com)** | **[Medicare Sales Field Agent - Prince George's County, MD](https://jobright.ai/jobs/info/68db02da0dffed6f83d2bdb8?utm_campaign=Sales&utm_source=1103)** | Bowie, MD | Remote | Oct 21 |
@@ -269,23 +270,4 @@ For a complete list, click the following sortable link below:
 | **[Rent-A-Center](https://www.rentacenter.com)** | **[Bilingual Assistant Manager - Sales](https://jobright.ai/jobs/info/68c7c6715c38e536d41a6d77?utm_campaign=Sales&utm_source=1103)** | Torrington, CT | On Site | Oct 15 |
 | **[Ulta Beauty](https://www.ulta.com)** | **[Seasonal Task Associate](https://jobright.ai/jobs/info/68d3d66617554c2d9eef4aae?utm_campaign=Sales&utm_source=1103)** | Lake Grove, NY | On Site | Oct 15 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Retail Associate Manager](https://jobright.ai/jobs/info/68cbf1d37342c7623ae5c934?utm_campaign=Sales&utm_source=1103)** | Henderson, NC | On Site | Oct 15 |
-| **[DoorDash](http://www.doordash.com)** | **[Sales Development Representative](https://jobright.ai/jobs/info/68b7cbd10514b74d7c3ea5ab?utm_campaign=Sales&utm_source=1103)** | Kansas City, MO | On Site | Oct 15 |
-| **[Lids](https://www.lids.com)** | **[Seasonal Part Time Sales Help](https://jobright.ai/jobs/info/68d302ab8c62e63bc7fdccc0?utm_campaign=Sales&utm_source=1103)** | Lubbock, TX | On Site | Oct 15 |
-| **[LiveRamp](http://www.liveramp.com)** | **[Sales Development Representative](https://jobright.ai/jobs/info/68d38f58952b4a32e23d6ff6?utm_campaign=Sales&utm_source=1103)** | San Francisco, CA | On Site | Oct 15 |
-| **[The CAR Group (Norm Reeves Dealerships)](https://www.normreeves.com)** | **[Honda Internet Sales](https://jobright.ai/jobs/info/68d333e1f0d9af73038dfdf0?utm_campaign=Sales&utm_source=1103)** | Irvine, CA | On Site | Oct 15 |
-| **[Louis Vuitton](http://www.louisvuitton.com)** | **[Client Advisor - Seattle Nordstrom](https://jobright.ai/jobs/info/6885afb54174df41e0f98465?utm_campaign=Sales&utm_source=1103)** | Seattle, WA | On Site | Oct 15 |
-| **[Weathermatic](http://weathermatic.com)** | **[Sales Development Representative](https://jobright.ai/jobs/info/68daa4c60b832179ca4af493?utm_campaign=Sales&utm_source=1103)** | Dallas, TX | On Site | Oct 15 |
-| **[T-Mobile](https://www.t-mobile.com)** | **[Retail Associate Manager](https://jobright.ai/jobs/info/68c91c8ea0c52d598ea35e6c?utm_campaign=Sales&utm_source=1103)** | West St Paul, MN | On Site | Oct 15 |
-| **[Allstate](http://www.allstate.com)** | **[Licensed Sales Professional (LSP) - MO](https://jobright.ai/jobs/info/68b77d932124650c1402326f?utm_campaign=Sales&utm_source=1103)** | Missouri, United States | Remote | Oct 15 |
-| **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Seasonal Associate Processing ( 9pm-2am/5am-12pm)](https://jobright.ai/jobs/info/68d2a59ff0d9af73038d9fbe?utm_campaign=Sales&utm_source=1103)** | Des Peres, MO | On Site | Oct 15 |
-| **[Convergint](http://www.convergint.com)** | **[2026 College Development Program - Sales (Financial Vertical)](https://jobright.ai/jobs/info/68d326f58c62e63bc7fde209?utm_campaign=Sales&utm_source=1103)** | United States | Remote | Oct 15 |
-| **[Camping World](http://www.campingworld.com/)** | **[Sales Development Rep](https://jobright.ai/jobs/info/68b5dd7abc187f64e1be865e?utm_campaign=Sales&utm_source=1103)** | Golden, CO | On Site | Oct 15 |
-| **[Scotiabank](https://www.scotiabank.com)** | **[Associate, US FX Institutional and Sponsor Sales](https://jobright.ai/jobs/info/68d3d0295ae5a90cfd481c30?utm_campaign=Sales&utm_source=1103)** | New York, NY | On Site | Oct 15 |
-| **[Circle Logistics, Inc](http://circledelivers.com)** | **[Entry-Level Inside Sales Representative](https://jobright.ai/jobs/info/67acdc79052f609745204da7?utm_campaign=Sales&utm_source=1103)** | Orlando, FL | On Site | Oct 15 |
-| ↳ | **[Entry- Level Inside Sales Representative](https://jobright.ai/jobs/info/67edad4847a7de490f7c31a4?utm_campaign=Sales&utm_source=1103)** | Tinley Park, IL | On Site | Oct 15 |
-| **[Engine](http://www.engine.com)** | **[Account Executive (Chicago)](https://jobright.ai/jobs/info/68cbedcc7342c7623ae5c42a?utm_campaign=Sales&utm_source=1103)** | Chicago, IL | On Site | Oct 15 |
-| **[United Rentals](http://www.unitedrentals.com)** | **[Sales Development Program Sales Associate - Fluid Solutions](https://jobright.ai/jobs/info/68ba9d556105227d1189fa91?utm_campaign=Sales&utm_source=1103)** | South Gate, CA | On Site | Oct 15 |
-| **[PMA USA (Performance Matters Associates, Inc.)](http://www.pmausainc.com/)** | **[Territory Sales Representative (80k-100k)](https://jobright.ai/jobs/info/65e0a6b1516082ea5e2e160e?utm_campaign=Sales&utm_source=1103)** | Paducah, KY | Hybrid | Oct 15 |
-| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Merchandise Specialist](https://jobright.ai/jobs/info/687e199e764c3d7411c416c5?utm_campaign=Sales&utm_source=1103)** | Ocean Township, NJ | On Site | Oct 15 |
-| **[PMA USA (Performance Matters Associates, Inc.)](http://www.pmausainc.com/)** | **[Territory Sales Representative (80,000-100,000)](https://jobright.ai/jobs/info/65e0a6b1516082ea5e2e15f3?utm_campaign=Sales&utm_source=1103)** | Columbia, MO | Hybrid | Oct 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
