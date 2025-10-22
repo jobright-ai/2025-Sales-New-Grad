@@ -68,8 +68,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68daf2cf07c157682e57003a?utm_campaign=Sales&utm_source=1103)** | Rockaway, NJ | On Site | Oct 20 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b59143bc187f64e1be7379?utm_campaign=Sales&utm_source=1103)** | Doylestown, PA | On Site | Oct 20 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b1a04cbc187f64e1bd5aca?utm_campaign=Sales&utm_source=1103)** | Montclair, CA | On Site | Oct 20 |
-| ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68c5b7017d0db41142734e26?utm_campaign=Sales&utm_source=1103)** | Santa Rosa, CA | On Site | Oct 20 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b592931ade4306aa6423f1?utm_campaign=Sales&utm_source=1103)** | Countryside, IL | On Site | Oct 20 |
+| ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68ce3ce31ad6b16f028a33f4?utm_campaign=Sales&utm_source=1103)** | Santa Rosa, CA | On Site | Oct 20 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b5890e1ade4306aa642163?utm_campaign=Sales&utm_source=1103)** | Easton, MD | On Site | Oct 20 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b58744bc187f64e1be70b9?utm_campaign=Sales&utm_source=1103)** | Torrington, CT | On Site | Oct 20 |
 | **[Rooms To Go](http://www.roomstogo.com/)** | **[Furniture Returns Associate II - Pay $15-18/hr dep](https://jobright.ai/jobs/info/68bc55073bf9eb44f8323d23?utm_campaign=Sales&utm_source=1103)** | Lakeland, FL | On Site | Oct 20 |
@@ -78,7 +78,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68ce3f5824dd5209002f0e79?utm_campaign=Sales&utm_source=1103)** | Rocky River, OH | On Site | Oct 20 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68bad7655f38327491869fba?utm_campaign=Sales&utm_source=1103)** | Woodbury, MN | On Site | Oct 20 |
 | **[The Kolter Group](http://kolter.com)** | **[New Home Sales Specialist](https://jobright.ai/jobs/info/68d1caf717554c2d9eedfc41?utm_campaign=Sales&utm_source=1103)** | Port St Lucie, FL | On Site | Oct 20 |
-| **[Spirit Halloween](http://www.spirithalloween.com)** | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68daef636df7b8311bb143a4?utm_campaign=Sales&utm_source=1103)** | Sand City, CA | On Site | Oct 20 |
+| **[Spirit Halloween](http://www.spirithalloween.com)** | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68bd7675c4c5904ff60038e8?utm_campaign=Sales&utm_source=1103)** | Richland, WA | On Site | Oct 20 |
+| ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/6872a073a5ae807a59d06dc3?utm_campaign=Sales&utm_source=1103)** | Monterey, CA | On Site | Oct 20 |
+| ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b2eccbbc187f64e1bdf557?utm_campaign=Sales&utm_source=1103)** | North Lakeport, MI | On Site | Oct 20 |
+| ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68daef636df7b8311bb143a4?utm_campaign=Sales&utm_source=1103)** | Sand City, CA | On Site | Oct 20 |
 | **[Spirit Halloween](http://www.spirithalloween.com)** | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b58f7ef4e41a61efd9026b?utm_campaign=Sales&utm_source=1103)** | Wyomissing, PA | On Site | Oct 19 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68c95d69a0c52d598ea36bd0?utm_campaign=Sales&utm_source=1103)** | Belton, MO | On Site | Oct 19 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68daece10dffed6f83d2abde?utm_campaign=Sales&utm_source=1103)** | Cockeysville, MD | On Site | Oct 19 |
@@ -285,21 +288,4 @@ For a complete list, click the following sortable link below:
 | **[PMA USA (Performance Matters Associates, Inc.)](http://www.pmausainc.com/)** | **[Territory Sales Representative (80k-100k)](https://jobright.ai/jobs/info/65e0a6b1516082ea5e2e160e?utm_campaign=Sales&utm_source=1103)** | Paducah, KY | Hybrid | Oct 15 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Merchandise Specialist](https://jobright.ai/jobs/info/687e199e764c3d7411c416c5?utm_campaign=Sales&utm_source=1103)** | Ocean Township, NJ | On Site | Oct 15 |
 | **[PMA USA (Performance Matters Associates, Inc.)](http://www.pmausainc.com/)** | **[Territory Sales Representative (80,000-100,000)](https://jobright.ai/jobs/info/65e0a6b1516082ea5e2e15f3?utm_campaign=Sales&utm_source=1103)** | Columbia, MO | Hybrid | Oct 15 |
-| **[Allstate](http://www.allstate.com)** | **[Licensed Sales Professional (LSP) - OH](https://jobright.ai/jobs/info/68b779c41ade4306aa64b40d?utm_campaign=Sales&utm_source=1103)** | Ohio, United States | On Site | Oct 15 |
-| **[Morgan Stanley](http://www.morganstanley.com)** | **[Client Relationship Analyst](https://jobright.ai/jobs/info/68d2ef88f0d9af73038dd047?utm_campaign=Sales&utm_source=1103)** | Barrington, IL | On Site | Oct 15 |
-| **[PMA USA (Performance Matters Associates, Inc.)](http://www.pmausainc.com/)** | **[Territory Sales Representative (80k - 100k)](https://jobright.ai/jobs/info/67479c449dbf72e88f4c1ba0?utm_campaign=Sales&utm_source=1103)** | Salem, IL | On Site | Oct 15 |
-| **[David Yurman](http://www.davidyurman.com)** | **[Seasonal Sales Support / Denver, Co](https://jobright.ai/jobs/info/68a3c8fe1ab5f8579e8a82f6?utm_campaign=Sales&utm_source=1103)** | Denver, CO | Hybrid | Oct 15 |
-| ↳ | **[Seasonal Sales Support / Glendale](https://jobright.ai/jobs/info/68c9d44b95f5211cd2cf4d0b?utm_campaign=Sales&utm_source=1103)** | Glendale, CA | Hybrid | Oct 15 |
-| **[TruGreen](http://trugreen.com)** | **[Territory Sales Representative](https://jobright.ai/jobs/info/67413ae1f28c48a2df7b26cd?utm_campaign=Sales&utm_source=1103)** | Baltimore, MD | On Site | Oct 15 |
-| **[Applied Industrial Technologies](http://www.applied.com)** | **[Account Manager / Outside Sales - Fluid Power](https://jobright.ai/jobs/info/68d2fa5217554c2d9eeec97b?utm_campaign=Sales&utm_source=1103)** | Kent, WA | Remote | Oct 15 |
-| **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Wealth Management Associate - Entry Level](https://jobright.ai/jobs/info/68d1763ffa731f61692df12c?utm_campaign=Sales&utm_source=1103)** | NYC Metro Area | On Site | Oct 15 |
-| **[Ulta Beauty](https://www.ulta.com)** | **[Seasonal Task Associate](https://jobright.ai/jobs/info/68d32d2917554c2d9eeee6ef?utm_campaign=Sales&utm_source=1103)** | Paso Robles, CA | On Site | Oct 15 |
-| **[Sazerac Company](https://www.sazerac.com/)** | **[Market Development Representative - Illinois - Chicago - Tel Sales](https://jobright.ai/jobs/info/689a4e0283d13d1f5b697f48?utm_campaign=Sales&utm_source=1103)** | Chicago, IL | On Site | Oct 15 |
-| **[David Yurman](http://www.davidyurman.com)** | **[Seasonal Sales Support / The Forum Shops](https://jobright.ai/jobs/info/68a4ecad758f2e4ac3fdada0?utm_campaign=Sales&utm_source=1103)** | Las Vegas, NV | Hybrid | Oct 15 |
-| **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Wealth Management Associate](https://jobright.ai/jobs/info/682b592e9d48a2fef5d12daa?utm_campaign=Sales&utm_source=1103)** | New York, NY | On Site | Oct 15 |
-| **[Helzberg Diamonds](https://www.helzberg.com/)** | **[Seasonal Associate](https://jobright.ai/jobs/info/6898dfecfaa4e875e8250c65?utm_campaign=Sales&utm_source=1103)** | Branson, MO | On Site | Oct 15 |
-| **[Priority1](http://priority1inc.com)** | **[Territory Manager- Outside Sales](https://jobright.ai/jobs/info/67993bedea9aca6fecc6f97a?utm_campaign=Sales&utm_source=1103)** | Austin, TX | On Site | Oct 15 |
-| **[Allstate](http://www.allstate.com)** | **[Licensed Inside Sales Representative (Remote - Home Based Work)](https://jobright.ai/jobs/info/68d2a3f617554c2d9eee8b65?utm_campaign=Sales&utm_source=1103)** | Madison, WI | Remote | Oct 15 |
-| **[Bankers Life](https://www.bankerslife.com)** | **[Financial Services Professional](https://jobright.ai/jobs/info/68c9d295f9c6ff7aedf1e306?utm_campaign=Sales&utm_source=1103)** | Waterloo-CF Area | On Site | Oct 15 |
-| **[Mutual of Omaha Mortgage](https://www.mutualmortgage.com)** | **[Reverse Mortgage Originator Development Program](https://jobright.ai/jobs/info/68b77cd22124650c14023178?utm_campaign=Sales&utm_source=1103)** | Omaha, NE | On Site | Oct 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
