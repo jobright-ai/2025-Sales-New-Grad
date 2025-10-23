@@ -58,11 +58,16 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[Breast Care Sales Representative - Inland Empire, CA - Endoscopy](https://jobright.ai/jobs/info/68c65efa7d0db411427392db?utm_campaign=Sales&utm_source=1103)** | Riverside, CA | On Site | Oct 22 |
+| **[Spirit Halloween](http://www.spirithalloween.com)** | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b5890e1ade4306aa642163?utm_campaign=Sales&utm_source=1103)** | Easton, MD | On Site | Oct 22 |
+| ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b58744bc187f64e1be70b9?utm_campaign=Sales&utm_source=1103)** | Torrington, CT | On Site | Oct 22 |
 | **[Abercrombie & Fitch Co.](http://abercrombie.com)** | **[Hollister Co. - Assistant Manager, Weberstown](https://jobright.ai/jobs/info/68c0870a5c5d5f14f46ded3c?utm_campaign=Sales&utm_source=1103)** | Stockton, CA | On Site | Oct 22 |
 | **[Spirit Halloween](http://www.spirithalloween.com)** | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68da978207c157682e56b316?utm_campaign=Sales&utm_source=1103)** | Louisville, KY | On Site | Oct 22 |
 | **[Neiman Marcus](https://www.neimanmarcusgroup.com)** | **[Designer Sportswear Client Advisor - Palo Alto](https://jobright.ai/jobs/info/68c0dce2702aa35207ab12d2?utm_campaign=Sales&utm_source=1103)** | Palo Alto, CA | Hybrid | Oct 22 |
 | **[Ulta Beauty](https://www.ulta.com)** | **[Seasonal Task Associate](https://jobright.ai/jobs/info/68d539641f7fb2169ab0df33?utm_campaign=Sales&utm_source=1103)** | Rancho Santa Margarita, CA | On Site | Oct 22 |
+| **[ADP](http://www.adp.com)** | **[Entry Level Outside Sales Associate](https://jobright.ai/jobs/info/68d7155245853d0e39ccccbc?utm_campaign=Sales&utm_source=1103)** | Pleasanton, CA | On Site | Oct 22 |
+| ↳ | **[Entry Level Outside Sales Rep](https://jobright.ai/jobs/info/68c14b803fd8b059a20ef5e7?utm_campaign=Sales&utm_source=1103)** | Rancho Cucamonga, CA | On Site | Oct 22 |
 | **[L'OCCITANE Group (B Corp)](https://group.loccitane.com/)** | **[Beauty Host - Full Time - Palo Alto](https://jobright.ai/jobs/info/68c085995c5d5f14f46debdd?utm_campaign=Sales&utm_source=1103)** | Palo Alto, CA | On Site | Oct 22 |
+| **[Arjo](https://www.arjo.com/int/)** | **[Associate Account Executive - Long Term Care (northeast)](https://jobright.ai/jobs/info/68dac9c507c157682e56d970?utm_campaign=Sales&utm_source=1103)** | Boston, MA | Remote | Oct 21 |
 | **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Seasonal Associate-Roosevelt Field PINK](https://jobright.ai/jobs/info/68bf89de702aa35207aa7498?utm_campaign=Sales&utm_source=1103)** | Garden City, NY | On Site | Oct 21 |
 | **[Humana](http://www.humana.com)** | **[Medicare Sales Field Agent - Springfield, MO](https://jobright.ai/jobs/info/68db02fae9b48513789b1225?utm_campaign=Sales&utm_source=1103)** | Springfield, MO | Remote | Oct 21 |
 | ↳ | **[Medicare Sales Field Agent - Burlington County, NJ](https://jobright.ai/jobs/info/68db031f0dffed6f83d2be11?utm_campaign=Sales&utm_source=1103)** | Mount Holly, NJ | Remote | Oct 21 |
@@ -78,10 +83,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68daf2cf07c157682e57003a?utm_campaign=Sales&utm_source=1103)** | Rockaway, NJ | On Site | Oct 20 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b59143bc187f64e1be7379?utm_campaign=Sales&utm_source=1103)** | Doylestown, PA | On Site | Oct 20 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b1a04cbc187f64e1bd5aca?utm_campaign=Sales&utm_source=1103)** | Montclair, CA | On Site | Oct 20 |
+| ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68c5b7017d0db41142734e26?utm_campaign=Sales&utm_source=1103)** | Santa Rosa, CA | On Site | Oct 20 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b592931ade4306aa6423f1?utm_campaign=Sales&utm_source=1103)** | Countryside, IL | On Site | Oct 20 |
-| ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68ce3ce31ad6b16f028a33f4?utm_campaign=Sales&utm_source=1103)** | Santa Rosa, CA | On Site | Oct 20 |
-| ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b5890e1ade4306aa642163?utm_campaign=Sales&utm_source=1103)** | Easton, MD | On Site | Oct 20 |
-| ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b58744bc187f64e1be70b9?utm_campaign=Sales&utm_source=1103)** | Torrington, CT | On Site | Oct 20 |
 | **[Rooms To Go](http://www.roomstogo.com/)** | **[Furniture Returns Associate II - Pay $15-18/hr dep](https://jobright.ai/jobs/info/68bc55073bf9eb44f8323d23?utm_campaign=Sales&utm_source=1103)** | Lakeland, FL | On Site | Oct 20 |
 | **[Spirit Halloween](http://www.spirithalloween.com)** | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b4353e1ade4306aa63e0ee?utm_campaign=Sales&utm_source=1103)** | Allen Park, MI | On Site | Oct 20 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68ce3f5824dd5209002f0e79?utm_campaign=Sales&utm_source=1103)** | Rocky River, OH | On Site | Oct 20 |
@@ -92,7 +95,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/6872a073a5ae807a59d06dc3?utm_campaign=Sales&utm_source=1103)** | Monterey, CA | On Site | Oct 20 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b2eccbbc187f64e1bdf557?utm_campaign=Sales&utm_source=1103)** | North Lakeport, MI | On Site | Oct 20 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68daef636df7b8311bb143a4?utm_campaign=Sales&utm_source=1103)** | Sand City, CA | On Site | Oct 20 |
-| **[Spirit Halloween](http://www.spirithalloween.com)** | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b58f7ef4e41a61efd9026b?utm_campaign=Sales&utm_source=1103)** | Wyomissing, PA | On Site | Oct 19 |
+| **[Spirit Halloween](http://www.spirithalloween.com)** | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68bd7b42c4c5904ff6003957?utm_campaign=Sales&utm_source=1103)** | Saugus, MA | On Site | Oct 19 |
+| ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b58f7ef4e41a61efd9026b?utm_campaign=Sales&utm_source=1103)** | Wyomissing, PA | On Site | Oct 19 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68c95d69a0c52d598ea36bd0?utm_campaign=Sales&utm_source=1103)** | Belton, MO | On Site | Oct 19 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68daece10dffed6f83d2abde?utm_campaign=Sales&utm_source=1103)** | Cockeysville, MD | On Site | Oct 19 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68cd54aa1ad6b16f0289817a?utm_campaign=Sales&utm_source=1103)** | East Wenatchee, WA | On Site | Oct 19 |
@@ -146,7 +150,6 @@ For a complete list, click the following sortable link below:
 | **[Emerson](http://www.emerson.com)** | **[Technical Sales Representative - SC](https://jobright.ai/jobs/info/68b9e93b8043103d4f21bacd?utm_campaign=Sales&utm_source=1103)** | Columbia, SC | Remote | Oct 17 |
 | **[The Tile Shop](http://www.tileshop.com/)** | **[Sales Design Consultant](https://jobright.ai/jobs/info/684791e3a68549ec1577bf32?utm_campaign=Sales&utm_source=1103)** | Nashville, TN | On Site | Oct 17 |
 | **[Premium Merchant Funding](https://pmfus.com/)** | **[Entry Level Sales Representative](https://jobright.ai/jobs/info/6895588e4ed2ea559ca55264?utm_campaign=Sales&utm_source=1103)** | Aventura, FL | On Site | Oct 17 |
-| **[TikTok](https://www.tiktok.com)** | **[Strategic Partner Manager Graduate (TikTok Shop - Operations) - 2026 Start (MBA)](https://jobright.ai/jobs/info/68ba40d15f3832749186584e?utm_campaign=Sales&utm_source=1103)** | Los Angeles, CA | On Site | Oct 17 |
 | **[Autodesk](http://www.autodesk.com)** | **[Inside Sales Representative - Net New Business](https://jobright.ai/jobs/info/68d5b6cf2116ff37ee08fb5d?utm_campaign=Sales&utm_source=1103)** | New York, United States | Hybrid | Oct 17 |
 | **[Ulta Beauty](https://www.ulta.com)** | **[Seasonal Task Associate](https://jobright.ai/jobs/info/68d4e349ffc1276de3fdf152?utm_campaign=Sales&utm_source=1103)** | North Brunswick, NJ | On Site | Oct 16 |
 | **[Weedmaps](http://weedmaps.com)** | **[Associate Lead Generation Specialist, Temporary](https://jobright.ai/jobs/info/68d2001f8c62e63bc7fd22b1?utm_campaign=Sales&utm_source=1103)** | Irvine, CA | On Site | Oct 16 |
@@ -206,32 +209,4 @@ For a complete list, click the following sortable link below:
 | **[Leaf Home](https://www.leafhome.com/)** | **[LeafFilter - Outside Sales Representative - Columbia](https://jobright.ai/jobs/info/6890d282f5ee707a15db9ebe?utm_campaign=Sales&utm_source=1103)** | Columbia, MO | On Site | Oct 16 |
 | **[AdRoll](https://www.adroll.com)** | **[Sales Development Representative](https://jobright.ai/jobs/info/68a80579d627244576e302cd?utm_campaign=Sales&utm_source=1103)** | Chicago, IL | On Site | Oct 16 |
 | **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Selling Associate-Miller Hill VS](https://jobright.ai/jobs/info/687f3e639f72804245702687?utm_campaign=Sales&utm_source=1103)** | Duluth, MN | On Site | Oct 16 |
-| **[Leaf Home](https://www.leafhome.com/)** | **[LeafFilter - Territory Sales Representative - Joliet (Aurora)](https://jobright.ai/jobs/info/68c90efff9c6ff7aedf17086?utm_campaign=Sales&utm_source=1103)** | Aurora, IL | On Site | Oct 16 |
-| ↳ | **[LeafFilter - Outside Sales Representative - Scranton](https://jobright.ai/jobs/info/689726878c6d6b4426785d58?utm_campaign=Sales&utm_source=1103)** | Wilkes-Barre, PA | On Site | Oct 16 |
-| **[CMG Financial](http://www.cmgfi.com)** | **[Business Development Specialist (LO Training Program) (Tempe,AZ)](https://jobright.ai/jobs/info/68899c0d09808a6103e4929a?utm_campaign=Sales&utm_source=1103)** | Baltimore, MD | Hybrid | Oct 16 |
-| **[Rippling](https://www.rippling.com)** | **[SMB Account Executive, IT Cloud](https://jobright.ai/jobs/info/68d3c29b8c62e63bc7fe473d?utm_campaign=Sales&utm_source=1103)** | New York, NY | On Site | Oct 16 |
-| **[ADT](http://www.adt.com)** | **[Business Sales Representative](https://jobright.ai/jobs/info/68d1d67aa54edb3bf3e1697f?utm_campaign=Sales&utm_source=1103)** | Arden, NC | On Site | Oct 16 |
-| **[TDS Telecommunications LLC](http://www.tdstelecom.com)** | **[Field Sales Representative](https://jobright.ai/jobs/info/68d4eaab24b1ee4c7b661cad?utm_campaign=Sales&utm_source=1103)** | Spokane, WA | On Site | Oct 16 |
-| **[ADP](http://www.adp.com)** | **[Entry Level outside Sales](https://jobright.ai/jobs/info/68b8f4145b42bc456282945f?utm_campaign=Sales&utm_source=1103)** | Parsippany, NJ | On Site | Oct 16 |
-| **[Beyond Finance](http://www.beyondfinance.com)** | **[Inside Sales Representative (Hybrid)](https://jobright.ai/jobs/info/689bc7ff83d13d1f5b6a36a7?utm_campaign=Sales&utm_source=1103)** | Houston, TX | Hybrid | Oct 16 |
-| **[Montblanc](http://www.montblanc.com/)** | **[Key Holder - Las Vegas Forum](https://jobright.ai/jobs/info/68d4384f17554c2d9eef70c6?utm_campaign=Sales&utm_source=1103)** | Las Vegas, NV | On Site | Oct 16 |
-| **[ADP](http://www.adp.com)** | **[Sales Representative (Entry-Level B2B)](https://jobright.ai/jobs/info/68b6de512124650c1401e167?utm_campaign=Sales&utm_source=1103)** | Rochester, NY | On Site | Oct 16 |
-| **[Leaf Home](https://www.leafhome.com/)** | **[LeafFilter - Territory Sales Representative - Erie (Millcreek)](https://jobright.ai/jobs/info/68d4fbb5e678d65ec7d8a523?utm_campaign=Sales&utm_source=1103)** | Millcreek, PA | On Site | Oct 16 |
-| **[ADP](http://www.adp.com)** | **[HRO TotalSource Accountant Specialist](https://jobright.ai/jobs/info/68cf80cedbd9fb154ede85d4?utm_campaign=Sales&utm_source=1103)** | Culver City, CA | On Site | Oct 16 |
-| **[Leaf Home](https://www.leafhome.com/)** | **[LeafFilter - Territory Sales Representative - Long Island (North Eastport)](https://jobright.ai/jobs/info/68d2e52ef0d9af73038dc84d?utm_campaign=Sales&utm_source=1103)** | Eastport, NY | On Site | Oct 16 |
-| ↳ | **[Leaf Filter - Outside Sales Representative - South Carolina (Myrtle Beach)](https://jobright.ai/jobs/info/68d4d10effc1276de3fde585?utm_campaign=Sales&utm_source=1103)** | Myrtle Beach, SC | On Site | Oct 16 |
-| **[Uber](http://www.uber.com)** | **[Account Representative, Chicago](https://jobright.ai/jobs/info/68ce5516dbd9fb154edde821?utm_campaign=Sales&utm_source=1103)** | Chicago, IL | On Site | Oct 16 |
-| **[T-Mobile](https://www.t-mobile.com)** | **[Account Executive, SMB Team Sales - Hartford/New Haven, CT](https://jobright.ai/jobs/info/68cf2cda846f0b04af67fb1e?utm_campaign=Sales&utm_source=1103)** | Connecticut, United States | On Site | Oct 16 |
-| **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68d318f68c62e63bc7fddbc7?utm_campaign=Sales&utm_source=1103)** | Springfield, IL | On Site | Oct 16 |
-| **[The Tile Shop](http://www.tileshop.com/)** | **[Sales Design Consultant](https://jobright.ai/jobs/info/689a3e3f5574fd6bc0c80d26?utm_campaign=Sales&utm_source=1103)** | Glen Allen, VA | On Site | Oct 16 |
-| ↳ | **[Sales Design Consultant](https://jobright.ai/jobs/info/689a40ce5574fd6bc0c80f50?utm_campaign=Sales&utm_source=1103)** | Louisville, KY | On Site | Oct 16 |
-| **[Goosehead Insurance](https://www.goosehead.com)** | **[Account Executive- The Cernyar Agency](https://jobright.ai/jobs/info/68d4285117554c2d9eef6526?utm_campaign=Sales&utm_source=1103)** | Christmas City, UT | On Site | Oct 16 |
-| **[Leaf Home](https://www.leafhome.com/)** | **[LeafFilter - Outside Sales Representative - Las Vegas (St. George)](https://jobright.ai/jobs/info/68cd534f1ad6b16f02897e7a?utm_campaign=Sales&utm_source=1103)** | St George, UT | On Site | Oct 16 |
-| **[T-Mobile](https://www.t-mobile.com)** | **[Account Executive, SMB Team Sales - Spokane, WA](https://jobright.ai/jobs/info/689d86a183d13d1f5b6b1321?utm_campaign=Sales&utm_source=1103)** | Washington, United States | On Site | Oct 16 |
-| **[Goosehead Insurance](https://www.goosehead.com)** | **[Account Executive - The Cayero Agency](https://jobright.ai/jobs/info/68d428e7ffc1276de3fd7d85?utm_campaign=Sales&utm_source=1103)** | Agency, MO | On Site | Oct 16 |
-| **[The Tile Shop](http://www.tileshop.com/)** | **[Sales Associate](https://jobright.ai/jobs/info/689ba3f4faa4e875e8261fb8?utm_campaign=Sales&utm_source=1103)** | Cincinnati, OH | On Site | Oct 16 |
-| ↳ | **[Assistant Sales Manager](https://jobright.ai/jobs/info/687eeb34db19f31cf0d6e22d?utm_campaign=Sales&utm_source=1103)** | Lake Zurich, IL | On Site | Oct 16 |
-| **[WebFX](https://www.webfx.com)** | **[Jr. Digital Communications Account Manager](https://jobright.ai/jobs/info/67eec162357dc4681d86424b?utm_campaign=Sales&utm_source=1103)** | Harrisburg, PA | On Site | Oct 16 |
-| **[Goosehead Insurance](https://www.goosehead.com)** | **[Account Executive- The Helfman Agency](https://jobright.ai/jobs/info/68d425d2ffc1276de3fd79ad?utm_campaign=Sales&utm_source=1103)** | Plantation, FL | On Site | Oct 16 |
-| **[TikTok](https://www.tiktok.com)** | **[Creator Partnerships Manager Graduate (TikTok Shop- Global Selling) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68d50b9124b1ee4c7b663800?utm_campaign=Sales&utm_source=1103)** | Los Angeles, CA | On Site | Oct 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
