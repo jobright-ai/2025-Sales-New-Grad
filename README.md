@@ -86,8 +86,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68daf2cf07c157682e57003a?utm_campaign=Sales&utm_source=1103)** | Rockaway, NJ | On Site | Oct 20 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b59143bc187f64e1be7379?utm_campaign=Sales&utm_source=1103)** | Doylestown, PA | On Site | Oct 20 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b1a04cbc187f64e1bd5aca?utm_campaign=Sales&utm_source=1103)** | Montclair, CA | On Site | Oct 20 |
+| ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68c5b7017d0db41142734e26?utm_campaign=Sales&utm_source=1103)** | Santa Rosa, CA | On Site | Oct 20 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b592931ade4306aa6423f1?utm_campaign=Sales&utm_source=1103)** | Countryside, IL | On Site | Oct 20 |
-| ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68ce3ce31ad6b16f028a33f4?utm_campaign=Sales&utm_source=1103)** | Santa Rosa, CA | On Site | Oct 20 |
 | **[Rooms To Go](http://www.roomstogo.com/)** | **[Furniture Returns Associate II - Pay $15-18/hr dep](https://jobright.ai/jobs/info/68bc55073bf9eb44f8323d23?utm_campaign=Sales&utm_source=1103)** | Lakeland, FL | On Site | Oct 20 |
 | **[Spirit Halloween](http://www.spirithalloween.com)** | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b4353e1ade4306aa63e0ee?utm_campaign=Sales&utm_source=1103)** | Allen Park, MI | On Site | Oct 20 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68ce3f5824dd5209002f0e79?utm_campaign=Sales&utm_source=1103)** | Rocky River, OH | On Site | Oct 20 |
@@ -152,7 +152,6 @@ For a complete list, click the following sortable link below:
 | **[VB Spine](https://vbspineco.com)** | **[Spine Sales Representative (Austin, TX)](https://jobright.ai/jobs/info/68d6666a894705799a2eb6d0?utm_campaign=Sales&utm_source=1103)** | Austin, TX | On Site | Oct 17 |
 | **[The Tile Shop](http://www.tileshop.com/)** | **[Sales Design Consultant](https://jobright.ai/jobs/info/6880f5e916ea5743a37347a0?utm_campaign=Sales&utm_source=1103)** | Columbia, SC | On Site | Oct 17 |
 | **[Emerson](http://www.emerson.com)** | **[Technical Sales Representative - SC](https://jobright.ai/jobs/info/68b9e93b8043103d4f21bacd?utm_campaign=Sales&utm_source=1103)** | Columbia, SC | Remote | Oct 17 |
-| **[The Tile Shop](http://www.tileshop.com/)** | **[Sales Design Consultant](https://jobright.ai/jobs/info/684791e3a68549ec1577bf32?utm_campaign=Sales&utm_source=1103)** | Nashville, TN | On Site | Oct 17 |
 | **[Premium Merchant Funding](https://pmfus.com/)** | **[Entry Level Sales Representative](https://jobright.ai/jobs/info/6895588e4ed2ea559ca55264?utm_campaign=Sales&utm_source=1103)** | Aventura, FL | On Site | Oct 17 |
 | **[Autodesk](http://www.autodesk.com)** | **[Inside Sales Representative - Net New Business](https://jobright.ai/jobs/info/68d5b6cf2116ff37ee08fb5d?utm_campaign=Sales&utm_source=1103)** | New York, United States | Hybrid | Oct 17 |
 | **[Ulta Beauty](https://www.ulta.com)** | **[Seasonal Task Associate](https://jobright.ai/jobs/info/68d4e349ffc1276de3fdf152?utm_campaign=Sales&utm_source=1103)** | North Brunswick, NJ | On Site | Oct 16 |
@@ -167,7 +166,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Direct Sales Representative](https://jobright.ai/jobs/info/68a8d3d7d627244576e35cc6?utm_campaign=Sales&utm_source=1103)** | San Marcos, TX | Remote | Oct 16 |
 | **[Wellhub](http://wellhub.com/)** | **[ENT Business Development Representative / Talent Pool](https://jobright.ai/jobs/info/689bcfce83d13d1f5b6a3a0a?utm_campaign=Sales&utm_source=1103)** | Miami, FL | Hybrid | Oct 16 |
 | **[AAA Auto Club Enterprises](https://careers.ace.aaa.com/)** | **[Sales Agent](https://jobright.ai/jobs/info/68ba9d235f38327491868bfe?utm_campaign=Sales&utm_source=1103)** | Montgomery, AL | On Site | Oct 16 |
-| **[Lids](https://www.lids.com)** | **[Seasonal Part Time Sales Help](https://jobright.ai/jobs/info/68d4a24afcd3367e8df165c7?utm_campaign=Sales&utm_source=1103)** | Montebello, CA | On Site | Oct 16 |
-| **[Sumitomo Pharma America, Inc.](https://www.linkedin.com/company/98140277)** | **[Multi-Specialty Portfolio Specialist (Brooklyn, NY)](https://jobright.ai/jobs/info/68b734262124650c1402038c?utm_campaign=Sales&utm_source=1103)** | Brooklyn, NY | On Site | Oct 16 |
-| **[Goosehead Insurance](https://www.goosehead.com)** | **[Account Executive - The Kessler Agency](https://jobright.ai/jobs/info/68d427e217554c2d9eef64cd?utm_campaign=Sales&utm_source=1103)** | Agency, MO | On Site | Oct 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
