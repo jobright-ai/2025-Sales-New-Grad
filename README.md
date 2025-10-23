@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[New Western](http://www.newwestern.com)** | **[Investment Real Estate Sales Agent](https://jobright.ai/jobs/info/659dd642b181d53e6de3a13b?utm_campaign=Sales&utm_source=1103)** | Atlanta, GA | Hybrid | Oct 23 |
+| **[Johnson Controls](http://www.johnsoncontrols.com)** | **[BEST - Technical Sales - HVAC Controls - St Louis, MO](https://jobright.ai/jobs/info/68c289f2b535a221b153bb87?utm_campaign=Sales&utm_source=1103)** | St Louis, MO | On Site | Oct 23 |
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[Breast Care Sales Representative - Inland Empire, CA - Endoscopy](https://jobright.ai/jobs/info/68c65efa7d0db411427392db?utm_campaign=Sales&utm_source=1103)** | Riverside, CA | On Site | Oct 22 |
 | **[Spirit Halloween](http://www.spirithalloween.com)** | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b58be2bc187f64e1be71cd?utm_campaign=Sales&utm_source=1103)** | Riverdale, UT | On Site | Oct 22 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b5890e1ade4306aa642163?utm_campaign=Sales&utm_source=1103)** | Easton, MD | On Site | Oct 22 |
@@ -78,7 +80,6 @@ For a complete list, click the following sortable link below:
 | **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Seasonal Associate-Willowbrook PINK](https://jobright.ai/jobs/info/68bf8a365c5d5f14f46d7e63?utm_campaign=Sales&utm_source=1103)** | Wayne, NJ | On Site | Oct 21 |
 | **[Walmart](http://www.walmart.com)** | **[Seasonal Team Associate](https://jobright.ai/jobs/info/68db2e81e9b48513789b2722?utm_campaign=Sales&utm_source=1103)** | Hendersonville, TN | On Site | Oct 21 |
 | **[Humana](http://www.humana.com)** | **[Medicare Sales Field Agent - Prince George's County, MD](https://jobright.ai/jobs/info/68db02da0dffed6f83d2bdb8?utm_campaign=Sales&utm_source=1103)** | Bowie, MD | Remote | Oct 21 |
-| ↳ | **[Medicare Sales Field Agent - Hunterson County, NJ](https://jobright.ai/jobs/info/68db0303e9b48513789b1230?utm_campaign=Sales&utm_source=1103)** | Flemington, NJ | Remote | Oct 21 |
 | **[Ryan Specialty](https://ryanspecialty.com)** | **[Brokerage Operations Coordinator](https://jobright.ai/jobs/info/68bf342b5c5d5f14f46d4c7b?utm_campaign=Sales&utm_source=1103)** | Dallas, TX | On Site | Oct 21 |
 | **[CosmoProf Beauty](http://www.cosmoprofbeauty.com)** | **[Inside Sales Associate- CosmoProf- 09654](https://jobright.ai/jobs/info/67220ee7bd1553c54c408df2?utm_campaign=Sales&utm_source=1103)** | Bridgeport, WV | On Site | Oct 21 |
 | **[Movement Mortgage](https://movement.com)** | **[Inside Sales Agent](https://jobright.ai/jobs/info/68dafad90dffed6f83d2b7b7?utm_campaign=Sales&utm_source=1103)** | Fort Mill, SC | On Site | Oct 21 |
@@ -160,5 +161,4 @@ For a complete list, click the following sortable link below:
 | **[Ulta Beauty](https://www.ulta.com)** | **[Seasonal Task Associate](https://jobright.ai/jobs/info/68d4e349ffc1276de3fdf152?utm_campaign=Sales&utm_source=1103)** | North Brunswick, NJ | On Site | Oct 16 |
 | **[Weedmaps](http://weedmaps.com)** | **[Associate Lead Generation Specialist, Temporary](https://jobright.ai/jobs/info/68d2001f8c62e63bc7fd22b1?utm_campaign=Sales&utm_source=1103)** | Irvine, CA | On Site | Oct 16 |
 | **[Spirit Halloween](http://www.spirithalloween.com)** | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68ca5ba746caff4db51fe216?utm_campaign=Sales&utm_source=1103)** | Baltimore, MD | On Site | Oct 16 |
-| **[Cox Communications](http://www.cox.com)** | **[Territory Sales Representative](https://jobright.ai/jobs/info/68d719b245853d0e39cccdde?utm_campaign=Sales&utm_source=1103)** | Tucson, AZ | On Site | Oct 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
