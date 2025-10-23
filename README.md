@@ -97,7 +97,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68bd7675c4c5904ff60038e8?utm_campaign=Sales&utm_source=1103)** | Richland, WA | On Site | Oct 20 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/6872a073a5ae807a59d06dc3?utm_campaign=Sales&utm_source=1103)** | Monterey, CA | On Site | Oct 20 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b2eccbbc187f64e1bdf557?utm_campaign=Sales&utm_source=1103)** | North Lakeport, MI | On Site | Oct 20 |
-| ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68daef636df7b8311bb143a4?utm_campaign=Sales&utm_source=1103)** | Sand City, CA | On Site | Oct 20 |
+| ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b98c948043103d4f21819b?utm_campaign=Sales&utm_source=1103)** | Willow Grove, PA | On Site | Oct 20 |
+| **[Madison Reed](http://www.madison-reed.com)** | **[Shift Lead, Licensed Cosmetologist](https://jobright.ai/jobs/info/68cc833c128dc347fd926004?utm_campaign=Sales&utm_source=1103)** | Walnut Creek, CA | On Site | Oct 20 |
+| **[Spirit Halloween](http://www.spirithalloween.com)** | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68daef636df7b8311bb143a4?utm_campaign=Sales&utm_source=1103)** | Sand City, CA | On Site | Oct 20 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b19fe81ade4306aa630c35?utm_campaign=Sales&utm_source=1103)** | Webster Groves, MO | On Site | Oct 20 |
 | **[Spirit Halloween](http://www.spirithalloween.com)** | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68bd7b42c4c5904ff6003957?utm_campaign=Sales&utm_source=1103)** | Saugus, MA | On Site | Oct 19 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b58f7ef4e41a61efd9026b?utm_campaign=Sales&utm_source=1103)** | Wyomissing, PA | On Site | Oct 19 |
@@ -163,7 +165,4 @@ For a complete list, click the following sortable link below:
 | **[AUI Fine Foods](http://auifinefoods.com)** | **[Inside Sales Representative](https://jobright.ai/jobs/info/68c9b97d95f5211cd2cf35f8?utm_campaign=Sales&utm_source=1103)** | Gaithersburg, MD | On Site | Oct 16 |
 | **[Celero Commerce](https://www.celerocommerce.com/)** | **[National Account Executive (Inside Sales)- IL](https://jobright.ai/jobs/info/679984d2456cc0aeb6aedb6a?utm_campaign=Sales&utm_source=1103)** | Rosemont, IL | On Site | Oct 16 |
 | **[KOMPAN Inc Americas](https://www.kompan.com/en/us)** | **[Direct Sales Representative](https://jobright.ai/jobs/info/68a8d592d627244576e35df9?utm_campaign=Sales&utm_source=1103)** | League City, TX | Remote | Oct 16 |
-| ↳ | **[Direct Sales Representative](https://jobright.ai/jobs/info/68a8d3d7d627244576e35cc6?utm_campaign=Sales&utm_source=1103)** | San Marcos, TX | Remote | Oct 16 |
-| **[Wellhub](http://wellhub.com/)** | **[ENT Business Development Representative / Talent Pool](https://jobright.ai/jobs/info/689bcfce83d13d1f5b6a3a0a?utm_campaign=Sales&utm_source=1103)** | Miami, FL | Hybrid | Oct 16 |
-| **[AAA Auto Club Enterprises](https://careers.ace.aaa.com/)** | **[Sales Agent](https://jobright.ai/jobs/info/68ba9d235f38327491868bfe?utm_campaign=Sales&utm_source=1103)** | Montgomery, AL | On Site | Oct 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
