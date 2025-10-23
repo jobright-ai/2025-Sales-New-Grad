@@ -159,6 +159,4 @@ For a complete list, click the following sortable link below:
 | **[Premium Merchant Funding](https://pmfus.com/)** | **[Entry Level Sales Representative](https://jobright.ai/jobs/info/6895588e4ed2ea559ca55264?utm_campaign=Sales&utm_source=1103)** | Aventura, FL | On Site | Oct 17 |
 | **[Autodesk](http://www.autodesk.com)** | **[Inside Sales Representative - Net New Business](https://jobright.ai/jobs/info/68d5b6cf2116ff37ee08fb5d?utm_campaign=Sales&utm_source=1103)** | New York, United States | Hybrid | Oct 17 |
 | **[Ulta Beauty](https://www.ulta.com)** | **[Seasonal Task Associate](https://jobright.ai/jobs/info/68d4e349ffc1276de3fdf152?utm_campaign=Sales&utm_source=1103)** | North Brunswick, NJ | On Site | Oct 16 |
-| **[Weedmaps](http://weedmaps.com)** | **[Associate Lead Generation Specialist, Temporary](https://jobright.ai/jobs/info/68d2001f8c62e63bc7fd22b1?utm_campaign=Sales&utm_source=1103)** | Irvine, CA | On Site | Oct 16 |
-| **[Spirit Halloween](http://www.spirithalloween.com)** | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68ca5ba746caff4db51fe216?utm_campaign=Sales&utm_source=1103)** | Baltimore, MD | On Site | Oct 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
