@@ -86,8 +86,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68daf2cf07c157682e57003a?utm_campaign=Sales&utm_source=1103)** | Rockaway, NJ | On Site | Oct 20 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b59143bc187f64e1be7379?utm_campaign=Sales&utm_source=1103)** | Doylestown, PA | On Site | Oct 20 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b1a04cbc187f64e1bd5aca?utm_campaign=Sales&utm_source=1103)** | Montclair, CA | On Site | Oct 20 |
-| ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68c5b7017d0db41142734e26?utm_campaign=Sales&utm_source=1103)** | Santa Rosa, CA | On Site | Oct 20 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b592931ade4306aa6423f1?utm_campaign=Sales&utm_source=1103)** | Countryside, IL | On Site | Oct 20 |
+| ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68ce3ce31ad6b16f028a33f4?utm_campaign=Sales&utm_source=1103)** | Santa Rosa, CA | On Site | Oct 20 |
 | **[Rooms To Go](http://www.roomstogo.com/)** | **[Furniture Returns Associate II - Pay $15-18/hr dep](https://jobright.ai/jobs/info/68bc55073bf9eb44f8323d23?utm_campaign=Sales&utm_source=1103)** | Lakeland, FL | On Site | Oct 20 |
 | **[Spirit Halloween](http://www.spirithalloween.com)** | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b4353e1ade4306aa63e0ee?utm_campaign=Sales&utm_source=1103)** | Allen Park, MI | On Site | Oct 20 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68ce3f5824dd5209002f0e79?utm_campaign=Sales&utm_source=1103)** | Rocky River, OH | On Site | Oct 20 |
@@ -162,7 +162,4 @@ For a complete list, click the following sortable link below:
 | **[Cox Communications](http://www.cox.com)** | **[Territory Sales Representative](https://jobright.ai/jobs/info/68d719b245853d0e39cccdde?utm_campaign=Sales&utm_source=1103)** | Tucson, AZ | On Site | Oct 16 |
 | **[Zscaler](https://www.zscaler.com)** | **[Sales Development Representative - LATAM](https://jobright.ai/jobs/info/689bdb9f79a9f96662534340?utm_campaign=Sales&utm_source=1103)** | North Carolina, United States | Hybrid | Oct 16 |
 | **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Seasonal Associate (6AM - 12PM) - The Summit](https://jobright.ai/jobs/info/68d49e3affc1276de3fdca0c?utm_campaign=Sales&utm_source=1103)** | Birmingham, AL | On Site | Oct 16 |
-| **[AUI Fine Foods](http://auifinefoods.com)** | **[Inside Sales Representative](https://jobright.ai/jobs/info/68c9b97d95f5211cd2cf35f8?utm_campaign=Sales&utm_source=1103)** | Gaithersburg, MD | On Site | Oct 16 |
-| **[Celero Commerce](https://www.celerocommerce.com/)** | **[National Account Executive (Inside Sales)- IL](https://jobright.ai/jobs/info/679984d2456cc0aeb6aedb6a?utm_campaign=Sales&utm_source=1103)** | Rosemont, IL | On Site | Oct 16 |
-| **[KOMPAN Inc Americas](https://www.kompan.com/en/us)** | **[Direct Sales Representative](https://jobright.ai/jobs/info/68a8d592d627244576e35df9?utm_campaign=Sales&utm_source=1103)** | League City, TX | Remote | Oct 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
