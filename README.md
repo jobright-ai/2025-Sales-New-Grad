@@ -78,6 +78,7 @@ For a complete list, click the following sortable link below:
 | **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Seasonal Associate-Willowbrook PINK](https://jobright.ai/jobs/info/68bf8a365c5d5f14f46d7e63?utm_campaign=Sales&utm_source=1103)** | Wayne, NJ | On Site | Oct 21 |
 | **[Walmart](http://www.walmart.com)** | **[Seasonal Team Associate](https://jobright.ai/jobs/info/68db2e81e9b48513789b2722?utm_campaign=Sales&utm_source=1103)** | Hendersonville, TN | On Site | Oct 21 |
 | **[Humana](http://www.humana.com)** | **[Medicare Sales Field Agent - Prince George's County, MD](https://jobright.ai/jobs/info/68db02da0dffed6f83d2bdb8?utm_campaign=Sales&utm_source=1103)** | Bowie, MD | Remote | Oct 21 |
+| ↳ | **[Medicare Sales Field Agent - Hunterson County, NJ](https://jobright.ai/jobs/info/68db0303e9b48513789b1230?utm_campaign=Sales&utm_source=1103)** | Flemington, NJ | Remote | Oct 21 |
 | **[Ryan Specialty](https://ryanspecialty.com)** | **[Brokerage Operations Coordinator](https://jobright.ai/jobs/info/68bf342b5c5d5f14f46d4c7b?utm_campaign=Sales&utm_source=1103)** | Dallas, TX | On Site | Oct 21 |
 | **[CosmoProf Beauty](http://www.cosmoprofbeauty.com)** | **[Inside Sales Associate- CosmoProf- 09654](https://jobright.ai/jobs/info/67220ee7bd1553c54c408df2?utm_campaign=Sales&utm_source=1103)** | Bridgeport, WV | On Site | Oct 21 |
 | **[Movement Mortgage](https://movement.com)** | **[Inside Sales Agent](https://jobright.ai/jobs/info/68dafad90dffed6f83d2b7b7?utm_campaign=Sales&utm_source=1103)** | Fort Mill, SC | On Site | Oct 21 |
@@ -160,6 +161,4 @@ For a complete list, click the following sortable link below:
 | **[Weedmaps](http://weedmaps.com)** | **[Associate Lead Generation Specialist, Temporary](https://jobright.ai/jobs/info/68d2001f8c62e63bc7fd22b1?utm_campaign=Sales&utm_source=1103)** | Irvine, CA | On Site | Oct 16 |
 | **[Spirit Halloween](http://www.spirithalloween.com)** | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68ca5ba746caff4db51fe216?utm_campaign=Sales&utm_source=1103)** | Baltimore, MD | On Site | Oct 16 |
 | **[Cox Communications](http://www.cox.com)** | **[Territory Sales Representative](https://jobright.ai/jobs/info/68d719b245853d0e39cccdde?utm_campaign=Sales&utm_source=1103)** | Tucson, AZ | On Site | Oct 16 |
-| **[Zscaler](https://www.zscaler.com)** | **[Sales Development Representative - LATAM](https://jobright.ai/jobs/info/689bdb9f79a9f96662534340?utm_campaign=Sales&utm_source=1103)** | North Carolina, United States | Hybrid | Oct 16 |
-| **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Seasonal Associate (6AM - 12PM) - The Summit](https://jobright.ai/jobs/info/68d49e3affc1276de3fdca0c?utm_campaign=Sales&utm_source=1103)** | Birmingham, AL | On Site | Oct 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
