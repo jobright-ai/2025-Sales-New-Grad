@@ -61,11 +61,13 @@ For a complete list, click the following sortable link below:
 | **[Spirit Halloween](http://www.spirithalloween.com)** | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b58be2bc187f64e1be71cd?utm_campaign=Sales&utm_source=1103)** | Riverdale, UT | On Site | Oct 22 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b5890e1ade4306aa642163?utm_campaign=Sales&utm_source=1103)** | Easton, MD | On Site | Oct 22 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b58744bc187f64e1be70b9?utm_campaign=Sales&utm_source=1103)** | Torrington, CT | On Site | Oct 22 |
+| **[Vertigo Real Estate Ventures](https://www.vertigorev.com)** | **[Real Estate Sales Rep](https://jobright.ai/jobs/info/68ca38eaf61c922772a75556?utm_campaign=Sales&utm_source=1103)** | Denver, CO | On Site | Oct 22 |
 | **[Abercrombie & Fitch Co.](http://abercrombie.com)** | **[Hollister Co. - Assistant Manager, Weberstown](https://jobright.ai/jobs/info/68c0870a5c5d5f14f46ded3c?utm_campaign=Sales&utm_source=1103)** | Stockton, CA | On Site | Oct 22 |
 | **[Spirit Halloween](http://www.spirithalloween.com)** | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68da978207c157682e56b316?utm_campaign=Sales&utm_source=1103)** | Louisville, KY | On Site | Oct 22 |
 | **[Neiman Marcus](https://www.neimanmarcusgroup.com)** | **[Designer Sportswear Client Advisor - Palo Alto](https://jobright.ai/jobs/info/68c0dce2702aa35207ab12d2?utm_campaign=Sales&utm_source=1103)** | Palo Alto, CA | Hybrid | Oct 22 |
 | **[Ulta Beauty](https://www.ulta.com)** | **[Seasonal Task Associate](https://jobright.ai/jobs/info/68d539641f7fb2169ab0df33?utm_campaign=Sales&utm_source=1103)** | Rancho Santa Margarita, CA | On Site | Oct 22 |
 | **[ADP](http://www.adp.com)** | **[Entry Level Outside Sales Associate](https://jobright.ai/jobs/info/68d7155245853d0e39ccccbc?utm_campaign=Sales&utm_source=1103)** | Pleasanton, CA | On Site | Oct 22 |
+| ↳ | **[Entry Level Outside Sales Rep](https://jobright.ai/jobs/info/68d357e38c62e63bc7fdff32?utm_campaign=Sales&utm_source=1103)** | Irvine, CA | On Site | Oct 22 |
 | ↳ | **[Entry Level Outside Sales Rep](https://jobright.ai/jobs/info/68c14b803fd8b059a20ef5e7?utm_campaign=Sales&utm_source=1103)** | Rancho Cucamonga, CA | On Site | Oct 22 |
 | **[L'OCCITANE Group (B Corp)](https://group.loccitane.com/)** | **[Beauty Host - Full Time - Palo Alto](https://jobright.ai/jobs/info/68c085995c5d5f14f46debdd?utm_campaign=Sales&utm_source=1103)** | Palo Alto, CA | On Site | Oct 22 |
 | **[Arjo](https://www.arjo.com/int/)** | **[Associate Account Executive - Long Term Care (northeast)](https://jobright.ai/jobs/info/68dac9c507c157682e56d970?utm_campaign=Sales&utm_source=1103)** | Boston, MA | Remote | Oct 21 |
@@ -84,8 +86,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68daf2cf07c157682e57003a?utm_campaign=Sales&utm_source=1103)** | Rockaway, NJ | On Site | Oct 20 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b59143bc187f64e1be7379?utm_campaign=Sales&utm_source=1103)** | Doylestown, PA | On Site | Oct 20 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b1a04cbc187f64e1bd5aca?utm_campaign=Sales&utm_source=1103)** | Montclair, CA | On Site | Oct 20 |
-| ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68c5b7017d0db41142734e26?utm_campaign=Sales&utm_source=1103)** | Santa Rosa, CA | On Site | Oct 20 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b592931ade4306aa6423f1?utm_campaign=Sales&utm_source=1103)** | Countryside, IL | On Site | Oct 20 |
+| ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68ce3ce31ad6b16f028a33f4?utm_campaign=Sales&utm_source=1103)** | Santa Rosa, CA | On Site | Oct 20 |
 | **[Rooms To Go](http://www.roomstogo.com/)** | **[Furniture Returns Associate II - Pay $15-18/hr dep](https://jobright.ai/jobs/info/68bc55073bf9eb44f8323d23?utm_campaign=Sales&utm_source=1103)** | Lakeland, FL | On Site | Oct 20 |
 | **[Spirit Halloween](http://www.spirithalloween.com)** | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b4353e1ade4306aa63e0ee?utm_campaign=Sales&utm_source=1103)** | Allen Park, MI | On Site | Oct 20 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68ce3f5824dd5209002f0e79?utm_campaign=Sales&utm_source=1103)** | Rocky River, OH | On Site | Oct 20 |
@@ -96,6 +98,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/6872a073a5ae807a59d06dc3?utm_campaign=Sales&utm_source=1103)** | Monterey, CA | On Site | Oct 20 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b2eccbbc187f64e1bdf557?utm_campaign=Sales&utm_source=1103)** | North Lakeport, MI | On Site | Oct 20 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68daef636df7b8311bb143a4?utm_campaign=Sales&utm_source=1103)** | Sand City, CA | On Site | Oct 20 |
+| ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b19fe81ade4306aa630c35?utm_campaign=Sales&utm_source=1103)** | Webster Groves, MO | On Site | Oct 20 |
 | **[Spirit Halloween](http://www.spirithalloween.com)** | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68bd7b42c4c5904ff6003957?utm_campaign=Sales&utm_source=1103)** | Saugus, MA | On Site | Oct 19 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b58f7ef4e41a61efd9026b?utm_campaign=Sales&utm_source=1103)** | Wyomissing, PA | On Site | Oct 19 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68c95d69a0c52d598ea36bd0?utm_campaign=Sales&utm_source=1103)** | Belton, MO | On Site | Oct 19 |
@@ -167,21 +170,4 @@ For a complete list, click the following sortable link below:
 | **[Lids](https://www.lids.com)** | **[Seasonal Part Time Sales Help](https://jobright.ai/jobs/info/68d4a24afcd3367e8df165c7?utm_campaign=Sales&utm_source=1103)** | Montebello, CA | On Site | Oct 16 |
 | **[Sumitomo Pharma America, Inc.](https://www.linkedin.com/company/98140277)** | **[Multi-Specialty Portfolio Specialist (Brooklyn, NY)](https://jobright.ai/jobs/info/68b734262124650c1402038c?utm_campaign=Sales&utm_source=1103)** | Brooklyn, NY | On Site | Oct 16 |
 | **[Goosehead Insurance](https://www.goosehead.com)** | **[Account Executive - The Kessler Agency](https://jobright.ai/jobs/info/68d427e217554c2d9eef64cd?utm_campaign=Sales&utm_source=1103)** | Agency, MO | On Site | Oct 16 |
-| ↳ | **[Account Executive - The Hanratty Agency](https://jobright.ai/jobs/info/68cc3ebe16d00d2beeb1c496?utm_campaign=Sales&utm_source=1103)** | Victoria, MN | On Site | Oct 16 |
-| **[XTRA Lease LLC](https://www.xtralease.com)** | **[Assistant Branch Manager- Outside Sales](https://jobright.ai/jobs/info/68a4f9ee758f2e4ac3fdb155?utm_campaign=Sales&utm_source=1103)** | Sumner, WA | On Site | Oct 16 |
-| **[Goosehead Insurance](https://www.goosehead.com)** | **[Account Executive - The Burney Agency](https://jobright.ai/jobs/info/68a5f1ae758f2e4ac3fe18b2?utm_campaign=Sales&utm_source=1103)** | Saginaw, TX | On Site | Oct 16 |
-| **[Claire's](https://corporate.claires.com)** | **[District Sales Manager - Upstate NY](https://jobright.ai/jobs/info/68d459028c62e63bc7fe8531?utm_campaign=Sales&utm_source=1103)** | Albany, NY | On Site | Oct 16 |
-| **[Goosehead Insurance](https://www.goosehead.com)** | **[Account Executive - The Burney Agency](https://jobright.ai/jobs/info/68a5f592758f2e4ac3fe191e?utm_campaign=Sales&utm_source=1103)** | Benbrook, TX | On Site | Oct 16 |
-| ↳ | **[Account Executive - The Burney Agency](https://jobright.ai/jobs/info/68a5f04e758f2e4ac3fe17b4?utm_campaign=Sales&utm_source=1103)** | Arlington, TX | On Site | Oct 16 |
-| ↳ | **[Account Executive - The Burney Agency](https://jobright.ai/jobs/info/68a5f583758f2e4ac3fe1919?utm_campaign=Sales&utm_source=1103)** | North Richland Hills, TX | On Site | Oct 16 |
-| **[NielsenIQ](https://nielseniq.com)** | **[Sales Development Representative](https://jobright.ai/jobs/info/68d42bf48c62e63bc7fe6586?utm_campaign=Sales&utm_source=1103)** | Boston, MA | Hybrid | Oct 16 |
-| **[PHMG](https://phmg.com/)** | **[Sales Development Representative](https://jobright.ai/jobs/info/680a653cd8ad1c55505b4c8f?utm_campaign=Sales&utm_source=1103)** | Phoenix, AZ | On Site | Oct 16 |
-| **[Abercrombie & Fitch Co.](http://abercrombie.com)** | **[Hollister Co. - Assistant Manager, Pacific View](https://jobright.ai/jobs/info/68cf7acf846f0b04af68258b?utm_campaign=Sales&utm_source=1103)** | Moorpark, CA | On Site | Oct 16 |
-| **[TruGreen](http://trugreen.com)** | **[Residential Lawn Specialist/Aerator](https://jobright.ai/jobs/info/6845e486798240b4a59c5945?utm_campaign=Sales&utm_source=1103)** | Dothan, AL | On Site | Oct 16 |
-| **[USI Insurance Services](https://www.usi.com/)** | **[Commercial Lines Associate Account Rep - January 2026 Career Development Program](https://jobright.ai/jobs/info/687ec20c2097a271a8997a65?utm_campaign=Sales&utm_source=1103)** | Phoenix, AZ | On Site | Oct 16 |
-| **[AXA XL](https://axaxl.com)** | **[Underwriter I, Large Commercial Property](https://jobright.ai/jobs/info/68d401855ae5a90cfd48287a?utm_campaign=Sales&utm_source=1103)** | Kansas City, MO | Hybrid | Oct 16 |
-| **[Better Debt Solutions](https://betterdebtsolutions.com)** | **[Debt Settlement Closer](https://jobright.ai/jobs/info/68d421aa8c62e63bc7fe60d3?utm_campaign=Sales&utm_source=1103)** | Irvine, CA | On Site | Oct 16 |
-| **[Goosehead Insurance](https://www.goosehead.com)** | **[Account Executive - The Cropp Agency](https://jobright.ai/jobs/info/68a5ed4633dd7158bbc9c993?utm_campaign=Sales&utm_source=1103)** | Scottsdale, AZ | On Site | Oct 16 |
-| **[EXPRESS](http://express.com)** | **[Sales Associate](https://jobright.ai/jobs/info/68b786f2f4e41a61efd99aff?utm_campaign=Sales&utm_source=1103)** | Las Vegas, NV | On Site | Oct 16 |
-| **[Rent-A-Center](https://www.rentacenter.com)** | **[Assistant Manager - Credit](https://jobright.ai/jobs/info/68ce21f0e23def7af55c2893?utm_campaign=Sales&utm_source=1103)** | Chambersburg, PA | On Site | Oct 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
