@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[H&M](http://www.hm.com)** | **[Visual Keyholder - Tanger Outlets Charleston](https://jobright.ai/jobs/info/6893f2c8f47efe2113967fed?utm_campaign=Sales&utm_source=1103)** | North Charleston, SC | Hybrid | Oct 24 |
+| **[H&M](http://www.hm.com)** | **[Department Supervisor - Arbor Lakes](https://jobright.ai/jobs/info/68a525fb33dd7158bbc9787c?utm_campaign=Sales&utm_source=1103)** | Maple Grove, MN | On Site | Oct 24 |
+| ↳ | **[Visual Keyholder - Tanger Outlets Charleston](https://jobright.ai/jobs/info/6893f2c8f47efe2113967fed?utm_campaign=Sales&utm_source=1103)** | North Charleston, SC | Hybrid | Oct 24 |
 | **[Supermicro](http://www.supermicro.com)** | **[Account Manager](https://jobright.ai/jobs/info/68c2057633864f172f9bc65e?utm_campaign=Sales&utm_source=1103)** | San Jose, CA | On Site | Oct 24 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[BEST - Technical Sales - HVAC Controls - Houston, TX](https://jobright.ai/jobs/info/68c9b4b7a0c52d598ea3a3fa?utm_campaign=Sales&utm_source=1103)** | Houston, TX | On Site | Oct 24 |
 | **[Ulta Beauty](https://www.ulta.com)** | **[Seasonal Task Associate](https://jobright.ai/jobs/info/68ce668cfb49c96ca6ea0027?utm_campaign=Sales&utm_source=1103)** | Cerritos, CA | On Site | Oct 23 |
 | **[New Western](http://www.newwestern.com)** | **[Investment Real Estate Sales Agent](https://jobright.ai/jobs/info/659dd642b181d53e6de3a13b?utm_campaign=Sales&utm_source=1103)** | Atlanta, GA | Hybrid | Oct 23 |
-| **[Johnson Controls](http://www.johnsoncontrols.com)** | **[BEST - Technical Sales - Equipment - Houston, TX](https://jobright.ai/jobs/info/68c15c50233c7d3e64d01755?utm_campaign=Sales&utm_source=1103)** | Houston, TX | On Site | Oct 23 |
+| **[Johnson Controls](http://www.johnsoncontrols.com)** | **[BEST - Technical Sales - Equipment - Atlanta, GA](https://jobright.ai/jobs/info/68c135104d652f0447756a89?utm_campaign=Sales&utm_source=1103)** | Roswell, GA | On Site | Oct 23 |
+| ↳ | **[BEST - Technical Sales - Equipment - Houston, TX](https://jobright.ai/jobs/info/68c15c50233c7d3e64d01755?utm_campaign=Sales&utm_source=1103)** | Houston, TX | On Site | Oct 23 |
 | ↳ | **[BEST - Technical Sales - HVAC Controls - St Louis, MO](https://jobright.ai/jobs/info/68c289f2b535a221b153bb87?utm_campaign=Sales&utm_source=1103)** | St Louis, MO | On Site | Oct 23 |
 | **[Spirit Halloween](http://www.spirithalloween.com)** | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68daf2cf07c157682e57003a?utm_campaign=Sales&utm_source=1103)** | Rockaway, NJ | On Site | Oct 22 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68da97b807c157682e56b363?utm_campaign=Sales&utm_source=1103)** | Hurst, TX | On Site | Oct 22 |
