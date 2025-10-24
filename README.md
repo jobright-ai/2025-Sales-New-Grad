@@ -60,7 +60,8 @@ For a complete list, click the following sortable link below:
 | **[New Western](http://www.newwestern.com)** | **[Investment Real Estate Sales Agent](https://jobright.ai/jobs/info/659dd642b181d53e6de3a13b?utm_campaign=Sales&utm_source=1103)** | Atlanta, GA | Hybrid | Oct 23 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[BEST - Technical Sales - Equipment - Houston, TX](https://jobright.ai/jobs/info/68c15c50233c7d3e64d01755?utm_campaign=Sales&utm_source=1103)** | Houston, TX | On Site | Oct 23 |
 | ↳ | **[BEST - Technical Sales - HVAC Controls - St Louis, MO](https://jobright.ai/jobs/info/68c289f2b535a221b153bb87?utm_campaign=Sales&utm_source=1103)** | St Louis, MO | On Site | Oct 23 |
-| **[Spirit Halloween](http://www.spirithalloween.com)** | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68da97b807c157682e56b363?utm_campaign=Sales&utm_source=1103)** | Hurst, TX | On Site | Oct 22 |
+| **[Spirit Halloween](http://www.spirithalloween.com)** | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68daf2cf07c157682e57003a?utm_campaign=Sales&utm_source=1103)** | Rockaway, NJ | On Site | Oct 22 |
+| ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68da97b807c157682e56b363?utm_campaign=Sales&utm_source=1103)** | Hurst, TX | On Site | Oct 22 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68daef636df7b8311bb143a4?utm_campaign=Sales&utm_source=1103)** | Sand City, CA | On Site | Oct 22 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b6e899f4e41a61efd948a4?utm_campaign=Sales&utm_source=1103)** | Fairview Heights, IL | On Site | Oct 22 |
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[Breast Care Sales Representative - Inland Empire, CA - Endoscopy](https://jobright.ai/jobs/info/68c65efa7d0db411427392db?utm_campaign=Sales&utm_source=1103)** | Riverside, CA | On Site | Oct 22 |
@@ -90,11 +91,10 @@ For a complete list, click the following sortable link below:
 | **[Movement Mortgage](https://movement.com)** | **[Inside Sales Agent](https://jobright.ai/jobs/info/68dafad90dffed6f83d2b7b7?utm_campaign=Sales&utm_source=1103)** | Fort Mill, SC | On Site | Oct 21 |
 | **[Spirit Halloween](http://www.spirithalloween.com)** | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68c2cb265adaee6c9bda4280?utm_campaign=Sales&utm_source=1103)** | Orchard Park, NY | On Site | Oct 20 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68cad5a0d905e25191d9caff?utm_campaign=Sales&utm_source=1103)** | National City, CA | On Site | Oct 20 |
-| ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68daf2cf07c157682e57003a?utm_campaign=Sales&utm_source=1103)** | Rockaway, NJ | On Site | Oct 20 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b59143bc187f64e1be7379?utm_campaign=Sales&utm_source=1103)** | Doylestown, PA | On Site | Oct 20 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b1a04cbc187f64e1bd5aca?utm_campaign=Sales&utm_source=1103)** | Montclair, CA | On Site | Oct 20 |
+| ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68c5b7017d0db41142734e26?utm_campaign=Sales&utm_source=1103)** | Santa Rosa, CA | On Site | Oct 20 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b592931ade4306aa6423f1?utm_campaign=Sales&utm_source=1103)** | Countryside, IL | On Site | Oct 20 |
-| ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68ce3ce31ad6b16f028a33f4?utm_campaign=Sales&utm_source=1103)** | Santa Rosa, CA | On Site | Oct 20 |
 | **[Rooms To Go](http://www.roomstogo.com/)** | **[Furniture Returns Associate II - Pay $15-18/hr dep](https://jobright.ai/jobs/info/68bc55073bf9eb44f8323d23?utm_campaign=Sales&utm_source=1103)** | Lakeland, FL | On Site | Oct 20 |
 | **[Spirit Halloween](http://www.spirithalloween.com)** | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b4353e1ade4306aa63e0ee?utm_campaign=Sales&utm_source=1103)** | Allen Park, MI | On Site | Oct 20 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68ce3f5824dd5209002f0e79?utm_campaign=Sales&utm_source=1103)** | Rocky River, OH | On Site | Oct 20 |
@@ -108,6 +108,7 @@ For a complete list, click the following sortable link below:
 | **[Madison Reed](http://www.madison-reed.com)** | **[Shift Lead, Licensed Cosmetologist](https://jobright.ai/jobs/info/68cc833c128dc347fd926004?utm_campaign=Sales&utm_source=1103)** | Walnut Creek, CA | On Site | Oct 20 |
 | **[Spirit Halloween](http://www.spirithalloween.com)** | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b19fe81ade4306aa630c35?utm_campaign=Sales&utm_source=1103)** | Webster Groves, MO | On Site | Oct 20 |
 | **[Spirit Halloween](http://www.spirithalloween.com)** | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68bd7b42c4c5904ff6003957?utm_campaign=Sales&utm_source=1103)** | Saugus, MA | On Site | Oct 19 |
+| ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68cc0d9c16d00d2beeb19017?utm_campaign=Sales&utm_source=1103)** | Hanover, PA | On Site | Oct 19 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b58f7ef4e41a61efd9026b?utm_campaign=Sales&utm_source=1103)** | Wyomissing, PA | On Site | Oct 19 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68c95d69a0c52d598ea36bd0?utm_campaign=Sales&utm_source=1103)** | Belton, MO | On Site | Oct 19 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68daece10dffed6f83d2abde?utm_campaign=Sales&utm_source=1103)** | Cockeysville, MD | On Site | Oct 19 |
@@ -147,12 +148,4 @@ For a complete list, click the following sortable link below:
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[HVAC Service Development Representative](https://jobright.ai/jobs/info/68d665724736ff202fdd31c8?utm_campaign=Sales&utm_source=1103)** | Charleston, SC | On Site | Oct 17 |
 | **[Paradies Lagardère](https://paradieslagardere.com/)** | **[Retail Sales Associates/Cashiers, Paradies Lagardere at Oakland International Airport *** $20.43 HR ***](https://jobright.ai/jobs/info/67f37bd50fe3643a9fe45af6?utm_campaign=Sales&utm_source=1103)** | Oakland, CA | On Site | Oct 17 |
 | **[Esri](https://www.esri.com)** | **[Inside Sales Representative](https://jobright.ai/jobs/info/68d6414cebcef82ef5cf8a9b?utm_campaign=Sales&utm_source=1103)** | Charlotte, NC | On Site | Oct 17 |
-| **[Techtronic Industries - TTI](http://ttigroup.com/)** | **[Field Sales and Marketing Representative- Bradenton, FL](https://jobright.ai/jobs/info/68d5d58263d77d6f6f3f2aab?utm_campaign=Sales&utm_source=1103)** | Bradenton, FL | On Site | Oct 17 |
-| **[AMBA](https://amba.info)** | **[Account Development Specialist](https://jobright.ai/jobs/info/68ba04186105227d1189a294?utm_campaign=Sales&utm_source=1103)** | Tampa, FL | On Site | Oct 17 |
-| **[Ulta Beauty](https://www.ulta.com)** | **[Seasonal Task Associate](https://jobright.ai/jobs/info/68d5f88a63d77d6f6f3f37b7?utm_campaign=Sales&utm_source=1103)** | Eagan, MN | On Site | Oct 17 |
-| **[Techtronic Industries - TTI](http://ttigroup.com/)** | **[Field Sales & Marketing Representative - Fairfax, VA](https://jobright.ai/jobs/info/689d32c7faa4e875e826dced?utm_campaign=Sales&utm_source=1103)** | Fairfax, VA | On Site | Oct 17 |
-| **[AMBA](https://amba.info)** | **[Account Development Specialist](https://jobright.ai/jobs/info/68b9eeb36105227d11899713?utm_campaign=Sales&utm_source=1103)** | Katy, TX | On Site | Oct 17 |
-| **[YipitData](https://yipitdata.com)** | **[Client Solutions Associate - Corporate](https://jobright.ai/jobs/info/68b8796bea901c0d269f67f3?utm_campaign=Sales&utm_source=1103)** | United States | Hybrid | Oct 17 |
-| **[RoadRunner](https://www.roadrunnerwm.com/)** | **[Sales Development Representative (CST)](https://jobright.ai/jobs/info/689cf85179a9f9666253c8f4?utm_campaign=Sales&utm_source=1103)** | United States | Remote | Oct 17 |
-| **[Greystar](http://greystar.com)** | **[Sales Consultant - Solana Lakewood 55+](https://jobright.ai/jobs/info/68b9cbcb5f38327491860df3?utm_campaign=Sales&utm_source=1103)** | Lakewood, CO | On Site | Oct 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
