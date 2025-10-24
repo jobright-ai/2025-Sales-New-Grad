@@ -146,6 +146,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68b8667d07090163b6ba166c?utm_campaign=Sales&utm_source=1103)** | Terre Haute, IN | On Site | Oct 17 |
 | **[Peachy Insurance](https://marilyntoddinsurance.com)** | **[Licensed Insurance Agent](https://jobright.ai/jobs/info/68c62a14c96a22563eceabd4?utm_campaign=Sales&utm_source=1103)** | United States | Remote | Oct 17 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[HVAC Service Development Representative](https://jobright.ai/jobs/info/68d665724736ff202fdd31c8?utm_campaign=Sales&utm_source=1103)** | Charleston, SC | On Site | Oct 17 |
-| **[Paradies Lagardère](https://paradieslagardere.com/)** | **[Retail Sales Associates/Cashiers, Paradies Lagardere at Oakland International Airport *** $20.43 HR ***](https://jobright.ai/jobs/info/67f37bd50fe3643a9fe45af6?utm_campaign=Sales&utm_source=1103)** | Oakland, CA | On Site | Oct 17 |
-| **[Esri](https://www.esri.com)** | **[Inside Sales Representative](https://jobright.ai/jobs/info/68d6414cebcef82ef5cf8a9b?utm_campaign=Sales&utm_source=1103)** | Charlotte, NC | On Site | Oct 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
