@@ -60,7 +60,8 @@ For a complete list, click the following sortable link below:
 | **[New Western](http://www.newwestern.com)** | **[Investment Real Estate Sales Agent](https://jobright.ai/jobs/info/659dd642b181d53e6de3a13b?utm_campaign=Sales&utm_source=1103)** | Atlanta, GA | Hybrid | Oct 23 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[BEST - Technical Sales - Equipment - Houston, TX](https://jobright.ai/jobs/info/68c15c50233c7d3e64d01755?utm_campaign=Sales&utm_source=1103)** | Houston, TX | On Site | Oct 23 |
 | ↳ | **[BEST - Technical Sales - HVAC Controls - St Louis, MO](https://jobright.ai/jobs/info/68c289f2b535a221b153bb87?utm_campaign=Sales&utm_source=1103)** | St Louis, MO | On Site | Oct 23 |
-| **[Spirit Halloween](http://www.spirithalloween.com)** | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68daef636df7b8311bb143a4?utm_campaign=Sales&utm_source=1103)** | Sand City, CA | On Site | Oct 22 |
+| **[Spirit Halloween](http://www.spirithalloween.com)** | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68da97b807c157682e56b363?utm_campaign=Sales&utm_source=1103)** | Hurst, TX | On Site | Oct 22 |
+| ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68daef636df7b8311bb143a4?utm_campaign=Sales&utm_source=1103)** | Sand City, CA | On Site | Oct 22 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b6e899f4e41a61efd948a4?utm_campaign=Sales&utm_source=1103)** | Fairview Heights, IL | On Site | Oct 22 |
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[Breast Care Sales Representative - Inland Empire, CA - Endoscopy](https://jobright.ai/jobs/info/68c65efa7d0db411427392db?utm_campaign=Sales&utm_source=1103)** | Riverside, CA | On Site | Oct 22 |
 | **[Spirit Halloween](http://www.spirithalloween.com)** | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68da98196df7b8311bb0fdbd?utm_campaign=Sales&utm_source=1103)** | Camp Hill, PA | On Site | Oct 22 |
@@ -154,12 +155,4 @@ For a complete list, click the following sortable link below:
 | **[YipitData](https://yipitdata.com)** | **[Client Solutions Associate - Corporate](https://jobright.ai/jobs/info/68b8796bea901c0d269f67f3?utm_campaign=Sales&utm_source=1103)** | United States | Hybrid | Oct 17 |
 | **[RoadRunner](https://www.roadrunnerwm.com/)** | **[Sales Development Representative (CST)](https://jobright.ai/jobs/info/689cf85179a9f9666253c8f4?utm_campaign=Sales&utm_source=1103)** | United States | Remote | Oct 17 |
 | **[Greystar](http://greystar.com)** | **[Sales Consultant - Solana Lakewood 55+](https://jobright.ai/jobs/info/68b9cbcb5f38327491860df3?utm_campaign=Sales&utm_source=1103)** | Lakewood, CO | On Site | Oct 17 |
-| **[AMBA](https://amba.info)** | **[Account Development Specialist](https://jobright.ai/jobs/info/68b9f0c28043103d4f21bfde?utm_campaign=Sales&utm_source=1103)** | Iowa City, IA | On Site | Oct 17 |
-| **[Lids](https://www.lids.com)** | **[Seasonal Part Time Sales Help](https://jobright.ai/jobs/info/68d5e2d92116ff37ee090e4b?utm_campaign=Sales&utm_source=1103)** | Montebello, CA | On Site | Oct 17 |
-| **[Food Lion](https://www.foodlion.com)** | **[PT Deli Bakery Sales Associate](https://jobright.ai/jobs/info/687f8f842097a271a899d44d?utm_campaign=Sales&utm_source=1103)** | Ocean City, MD | On Site | Oct 17 |
-| **[The Tile Shop](http://www.tileshop.com/)** | **[Sales Associate](https://jobright.ai/jobs/info/688091ce9f7280424570caf8?utm_campaign=Sales&utm_source=1103)** | Mentor, OH | On Site | Oct 17 |
-| **[VB Spine](https://vbspineco.com)** | **[Spine Sales Representative (Austin, TX)](https://jobright.ai/jobs/info/68d6666a894705799a2eb6d0?utm_campaign=Sales&utm_source=1103)** | Austin, TX | On Site | Oct 17 |
-| **[The Tile Shop](http://www.tileshop.com/)** | **[Sales Design Consultant](https://jobright.ai/jobs/info/6880f5e916ea5743a37347a0?utm_campaign=Sales&utm_source=1103)** | Columbia, SC | On Site | Oct 17 |
-| **[Emerson](http://www.emerson.com)** | **[Technical Sales Representative - SC](https://jobright.ai/jobs/info/68b9e93b8043103d4f21bacd?utm_campaign=Sales&utm_source=1103)** | Columbia, SC | Remote | Oct 17 |
-| **[Premium Merchant Funding](https://pmfus.com/)** | **[Entry Level Sales Representative](https://jobright.ai/jobs/info/6895588e4ed2ea559ca55264?utm_campaign=Sales&utm_source=1103)** | Aventura, FL | On Site | Oct 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
