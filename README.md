@@ -64,9 +64,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Department Supervisor - Arbor Lakes](https://jobright.ai/jobs/info/68a525fb33dd7158bbc9787c?utm_campaign=Sales&utm_source=1103)** | Maple Grove, MN | On Site | Oct 24 |
 | ↳ | **[Visual Keyholder - Tanger Outlets Charleston](https://jobright.ai/jobs/info/6893f2c8f47efe2113967fed?utm_campaign=Sales&utm_source=1103)** | North Charleston, SC | Hybrid | Oct 24 |
 | **[CosmoProf Beauty](http://www.cosmoprofbeauty.com)** | **[Inside Sales Associate CosmoProf 66000](https://jobright.ai/jobs/info/67a34474a39d448bdddb5275?utm_campaign=Sales&utm_source=1103)** | Novi, MI | On Site | Oct 24 |
+| **[Johnson Controls](http://www.johnsoncontrols.com)** | **[BEST - Technical Sales - HVAC Controls - Fargo, ND](https://jobright.ai/jobs/info/68c2e4eb5001f8077bf5f1d7?utm_campaign=Sales&utm_source=1103)** | Fargo, ND | On Site | Oct 24 |
 | **[Supermicro](http://www.supermicro.com)** | **[Account Manager](https://jobright.ai/jobs/info/68c2057633864f172f9bc65e?utm_campaign=Sales&utm_source=1103)** | San Jose, CA | On Site | Oct 24 |
-| **[Johnson Controls](http://www.johnsoncontrols.com)** | **[BEST - Technical Sales - HVAC Controls - Phoenix, AZ](https://jobright.ai/jobs/info/68c3d45980e77b1fa6fcd94a?utm_campaign=Sales&utm_source=1103)** | Tempe, AZ | On Site | Oct 24 |
+| **[Johnson Controls](http://www.johnsoncontrols.com)** | **[BEST - Technical Sales - HVAC Controls - Livermore, CA](https://jobright.ai/jobs/info/68daf98c6df7b8311bb14e59?utm_campaign=Sales&utm_source=1103)** | Livermore, CA | On Site | Oct 24 |
+| ↳ | **[BEST - Technical Sales - HVAC Controls - Phoenix, AZ](https://jobright.ai/jobs/info/68c3d45980e77b1fa6fcd94a?utm_campaign=Sales&utm_source=1103)** | Tempe, AZ | On Site | Oct 24 |
 | ↳ | **[BEST - Technical Sales - HVAC Controls - Houston, TX](https://jobright.ai/jobs/info/68c9b4b7a0c52d598ea3a3fa?utm_campaign=Sales&utm_source=1103)** | Houston, TX | On Site | Oct 24 |
+| **[ADP](http://www.adp.com)** | **[Entry Level Outside Sales Rep](https://jobright.ai/jobs/info/68ce89b2fb49c96ca6ea166f?utm_campaign=Sales&utm_source=1103)** | San Diego, CA | On Site | Oct 23 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[BEST - Technical Sales - Equipment - Washington D.C](https://jobright.ai/jobs/info/68c12a934d652f0447756498?utm_campaign=Sales&utm_source=1103)** | Capitol Heights, MD | On Site | Oct 23 |
 | **[Adobe](http://www.adobe.com)** | **[Business Development Representative](https://jobright.ai/jobs/info/68c98596a0c52d598ea3823a?utm_campaign=Sales&utm_source=1103)** | Littleton, CO | On Site | Oct 23 |
 | **[Tawa Supermarket, Inc.](http://www.99ranch.com)** | **[Sales Assistant (IL)](https://jobright.ai/jobs/info/6842e315613815dc8868d8e9?utm_campaign=Sales&utm_source=1103)** | Bolingbrook, IL | On Site | Oct 23 |
@@ -106,7 +109,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Medicare Sales Field Agent - Burlington County, NJ](https://jobright.ai/jobs/info/68db031f0dffed6f83d2be11?utm_campaign=Sales&utm_source=1103)** | Mount Holly, NJ | Remote | Oct 21 |
 | **[National Federation of Independent Business (NFIB)](http://www.nfib.com/)** | **[Outside Sales Representative](https://jobright.ai/jobs/info/68d6ad69d3fe025a3015b28c?utm_campaign=Sales&utm_source=1103)** | Oxford, AL | On Site | Oct 21 |
 | **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Seasonal Associate-Willowbrook PINK](https://jobright.ai/jobs/info/68bf8a365c5d5f14f46d7e63?utm_campaign=Sales&utm_source=1103)** | Wayne, NJ | On Site | Oct 21 |
-| **[Walmart](http://www.walmart.com)** | **[Seasonal Team Associate](https://jobright.ai/jobs/info/68db2e81e9b48513789b2722?utm_campaign=Sales&utm_source=1103)** | Hendersonville, TN | On Site | Oct 21 |
 | **[Humana](http://www.humana.com)** | **[Medicare Sales Field Agent - Prince George's County, MD](https://jobright.ai/jobs/info/68db02da0dffed6f83d2bdb8?utm_campaign=Sales&utm_source=1103)** | Bowie, MD | Remote | Oct 21 |
 | **[Ryan Specialty](https://ryanspecialty.com)** | **[Brokerage Operations Coordinator](https://jobright.ai/jobs/info/68bf342b5c5d5f14f46d4c7b?utm_campaign=Sales&utm_source=1103)** | Dallas, TX | On Site | Oct 21 |
 | **[CosmoProf Beauty](http://www.cosmoprofbeauty.com)** | **[Inside Sales Associate- CosmoProf- 09654](https://jobright.ai/jobs/info/67220ee7bd1553c54c408df2?utm_campaign=Sales&utm_source=1103)** | Bridgeport, WV | On Site | Oct 21 |
@@ -132,7 +134,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b98c948043103d4f21819b?utm_campaign=Sales&utm_source=1103)** | Willow Grove, PA | On Site | Oct 20 |
 | **[Madison Reed](http://www.madison-reed.com)** | **[Shift Lead, Licensed Cosmetologist](https://jobright.ai/jobs/info/68cc833c128dc347fd926004?utm_campaign=Sales&utm_source=1103)** | Walnut Creek, CA | On Site | Oct 20 |
 | **[Spirit Halloween](http://www.spirithalloween.com)** | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b19fe81ade4306aa630c35?utm_campaign=Sales&utm_source=1103)** | Webster Groves, MO | On Site | Oct 20 |
-| **[Spirit Halloween](http://www.spirithalloween.com)** | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68bd7b42c4c5904ff6003957?utm_campaign=Sales&utm_source=1103)** | Saugus, MA | On Site | Oct 19 |
+| **[Spirit Halloween](http://www.spirithalloween.com)** | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b43d92bc187f64e1be3193?utm_campaign=Sales&utm_source=1103)** | Troy Hills, NJ | On Site | Oct 19 |
+| ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68bd775fdf5eec448f63cc1d?utm_campaign=Sales&utm_source=1103)** | Uniontown, PA | On Site | Oct 19 |
+| ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68bd7b42c4c5904ff6003957?utm_campaign=Sales&utm_source=1103)** | Saugus, MA | On Site | Oct 19 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68cc0d9c16d00d2beeb19017?utm_campaign=Sales&utm_source=1103)** | Hanover, PA | On Site | Oct 19 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b58f7ef4e41a61efd9026b?utm_campaign=Sales&utm_source=1103)** | Wyomissing, PA | On Site | Oct 19 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68c95d69a0c52d598ea36bd0?utm_campaign=Sales&utm_source=1103)** | Belton, MO | On Site | Oct 19 |
