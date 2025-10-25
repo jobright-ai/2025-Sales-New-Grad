@@ -78,6 +78,7 @@ For a complete list, click the following sortable link below:
 | **[Kimball Midwest](https://www.kimballmidwest.com)** | **[Outside Sales Representative](https://jobright.ai/jobs/info/68b9e1c46105227d1189888c?utm_campaign=Sales&utm_source=1103)** | Jersey Village, TX | Hybrid | Oct 23 |
 | **[Spirit Halloween](http://www.spirithalloween.com)** | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68da97850b832179ca4ae922?utm_campaign=Sales&utm_source=1103)** | Bethpage, NY | On Site | Oct 23 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[BEST - Technical Sales - Equipment - Raleigh, NC](https://jobright.ai/jobs/info/68c1368a3fd8b059a20ef032?utm_campaign=Sales&utm_source=1103)** | Raleigh, NC | On Site | Oct 23 |
+| **[Spirit Halloween](http://www.spirithalloween.com)** | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b43cbdf4e41a61efd8c06f?utm_campaign=Sales&utm_source=1103)** | Shawnee, OK | On Site | Oct 23 |
 | **[Ulta Beauty](https://www.ulta.com)** | **[Seasonal Task Associate](https://jobright.ai/jobs/info/68ce668cfb49c96ca6ea0027?utm_campaign=Sales&utm_source=1103)** | Cerritos, CA | On Site | Oct 23 |
 | **[New Western](http://www.newwestern.com)** | **[Investment Real Estate Sales Agent](https://jobright.ai/jobs/info/659dd642b181d53e6de3a13b?utm_campaign=Sales&utm_source=1103)** | Atlanta, GA | Hybrid | Oct 23 |
 | **[Spirit Halloween](http://www.spirithalloween.com)** | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68c84a58f9c6ff7aedf0c925?utm_campaign=Sales&utm_source=1103)** | Reading, MA | On Site | Oct 23 |
@@ -114,6 +115,7 @@ For a complete list, click the following sortable link below:
 | **[Humana](http://www.humana.com)** | **[Medicare Sales Field Agent - Springfield, MO](https://jobright.ai/jobs/info/68db02fae9b48513789b1225?utm_campaign=Sales&utm_source=1103)** | Springfield, MO | Remote | Oct 21 |
 | ↳ | **[Medicare Sales Field Agent - Burlington County, NJ](https://jobright.ai/jobs/info/68db031f0dffed6f83d2be11?utm_campaign=Sales&utm_source=1103)** | Mount Holly, NJ | Remote | Oct 21 |
 | **[National Federation of Independent Business (NFIB)](http://www.nfib.com/)** | **[Outside Sales Representative](https://jobright.ai/jobs/info/68d6ad69d3fe025a3015b28c?utm_campaign=Sales&utm_source=1103)** | Oxford, AL | On Site | Oct 21 |
+| **[Humana](http://www.humana.com)** | **[Medicare Sales Field Agent - DeSoto County, MS](https://jobright.ai/jobs/info/68db07636df7b8311bb1589f?utm_campaign=Sales&utm_source=1103)** | Southaven, MS | Remote | Oct 21 |
 | **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Seasonal Associate-Willowbrook PINK](https://jobright.ai/jobs/info/68bf8a365c5d5f14f46d7e63?utm_campaign=Sales&utm_source=1103)** | Wayne, NJ | On Site | Oct 21 |
 | **[Humana](http://www.humana.com)** | **[Medicare Sales Field Agent - Prince George's County, MD](https://jobright.ai/jobs/info/68db02da0dffed6f83d2bdb8?utm_campaign=Sales&utm_source=1103)** | Bowie, MD | Remote | Oct 21 |
 | **[Ryan Specialty](https://ryanspecialty.com)** | **[Brokerage Operations Coordinator](https://jobright.ai/jobs/info/68bf342b5c5d5f14f46d4c7b?utm_campaign=Sales&utm_source=1103)** | Dallas, TX | On Site | Oct 21 |
@@ -173,5 +175,4 @@ For a complete list, click the following sortable link below:
 | **[Madison Reed](http://www.madison-reed.com)** | **[Hair Color Bar Assistant, Licensed Cosmetologist](https://jobright.ai/jobs/info/68ca3351d4187c55157a7e2a?utm_campaign=Sales&utm_source=1103)** | Washington, DC | On Site | Oct 19 |
 | **[Spirit Halloween](http://www.spirithalloween.com)** | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68ca62bf5f9f0336447dceef?utm_campaign=Sales&utm_source=1103)** | Petoskey, MI | On Site | Oct 19 |
 | **[Camping World](http://www.campingworld.com/)** | **[Sales Development Rep](https://jobright.ai/jobs/info/688421ed835a903aa07fa35a?utm_campaign=Sales&utm_source=1103)** | Longmont, CO | On Site | Oct 19 |
-| **[Option Care Health](https://optioncarehealth.com)** | **[Territory Sales Manager / Acute Therapies](https://jobright.ai/jobs/info/68d1fd7aa54edb3bf3e188d5?utm_campaign=Sales&utm_source=1103)** | Richmond, VA | On Site | Oct 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
