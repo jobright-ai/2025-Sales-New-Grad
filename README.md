@@ -160,5 +160,4 @@ For a complete list, click the following sortable link below:
 | **[Spirit Halloween](http://www.spirithalloween.com)** | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68ca62bf5f9f0336447dceef?utm_campaign=Sales&utm_source=1103)** | Petoskey, MI | On Site | Oct 19 |
 | **[Camping World](http://www.campingworld.com/)** | **[Sales Development Rep](https://jobright.ai/jobs/info/688421ed835a903aa07fa35a?utm_campaign=Sales&utm_source=1103)** | Longmont, CO | On Site | Oct 19 |
 | **[Option Care Health](https://optioncarehealth.com)** | **[Territory Sales Manager / Acute Therapies](https://jobright.ai/jobs/info/68d1fd7aa54edb3bf3e188d5?utm_campaign=Sales&utm_source=1103)** | Richmond, VA | On Site | Oct 18 |
-| **[Saputo Inc.](http://www.saputo.com/)** | **[Field Representative, Sales](https://jobright.ai/jobs/info/689d222c83d13d1f5b6ad6c5?utm_campaign=Sales&utm_source=1103)** | Milwaukee, WI | On Site | Oct 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
