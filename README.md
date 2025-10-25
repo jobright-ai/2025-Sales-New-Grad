@@ -79,7 +79,8 @@ For a complete list, click the following sortable link below:
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[BEST - Technical Sales - Equipment - Atlanta, GA](https://jobright.ai/jobs/info/68c135104d652f0447756a89?utm_campaign=Sales&utm_source=1103)** | Roswell, GA | On Site | Oct 23 |
 | ↳ | **[BEST - Technical Sales - Equipment - Houston, TX](https://jobright.ai/jobs/info/68c15c50233c7d3e64d01755?utm_campaign=Sales&utm_source=1103)** | Houston, TX | On Site | Oct 23 |
 | ↳ | **[BEST - Technical Sales - HVAC Controls - St Louis, MO](https://jobright.ai/jobs/info/68c289f2b535a221b153bb87?utm_campaign=Sales&utm_source=1103)** | St Louis, MO | On Site | Oct 23 |
-| **[Spirit Halloween](http://www.spirithalloween.com)** | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68daf2cf07c157682e57003a?utm_campaign=Sales&utm_source=1103)** | Rockaway, NJ | On Site | Oct 22 |
+| **[Spirit Halloween](http://www.spirithalloween.com)** | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68ce3e4924dd5209002f0d76?utm_campaign=Sales&utm_source=1103)** | Watchung, NJ | On Site | Oct 22 |
+| ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68daf2cf07c157682e57003a?utm_campaign=Sales&utm_source=1103)** | Rockaway, NJ | On Site | Oct 22 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68da97b807c157682e56b363?utm_campaign=Sales&utm_source=1103)** | Hurst, TX | On Site | Oct 22 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68daef636df7b8311bb143a4?utm_campaign=Sales&utm_source=1103)** | Sand City, CA | On Site | Oct 22 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b6e899f4e41a61efd948a4?utm_campaign=Sales&utm_source=1103)** | Fairview Heights, IL | On Site | Oct 22 |
@@ -142,7 +143,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b19e411ade4306aa630a9a?utm_campaign=Sales&utm_source=1103)** | East Brunswick, NJ | On Site | Oct 19 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68bd76cdc4c5904ff600390f?utm_campaign=Sales&utm_source=1103)** | Shenandoah, TX | On Site | Oct 19 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b97ee26105227d11895148?utm_campaign=Sales&utm_source=1103)** | Midlothian, VA | On Site | Oct 19 |
-| ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68ce3e4924dd5209002f0d76?utm_campaign=Sales&utm_source=1103)** | Watchung, NJ | On Site | Oct 19 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b2ed88f4e41a61efd883fd?utm_campaign=Sales&utm_source=1103)** | Santa Rosa, CA | On Site | Oct 19 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68cd4af8b2a74e1837ed5025?utm_campaign=Sales&utm_source=1103)** | Washington, UT | On Site | Oct 19 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68c55131db52c07d288424b8?utm_campaign=Sales&utm_source=1103)** | Southampton, PA | On Site | Oct 19 |
