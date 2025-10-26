@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Duro-Last](https://duro-last.com)** | **[Technical Sales Rep - DC](https://jobright.ai/jobs/info/68ce4a91dbd9fb154edddc29?utm_campaign=Sales&utm_source=1103)** | Massachusetts, United States | On Site | Oct 25 |
 | **[Samsara](http://www.samsara.com)** | **[Enterprise Business Development Representative- Outbound](https://jobright.ai/jobs/info/68a774afd627244576e2ca28?utm_campaign=Sales&utm_source=1103)** | Atlanta, GA | Hybrid | Oct 25 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[BEST - Technical Sales - Security Systems - Long Island, NY](https://jobright.ai/jobs/info/68d8f656022fc803b487697a?utm_campaign=Sales&utm_source=1103)** | New York, NY | On Site | Oct 25 |
 | ↳ | **[BEST - Technical Sales - Fire Systems - Nashville, TN](https://jobright.ai/jobs/info/68daf9636df7b8311bb14dea?utm_campaign=Sales&utm_source=1103)** | Nashville, TN | On Site | Oct 25 |
 | ↳ | **[BEST - Technical Sales - Security Systems - San Diego, CA](https://jobright.ai/jobs/info/68daff2ee9b48513789b0f64?utm_campaign=Sales&utm_source=1103)** | San Diego, CA | On Site | Oct 25 |
+| **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[Breast Care Sales Representative - Inland Empire, CA - Endoscopy](https://jobright.ai/jobs/info/68c65efa7d0db411427392db?utm_campaign=Sales&utm_source=1103)** | Riverside, CA | On Site | Oct 24 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[BEST - Technical Sales - Fire Systems - Lexington, KY](https://jobright.ai/jobs/info/68c2d80563829b0a8a4fd5c1?utm_campaign=Sales&utm_source=1103)** | Lexington, KY | On Site | Oct 24 |
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[Client Relationship Analyst](https://jobright.ai/jobs/info/68d2ef88f0d9af73038dd047?utm_campaign=Sales&utm_source=1103)** | Barrington, IL | On Site | Oct 24 |
 | **[Paradies Lagardère](https://paradieslagardere.com/)** | **[Stock Replenisher](https://jobright.ai/jobs/info/67fd60a346fb01cc98467cfa?utm_campaign=Sales&utm_source=1103)** | Atlanta Metro | On Site | Oct 24 |
@@ -98,8 +100,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68da97b807c157682e56b363?utm_campaign=Sales&utm_source=1103)** | Hurst, TX | On Site | Oct 22 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68daef636df7b8311bb143a4?utm_campaign=Sales&utm_source=1103)** | Sand City, CA | On Site | Oct 22 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b6e899f4e41a61efd948a4?utm_campaign=Sales&utm_source=1103)** | Fairview Heights, IL | On Site | Oct 22 |
-| **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[Breast Care Sales Representative - Inland Empire, CA - Endoscopy](https://jobright.ai/jobs/info/68c65efa7d0db411427392db?utm_campaign=Sales&utm_source=1103)** | Riverside, CA | On Site | Oct 22 |
-| **[Spirit Halloween](http://www.spirithalloween.com)** | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68da98196df7b8311bb0fdbd?utm_campaign=Sales&utm_source=1103)** | Camp Hill, PA | On Site | Oct 22 |
+| ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68da98196df7b8311bb0fdbd?utm_campaign=Sales&utm_source=1103)** | Camp Hill, PA | On Site | Oct 22 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b58be2bc187f64e1be71cd?utm_campaign=Sales&utm_source=1103)** | Riverdale, UT | On Site | Oct 22 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b5890e1ade4306aa642163?utm_campaign=Sales&utm_source=1103)** | Easton, MD | On Site | Oct 22 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b58744bc187f64e1be70b9?utm_campaign=Sales&utm_source=1103)** | Torrington, CT | On Site | Oct 22 |
