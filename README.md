@@ -178,5 +178,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68bc29ee6105227d118ac02e?utm_campaign=Sales&utm_source=1103)** | Phillipsburg, NJ | On Site | Oct 19 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68c50cebdb52c07d288407a2?utm_campaign=Sales&utm_source=1103)** | Township of Delran, NJ | On Site | Oct 19 |
 | **[Kimball Midwest](https://www.kimballmidwest.com)** | **[Outside Sales Representative](https://jobright.ai/jobs/info/66770601acb63b6016fb00ee?utm_campaign=Sales&utm_source=1103)** | San Diego, CA | Hybrid | Oct 19 |
-| **[Spirit Halloween](http://www.spirithalloween.com)** | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68d8b19bed09d95201eb610e?utm_campaign=Sales&utm_source=1103)** | Vancouver, WA | On Site | Oct 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
