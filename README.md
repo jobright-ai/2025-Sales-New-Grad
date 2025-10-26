@@ -97,6 +97,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[BEST - Technical Sales - HVAC Controls - St Louis, MO](https://jobright.ai/jobs/info/68c289f2b535a221b153bb87?utm_campaign=Sales&utm_source=1103)** | St Louis, MO | On Site | Oct 23 |
 | **[Spirit Halloween](http://www.spirithalloween.com)** | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68ce3e4924dd5209002f0d76?utm_campaign=Sales&utm_source=1103)** | Watchung, NJ | On Site | Oct 22 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68daf2cf07c157682e57003a?utm_campaign=Sales&utm_source=1103)** | Rockaway, NJ | On Site | Oct 22 |
+| ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68ce3f5824dd5209002f0e79?utm_campaign=Sales&utm_source=1103)** | Rocky River, OH | On Site | Oct 22 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68da97b807c157682e56b363?utm_campaign=Sales&utm_source=1103)** | Hurst, TX | On Site | Oct 22 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68daef636df7b8311bb143a4?utm_campaign=Sales&utm_source=1103)** | Sand City, CA | On Site | Oct 22 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b6e899f4e41a61efd948a4?utm_campaign=Sales&utm_source=1103)** | Fairview Heights, IL | On Site | Oct 22 |
@@ -115,6 +116,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Entry Level Outside Sales Rep](https://jobright.ai/jobs/info/68c14b803fd8b059a20ef5e7?utm_campaign=Sales&utm_source=1103)** | Rancho Cucamonga, CA | On Site | Oct 22 |
 | **[L'OCCITANE Group (B Corp)](https://group.loccitane.com/)** | **[Beauty Host - Full Time - Palo Alto](https://jobright.ai/jobs/info/68c085995c5d5f14f46debdd?utm_campaign=Sales&utm_source=1103)** | Palo Alto, CA | On Site | Oct 22 |
 | **[Arjo](https://www.arjo.com/int/)** | **[Associate Account Executive - Long Term Care (northeast)](https://jobright.ai/jobs/info/68dac9c507c157682e56d970?utm_campaign=Sales&utm_source=1103)** | Boston, MA | Remote | Oct 21 |
+| **[Humana](http://www.humana.com)** | **[Medicare Sales Field Agent - Milwaukee, WI](https://jobright.ai/jobs/info/68db075a6df7b8311bb15889?utm_campaign=Sales&utm_source=1103)** | Milwaukee, WI | Remote | Oct 21 |
 | **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Seasonal Associate-Springfield](https://jobright.ai/jobs/info/68bf965c8e65e77df55bb7fe?utm_campaign=Sales&utm_source=1103)** | Springfield, PA | On Site | Oct 21 |
 | ↳ | **[Seasonal Associate-Roosevelt Field PINK](https://jobright.ai/jobs/info/68bf89de702aa35207aa7498?utm_campaign=Sales&utm_source=1103)** | Garden City, NY | On Site | Oct 21 |
 | **[Humana](http://www.humana.com)** | **[Medicare Sales Field Agent - Springfield, MO](https://jobright.ai/jobs/info/68db02fae9b48513789b1225?utm_campaign=Sales&utm_source=1103)** | Springfield, MO | Remote | Oct 21 |
@@ -136,7 +138,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68bc2abb8043103d4f22e835?utm_campaign=Sales&utm_source=1103)** | Madison Heights, MI | On Site | Oct 20 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68bc2a005f383274918752a6?utm_campaign=Sales&utm_source=1103)** | Seabrook, TX | On Site | Oct 20 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b4353e1ade4306aa63e0ee?utm_campaign=Sales&utm_source=1103)** | Allen Park, MI | On Site | Oct 20 |
-| ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68ce3f5824dd5209002f0e79?utm_campaign=Sales&utm_source=1103)** | Rocky River, OH | On Site | Oct 20 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68bad7655f38327491869fba?utm_campaign=Sales&utm_source=1103)** | Woodbury, MN | On Site | Oct 20 |
 | **[The Kolter Group](http://kolter.com)** | **[New Home Sales Specialist](https://jobright.ai/jobs/info/68d1caf717554c2d9eedfc41?utm_campaign=Sales&utm_source=1103)** | Port St Lucie, FL | On Site | Oct 20 |
 | **[Spirit Halloween](http://www.spirithalloween.com)** | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68c95ed5f9c6ff7aedf194f9?utm_campaign=Sales&utm_source=1103)** | Severna Park, MD | On Site | Oct 20 |
@@ -179,5 +180,4 @@ For a complete list, click the following sortable link below:
 | **[Golf Galaxy](http://www.golfgalaxy.com)** | **[Retail Golf Equipment Sales Associate](https://jobright.ai/jobs/info/68d92b7d061b716fa2959fbd?utm_campaign=Sales&utm_source=1103)** | Columbus, OH | On Site | Oct 19 |
 | **[Madison Reed](http://www.madison-reed.com)** | **[Hair Color Bar Assistant, Licensed Cosmetologist](https://jobright.ai/jobs/info/68ca3351d4187c55157a7e2a?utm_campaign=Sales&utm_source=1103)** | Washington, DC | On Site | Oct 19 |
 | **[Spirit Halloween](http://www.spirithalloween.com)** | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68ca62bf5f9f0336447dceef?utm_campaign=Sales&utm_source=1103)** | Petoskey, MI | On Site | Oct 19 |
-| **[Camping World](http://www.campingworld.com/)** | **[Sales Development Rep](https://jobright.ai/jobs/info/688421ed835a903aa07fa35a?utm_campaign=Sales&utm_source=1103)** | Longmont, CO | On Site | Oct 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
