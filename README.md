@@ -64,6 +64,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[BEST - Technical Sales - Security Systems - Irvine, CA](https://jobright.ai/jobs/info/68d8f6599a8e451a446a4238?utm_campaign=Sales&utm_source=1103)** | Irvine, CA | On Site | Oct 25 |
 | ↳ | **[BEST - Technical Sales - Security - Baltimore, MD](https://jobright.ai/jobs/info/68dafc040dffed6f83d2b94b?utm_campaign=Sales&utm_source=1103)** | Linthicum, MD | On Site | Oct 25 |
 | ↳ | **[BEST - Technical Sales - Security Systems - San Diego, CA](https://jobright.ai/jobs/info/68daff2ee9b48513789b0f64?utm_campaign=Sales&utm_source=1103)** | San Diego, CA | On Site | Oct 25 |
+| ↳ | **[BEST - Technical Sales - HVAC Controls- Plymouth, MN](https://jobright.ai/jobs/info/68db79ff9f13662d20e4b9df?utm_campaign=Sales&utm_source=1103)** | Plymouth, MN | On Site | Oct 25 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[BEST - Technical Sales - HVAC Controls - Baltimore, MD](https://jobright.ai/jobs/info/68db494a34f2c406da6d6243?utm_campaign=Sales&utm_source=1103)** | Rosedale, MD | On Site | Oct 24 |
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[Breast Care Sales Representative - Inland Empire, CA - Endoscopy](https://jobright.ai/jobs/info/68c65efa7d0db411427392db?utm_campaign=Sales&utm_source=1103)** | Riverside, CA | On Site | Oct 24 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[BEST - Technical Sales - Fire Systems - Lexington, KY](https://jobright.ai/jobs/info/68c2d80563829b0a8a4fd5c1?utm_campaign=Sales&utm_source=1103)** | Lexington, KY | On Site | Oct 24 |
@@ -77,8 +78,7 @@ For a complete list, click the following sortable link below:
 | **[CosmoProf Beauty](http://www.cosmoprofbeauty.com)** | **[Inside Sales Associate CosmoProf 66000](https://jobright.ai/jobs/info/67a34474a39d448bdddb5275?utm_campaign=Sales&utm_source=1103)** | Novi, MI | On Site | Oct 24 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[BEST - Technical Sales - HVAC Controls - Fargo, ND](https://jobright.ai/jobs/info/68c2e4eb5001f8077bf5f1d7?utm_campaign=Sales&utm_source=1103)** | Fargo, ND | On Site | Oct 24 |
 | **[Supermicro](http://www.supermicro.com)** | **[Account Manager](https://jobright.ai/jobs/info/68c2057633864f172f9bc65e?utm_campaign=Sales&utm_source=1103)** | San Jose, CA | On Site | Oct 24 |
-| **[Johnson Controls](http://www.johnsoncontrols.com)** | **[BEST - Technical Sales - HVAC Controls - Livermore, CA](https://jobright.ai/jobs/info/68daf98c6df7b8311bb14e59?utm_campaign=Sales&utm_source=1103)** | Livermore, CA | On Site | Oct 24 |
-| ↳ | **[BEST - Technical Sales - HVAC Controls - Phoenix, AZ](https://jobright.ai/jobs/info/68c3d45980e77b1fa6fcd94a?utm_campaign=Sales&utm_source=1103)** | Tempe, AZ | On Site | Oct 24 |
+| **[Johnson Controls](http://www.johnsoncontrols.com)** | **[BEST - Technical Sales - HVAC Controls - Phoenix, AZ](https://jobright.ai/jobs/info/68c3d45980e77b1fa6fcd94a?utm_campaign=Sales&utm_source=1103)** | Tempe, AZ | On Site | Oct 24 |
 | ↳ | **[BEST - Technical Sales - HVAC Controls - Houston, TX](https://jobright.ai/jobs/info/68c9b4b7a0c52d598ea3a3fa?utm_campaign=Sales&utm_source=1103)** | Houston, TX | On Site | Oct 24 |
 | **[ADP](http://www.adp.com)** | **[Entry Level Outside Sales Rep](https://jobright.ai/jobs/info/68ce89b2fb49c96ca6ea166f?utm_campaign=Sales&utm_source=1103)** | San Diego, CA | On Site | Oct 23 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[BEST - Technical Sales - Equipment - Washington D.C](https://jobright.ai/jobs/info/68c12a934d652f0447756498?utm_campaign=Sales&utm_source=1103)** | Capitol Heights, MD | On Site | Oct 23 |
@@ -177,5 +177,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68bae1046105227d118a11be?utm_campaign=Sales&utm_source=1103)** | Troy, OH | On Site | Oct 19 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68bc29ee6105227d118ac02e?utm_campaign=Sales&utm_source=1103)** | Phillipsburg, NJ | On Site | Oct 19 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68c50cebdb52c07d288407a2?utm_campaign=Sales&utm_source=1103)** | Township of Delran, NJ | On Site | Oct 19 |
-| **[Kimball Midwest](https://www.kimballmidwest.com)** | **[Outside Sales Representative](https://jobright.ai/jobs/info/66770601acb63b6016fb00ee?utm_campaign=Sales&utm_source=1103)** | San Diego, CA | Hybrid | Oct 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
