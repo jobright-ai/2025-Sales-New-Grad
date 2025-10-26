@@ -61,6 +61,7 @@ For a complete list, click the following sortable link below:
 | **[Samsara](http://www.samsara.com)** | **[Enterprise Business Development Representative- Outbound](https://jobright.ai/jobs/info/68a774afd627244576e2ca28?utm_campaign=Sales&utm_source=1103)** | Atlanta, GA | Hybrid | Oct 25 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[BEST - Technical Sales - Security Systems - Long Island, NY](https://jobright.ai/jobs/info/68d8f656022fc803b487697a?utm_campaign=Sales&utm_source=1103)** | New York, NY | On Site | Oct 25 |
 | ↳ | **[BEST - Technical Sales - Fire Systems - Nashville, TN](https://jobright.ai/jobs/info/68daf9636df7b8311bb14dea?utm_campaign=Sales&utm_source=1103)** | Nashville, TN | On Site | Oct 25 |
+| ↳ | **[BEST - Technical Sales - Security Systems - Irvine, CA](https://jobright.ai/jobs/info/68d8f6599a8e451a446a4238?utm_campaign=Sales&utm_source=1103)** | Irvine, CA | On Site | Oct 25 |
 | ↳ | **[BEST - Technical Sales - Security Systems - San Diego, CA](https://jobright.ai/jobs/info/68daff2ee9b48513789b0f64?utm_campaign=Sales&utm_source=1103)** | San Diego, CA | On Site | Oct 25 |
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[Breast Care Sales Representative - Inland Empire, CA - Endoscopy](https://jobright.ai/jobs/info/68c65efa7d0db411427392db?utm_campaign=Sales&utm_source=1103)** | Riverside, CA | On Site | Oct 24 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[BEST - Technical Sales - Fire Systems - Lexington, KY](https://jobright.ai/jobs/info/68c2d80563829b0a8a4fd5c1?utm_campaign=Sales&utm_source=1103)** | Lexington, KY | On Site | Oct 24 |
@@ -79,6 +80,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[BEST - Technical Sales - HVAC Controls - Houston, TX](https://jobright.ai/jobs/info/68c9b4b7a0c52d598ea3a3fa?utm_campaign=Sales&utm_source=1103)** | Houston, TX | On Site | Oct 24 |
 | **[ADP](http://www.adp.com)** | **[Entry Level Outside Sales Rep](https://jobright.ai/jobs/info/68ce89b2fb49c96ca6ea166f?utm_campaign=Sales&utm_source=1103)** | San Diego, CA | On Site | Oct 23 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[BEST - Technical Sales - Equipment - Washington D.C](https://jobright.ai/jobs/info/68c12a934d652f0447756498?utm_campaign=Sales&utm_source=1103)** | Capitol Heights, MD | On Site | Oct 23 |
+| **[TruGreen](http://trugreen.com)** | **[Residential Lawn Specialist/Aerator](https://jobright.ai/jobs/info/6850c107e5a6ebcd0e55c3ca?utm_campaign=Sales&utm_source=1103)** | El Paso, TX | On Site | Oct 23 |
 | **[Adobe](http://www.adobe.com)** | **[Business Development Representative](https://jobright.ai/jobs/info/68c98596a0c52d598ea3823a?utm_campaign=Sales&utm_source=1103)** | Littleton, CO | On Site | Oct 23 |
 | **[Tawa Supermarket, Inc.](http://www.99ranch.com)** | **[Sales Assistant (IL)](https://jobright.ai/jobs/info/6842e315613815dc8868d8e9?utm_campaign=Sales&utm_source=1103)** | Bolingbrook, IL | On Site | Oct 23 |
 | **[Kimball Midwest](https://www.kimballmidwest.com)** | **[Outside Sales Representative](https://jobright.ai/jobs/info/68b9e1c46105227d1189888c?utm_campaign=Sales&utm_source=1103)** | Jersey Village, TX | Hybrid | Oct 23 |
@@ -136,7 +138,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b1a04cbc187f64e1bd5aca?utm_campaign=Sales&utm_source=1103)** | Montclair, CA | On Site | Oct 20 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b592931ade4306aa6423f1?utm_campaign=Sales&utm_source=1103)** | Countryside, IL | On Site | Oct 20 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68bc2abb8043103d4f22e835?utm_campaign=Sales&utm_source=1103)** | Madison Heights, MI | On Site | Oct 20 |
-| ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68bc2a005f383274918752a6?utm_campaign=Sales&utm_source=1103)** | Seabrook, TX | On Site | Oct 20 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b4353e1ade4306aa63e0ee?utm_campaign=Sales&utm_source=1103)** | Allen Park, MI | On Site | Oct 20 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68bad7655f38327491869fba?utm_campaign=Sales&utm_source=1103)** | Woodbury, MN | On Site | Oct 20 |
 | **[The Kolter Group](http://kolter.com)** | **[New Home Sales Specialist](https://jobright.ai/jobs/info/68d1caf717554c2d9eedfc41?utm_campaign=Sales&utm_source=1103)** | Port St Lucie, FL | On Site | Oct 20 |
@@ -179,5 +180,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68c2ca425adaee6c9bda418f?utm_campaign=Sales&utm_source=1103)** | Port Angeles, WA | On Site | Oct 19 |
 | **[Golf Galaxy](http://www.golfgalaxy.com)** | **[Retail Golf Equipment Sales Associate](https://jobright.ai/jobs/info/68d92b7d061b716fa2959fbd?utm_campaign=Sales&utm_source=1103)** | Columbus, OH | On Site | Oct 19 |
 | **[Madison Reed](http://www.madison-reed.com)** | **[Hair Color Bar Assistant, Licensed Cosmetologist](https://jobright.ai/jobs/info/68ca3351d4187c55157a7e2a?utm_campaign=Sales&utm_source=1103)** | Washington, DC | On Site | Oct 19 |
-| **[Spirit Halloween](http://www.spirithalloween.com)** | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68ca62bf5f9f0336447dceef?utm_campaign=Sales&utm_source=1103)** | Petoskey, MI | On Site | Oct 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
