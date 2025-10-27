@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Johnson Controls](http://www.johnsoncontrols.com)** | **[BEST - Technical Sales - Fire Systems - Harrisburg, PA](https://jobright.ai/jobs/info/68c429b4e396b25cb5c65d1f?utm_campaign=Sales&utm_source=1103)** | New Cumberland, PA | On Site | Oct 26 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[BEST - Technical Sales - Fire Systems - Atlanta, GA](https://jobright.ai/jobs/info/68dafbf70dffed6f83d2b91b?utm_campaign=Sales&utm_source=1103)** | Roswell, GA | On Site | Oct 25 |
 | ↳ | **[BEST - Technical Sales - Security Systems - Minneapolis, MN](https://jobright.ai/jobs/info/68c9e6de84fc1901fd41a7b6?utm_campaign=Sales&utm_source=1103)** | Roseville, MN | On Site | Oct 25 |
 | **[CIM Group](https://www.cimgroup.com)** | **[Associate, Client Engagement Group](https://jobright.ai/jobs/info/68531459c555b2c8c8304d11?utm_campaign=Sales&utm_source=1103)** | Los Angeles, CA | On Site | Oct 25 |
@@ -140,9 +141,4 @@ For a complete list, click the following sortable link below:
 | **[Ryan Specialty](https://ryanspecialty.com)** | **[Brokerage Operations Coordinator](https://jobright.ai/jobs/info/68bf342b5c5d5f14f46d4c7b?utm_campaign=Sales&utm_source=1103)** | Dallas, TX | On Site | Oct 21 |
 | **[CosmoProf Beauty](http://www.cosmoprofbeauty.com)** | **[Inside Sales Associate- CosmoProf- 09654](https://jobright.ai/jobs/info/67220ee7bd1553c54c408df2?utm_campaign=Sales&utm_source=1103)** | Bridgeport, WV | On Site | Oct 21 |
 | **[Movement Mortgage](https://movement.com)** | **[Inside Sales Agent](https://jobright.ai/jobs/info/68dafad90dffed6f83d2b7b7?utm_campaign=Sales&utm_source=1103)** | Fort Mill, SC | On Site | Oct 21 |
-| **[Spirit Halloween](http://www.spirithalloween.com)** | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68c2cb265adaee6c9bda4280?utm_campaign=Sales&utm_source=1103)** | Orchard Park, NY | On Site | Oct 20 |
-| ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68cad5a0d905e25191d9caff?utm_campaign=Sales&utm_source=1103)** | National City, CA | On Site | Oct 20 |
-| ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68bae2fa6105227d118a140c?utm_campaign=Sales&utm_source=1103)** | Upper Arlington, OH | On Site | Oct 20 |
-| ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b59143bc187f64e1be7379?utm_campaign=Sales&utm_source=1103)** | Doylestown, PA | On Site | Oct 20 |
-| ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b1a04cbc187f64e1bd5aca?utm_campaign=Sales&utm_source=1103)** | Montclair, CA | On Site | Oct 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
