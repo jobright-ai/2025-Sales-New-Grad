@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Johnson Controls](http://www.johnsoncontrols.com)** | **[BEST - Technical Sales - Security Systems - Minneapolis, MN](https://jobright.ai/jobs/info/68c9e6de84fc1901fd41a7b6?utm_campaign=Sales&utm_source=1103)** | Roseville, MN | On Site | Oct 25 |
+| **[Johnson Controls](http://www.johnsoncontrols.com)** | **[BEST - Technical Sales - Fire Systems - Atlanta, GA](https://jobright.ai/jobs/info/68dafbf70dffed6f83d2b91b?utm_campaign=Sales&utm_source=1103)** | Roswell, GA | On Site | Oct 25 |
+| ↳ | **[BEST - Technical Sales - Security Systems - Minneapolis, MN](https://jobright.ai/jobs/info/68c9e6de84fc1901fd41a7b6?utm_campaign=Sales&utm_source=1103)** | Roseville, MN | On Site | Oct 25 |
 | **[CIM Group](https://www.cimgroup.com)** | **[Associate, Client Engagement Group](https://jobright.ai/jobs/info/68531459c555b2c8c8304d11?utm_campaign=Sales&utm_source=1103)** | Los Angeles, CA | On Site | Oct 25 |
 | **[Duro-Last](https://duro-last.com)** | **[Technical Sales Rep - DC](https://jobright.ai/jobs/info/68ce4a91dbd9fb154edddc29?utm_campaign=Sales&utm_source=1103)** | Massachusetts, United States | On Site | Oct 25 |
 | **[Samsara](http://www.samsara.com)** | **[Enterprise Business Development Representative- Outbound](https://jobright.ai/jobs/info/68a774afd627244576e2ca28?utm_campaign=Sales&utm_source=1103)** | Atlanta, GA | Hybrid | Oct 25 |
@@ -149,5 +150,4 @@ For a complete list, click the following sortable link below:
 | **[TruGreen](http://trugreen.com)** | **[Residential Lawn Specialist/Aerator](https://jobright.ai/jobs/info/68aac20edaf1431824c8e184?utm_campaign=Sales&utm_source=1103)** | Fort Myers, FL | On Site | Oct 20 |
 | **[Spirit Halloween](http://www.spirithalloween.com)** | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b4353e1ade4306aa63e0ee?utm_campaign=Sales&utm_source=1103)** | Allen Park, MI | On Site | Oct 20 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68bad7655f38327491869fba?utm_campaign=Sales&utm_source=1103)** | Woodbury, MN | On Site | Oct 20 |
-| **[The Kolter Group](http://kolter.com)** | **[New Home Sales Specialist](https://jobright.ai/jobs/info/68d1caf717554c2d9eedfc41?utm_campaign=Sales&utm_source=1103)** | Port St Lucie, FL | On Site | Oct 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
