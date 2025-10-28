@@ -62,6 +62,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b98c948043103d4f21819b?utm_campaign=Sales&utm_source=1103)** | Willow Grove, PA | On Site | Oct 28 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68bae2fa6105227d118a140c?utm_campaign=Sales&utm_source=1103)** | Upper Arlington, OH | On Site | Oct 28 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b4427ebc187f64e1be31df?utm_campaign=Sales&utm_source=1103)** | Zanesville, OH | On Site | Oct 28 |
+| **[Alpine Physician Partners](https://alpine-physicians.com)** | **[Post Acute PA Opportunity: RVU Based Model – Above Market Earning Potential!](https://jobright.ai/jobs/info/6855f09e3a8383185c04a2b9?utm_campaign=Sales&utm_source=1103)** | Denver, CO | On Site | Oct 27 |
 | **[Ernest](http://www.ernestpackaging.com)** | **[Territory Sales Representative](https://jobright.ai/jobs/info/6894d6408c6d6b4426774cc7?utm_campaign=Sales&utm_source=1103)** | Tacoma, WA | Hybrid | Oct 27 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Sales Professional - Ag Technology](https://jobright.ai/jobs/info/6870136c01cc0956e7e7f03f?utm_campaign=Sales&utm_source=1103)** | Pasco, WA | On Site | Oct 26 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[BEST - Technical Sales - Fire Systems - Harrisburg, PA](https://jobright.ai/jobs/info/68c429b4e396b25cb5c65d1f?utm_campaign=Sales&utm_source=1103)** | New Cumberland, PA | On Site | Oct 26 |
