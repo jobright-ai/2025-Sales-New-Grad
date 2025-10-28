@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Ernest](http://www.ernestpackaging.com)** | **[Territory Sales Representative](https://jobright.ai/jobs/info/6894d6408c6d6b4426774cc7?utm_campaign=Sales&utm_source=1103)** | Tacoma, WA | Hybrid | Oct 27 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[BEST - Technical Sales - Fire Systems - Harrisburg, PA](https://jobright.ai/jobs/info/68c429b4e396b25cb5c65d1f?utm_campaign=Sales&utm_source=1103)** | New Cumberland, PA | On Site | Oct 26 |
+| ↳ | **[BEST - Technical Sales - HVAC Controls - Roanoke, VA](https://jobright.ai/jobs/info/68daf99b6df7b8311bb14e76?utm_campaign=Sales&utm_source=1103)** | Roanoke, VA | On Site | Oct 26 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[BEST - Technical Sales - Fire Systems - Atlanta, GA](https://jobright.ai/jobs/info/68dafbf70dffed6f83d2b91b?utm_campaign=Sales&utm_source=1103)** | Roswell, GA | On Site | Oct 25 |
 | ↳ | **[BEST - Technical Sales - Security Systems - Charleston, SC](https://jobright.ai/jobs/info/68dafaac0dffed6f83d2b797?utm_campaign=Sales&utm_source=1103)** | North Charleston, SC | On Site | Oct 25 |
 | ↳ | **[BEST - Technical Sales - Security Systems - Minneapolis, MN](https://jobright.ai/jobs/info/68c9e6de84fc1901fd41a7b6?utm_campaign=Sales&utm_source=1103)** | Roseville, MN | On Site | Oct 25 |
@@ -138,8 +139,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Seasonal Associate-Roosevelt Field PINK](https://jobright.ai/jobs/info/68bf89de702aa35207aa7498?utm_campaign=Sales&utm_source=1103)** | Garden City, NY | On Site | Oct 21 |
 | **[Humana](http://www.humana.com)** | **[Medicare Sales Field Agent - Springfield, MO](https://jobright.ai/jobs/info/68db02fae9b48513789b1225?utm_campaign=Sales&utm_source=1103)** | Springfield, MO | Remote | Oct 21 |
 | **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Selling Associate-The Mall of New Hampshire](https://jobright.ai/jobs/info/68a3ced237d3cc6b0d579d52?utm_campaign=Sales&utm_source=1103)** | Manchester, NH | On Site | Oct 21 |
-| **[Humana](http://www.humana.com)** | **[Medicare Sales Field Agent - Burlington County, NJ](https://jobright.ai/jobs/info/68db031f0dffed6f83d2be11?utm_campaign=Sales&utm_source=1103)** | Mount Holly, NJ | Remote | Oct 21 |
-| **[National Federation of Independent Business (NFIB)](http://www.nfib.com/)** | **[Outside Sales Representative](https://jobright.ai/jobs/info/68d6ad69d3fe025a3015b28c?utm_campaign=Sales&utm_source=1103)** | Oxford, AL | On Site | Oct 21 |
-| **[Humana](http://www.humana.com)** | **[Medicare Sales Field Agent - DeSoto County, MS](https://jobright.ai/jobs/info/68db07636df7b8311bb1589f?utm_campaign=Sales&utm_source=1103)** | Southaven, MS | Remote | Oct 21 |
-| **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Seasonal Associate-Willowbrook PINK](https://jobright.ai/jobs/info/68bf8a365c5d5f14f46d7e63?utm_campaign=Sales&utm_source=1103)** | Wayne, NJ | On Site | Oct 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
