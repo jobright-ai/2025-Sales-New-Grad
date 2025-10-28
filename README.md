@@ -74,7 +74,8 @@ For a complete list, click the following sortable link below:
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[BEST - Technical Sales - HVAC Controls - Baltimore, MD](https://jobright.ai/jobs/info/68db494a34f2c406da6d6243?utm_campaign=Sales&utm_source=1103)** | Rosedale, MD | On Site | Oct 24 |
 | ↳ | **[BEST - Technical Sales - HVAC Controls - Buffalo, NY](https://jobright.ai/jobs/info/68c3d1ea80e77b1fa6fcd7ac?utm_campaign=Sales&utm_source=1103)** | Williamsville, NY | On Site | Oct 24 |
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[Breast Care Sales Representative - Inland Empire, CA - Endoscopy](https://jobright.ai/jobs/info/68c65efa7d0db411427392db?utm_campaign=Sales&utm_source=1103)** | Riverside, CA | On Site | Oct 24 |
-| **[Johnson Controls](http://www.johnsoncontrols.com)** | **[BEST - Technical Sales - Fire Systems - Lexington, KY](https://jobright.ai/jobs/info/68c2d80563829b0a8a4fd5c1?utm_campaign=Sales&utm_source=1103)** | Lexington, KY | On Site | Oct 24 |
+| **[Johnson Controls](http://www.johnsoncontrols.com)** | **[BEST - Technical Sales - Fire Systems - Cranberry Township, PA](https://jobright.ai/jobs/info/68d2103917554c2d9eee2b5e?utm_campaign=Sales&utm_source=1103)** | Cranberry Township, PA | On Site | Oct 24 |
+| ↳ | **[BEST - Technical Sales - Fire Systems - Lexington, KY](https://jobright.ai/jobs/info/68c2d80563829b0a8a4fd5c1?utm_campaign=Sales&utm_source=1103)** | Lexington, KY | On Site | Oct 24 |
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[Client Relationship Analyst](https://jobright.ai/jobs/info/68d2ef88f0d9af73038dd047?utm_campaign=Sales&utm_source=1103)** | Barrington, IL | On Site | Oct 24 |
 | **[Paradies Lagardère](https://paradieslagardere.com/)** | **[Stock Replenisher](https://jobright.ai/jobs/info/67fd60a346fb01cc98467cfa?utm_campaign=Sales&utm_source=1103)** | Atlanta Metro | On Site | Oct 24 |
 | **[H&M](http://www.hm.com)** | **[Department Supervisor - Coral RidgeMall](https://jobright.ai/jobs/info/68a52518b6a3617d7fa6ed90?utm_campaign=Sales&utm_source=1103)** | Coralville, IA | On Site | Oct 24 |
@@ -94,7 +95,6 @@ For a complete list, click the following sortable link below:
 | **[Tawa Supermarket, Inc.](http://www.99ranch.com)** | **[Sales Assistant (IL)](https://jobright.ai/jobs/info/6842e315613815dc8868d8e9?utm_campaign=Sales&utm_source=1103)** | Bolingbrook, IL | On Site | Oct 23 |
 | **[Kimball Midwest](https://www.kimballmidwest.com)** | **[Outside Sales Representative](https://jobright.ai/jobs/info/68b9e1c46105227d1189888c?utm_campaign=Sales&utm_source=1103)** | Jersey Village, TX | Hybrid | Oct 23 |
 | **[Spirit Halloween](http://www.spirithalloween.com)** | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68da97850b832179ca4ae922?utm_campaign=Sales&utm_source=1103)** | Bethpage, NY | On Site | Oct 23 |
-| ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68c5b7017d0db41142734e26?utm_campaign=Sales&utm_source=1103)** | Santa Rosa, CA | On Site | Oct 23 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[BEST - Technical Sales - Equipment - Raleigh, NC](https://jobright.ai/jobs/info/68c1368a3fd8b059a20ef032?utm_campaign=Sales&utm_source=1103)** | Raleigh, NC | On Site | Oct 23 |
 | ↳ | **[BEST - Technical Sales - Equipment - San Antonio, TX](https://jobright.ai/jobs/info/68c135ba233c7d3e64d00e7b?utm_campaign=Sales&utm_source=1103)** | San Antonio, TX | On Site | Oct 23 |
 | **[Spirit Halloween](http://www.spirithalloween.com)** | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b43cbdf4e41a61efd8c06f?utm_campaign=Sales&utm_source=1103)** | Shawnee, OK | On Site | Oct 23 |
@@ -107,6 +107,7 @@ For a complete list, click the following sortable link below:
 | **[Spirit Halloween](http://www.spirithalloween.com)** | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68c50221db52c07d2883fccc?utm_campaign=Sales&utm_source=1103)** | East Point, GA | On Site | Oct 23 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[BEST - Technical Sales - Equipment - Houston, TX](https://jobright.ai/jobs/info/68c15c50233c7d3e64d01755?utm_campaign=Sales&utm_source=1103)** | Houston, TX | On Site | Oct 23 |
 | ↳ | **[BEST - Technical Sales - HVAC Controls - St Louis, MO](https://jobright.ai/jobs/info/68c289f2b535a221b153bb87?utm_campaign=Sales&utm_source=1103)** | St Louis, MO | On Site | Oct 23 |
+| **[Spirit Halloween](http://www.spirithalloween.com)** | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68ce3ce31ad6b16f028a33f4?utm_campaign=Sales&utm_source=1103)** | Santa Rosa, CA | On Site | Oct 23 |
 | **[Spirit Halloween](http://www.spirithalloween.com)** | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68ce3e4924dd5209002f0d76?utm_campaign=Sales&utm_source=1103)** | Watchung, NJ | On Site | Oct 22 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b58be8bc187f64e1be71d9?utm_campaign=Sales&utm_source=1103)** | Olean, NY | On Site | Oct 22 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68daf2cf07c157682e57003a?utm_campaign=Sales&utm_source=1103)** | Rockaway, NJ | On Site | Oct 22 |
