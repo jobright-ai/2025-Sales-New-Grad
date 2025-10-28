@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Ernest](http://www.ernestpackaging.com)** | **[Territory Sales Representative](https://jobright.ai/jobs/info/6894d6408c6d6b4426774cc7?utm_campaign=Sales&utm_source=1103)** | Tacoma, WA | Hybrid | Oct 27 |
+| **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Sales Professional - Ag Technology](https://jobright.ai/jobs/info/6870136c01cc0956e7e7f03f?utm_campaign=Sales&utm_source=1103)** | Pasco, WA | On Site | Oct 26 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[BEST - Technical Sales - Fire Systems - Harrisburg, PA](https://jobright.ai/jobs/info/68c429b4e396b25cb5c65d1f?utm_campaign=Sales&utm_source=1103)** | New Cumberland, PA | On Site | Oct 26 |
 | ↳ | **[BEST - Technical Sales - HVAC Controls - Roanoke, VA](https://jobright.ai/jobs/info/68daf99b6df7b8311bb14e76?utm_campaign=Sales&utm_source=1103)** | Roanoke, VA | On Site | Oct 26 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[BEST - Technical Sales - Fire Systems - Atlanta, GA](https://jobright.ai/jobs/info/68dafbf70dffed6f83d2b91b?utm_campaign=Sales&utm_source=1103)** | Roswell, GA | On Site | Oct 25 |
@@ -139,5 +140,4 @@ For a complete list, click the following sortable link below:
 | **[Humana](http://www.humana.com)** | **[Medicare Sales Field Agent - Milwaukee, WI](https://jobright.ai/jobs/info/68db075a6df7b8311bb15889?utm_campaign=Sales&utm_source=1103)** | Milwaukee, WI | Remote | Oct 21 |
 | **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Seasonal Associate-Springfield](https://jobright.ai/jobs/info/68bf965c8e65e77df55bb7fe?utm_campaign=Sales&utm_source=1103)** | Springfield, PA | On Site | Oct 21 |
 | ↳ | **[Seasonal Associate-Roosevelt Field PINK](https://jobright.ai/jobs/info/68bf89de702aa35207aa7498?utm_campaign=Sales&utm_source=1103)** | Garden City, NY | On Site | Oct 21 |
-| **[Humana](http://www.humana.com)** | **[Medicare Sales Field Agent - Springfield, MO](https://jobright.ai/jobs/info/68db02fae9b48513789b1225?utm_campaign=Sales&utm_source=1103)** | Springfield, MO | Remote | Oct 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
