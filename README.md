@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Goosehead Insurance](https://www.goosehead.com)** | **[Account Executive - The Sheets Agency](https://jobright.ai/jobs/info/68b20b97bc187f64e1bd8ecd?utm_campaign=Sales&utm_source=1103)** | Houston, TX | On Site | Oct 28 |
+| **[Spirit Halloween](http://www.spirithalloween.com)** | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68ce3f5824dd5209002f0e79?utm_campaign=Sales&utm_source=1103)** | Rocky River, OH | On Site | Oct 28 |
+| ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b438fbbc187f64e1be30fd?utm_campaign=Sales&utm_source=1103)** | Fairfield, OH | On Site | Oct 28 |
+| ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68bd7b42c4c5904ff6003957?utm_campaign=Sales&utm_source=1103)** | Saugus, MA | On Site | Oct 28 |
+| **[Goosehead Insurance](https://www.goosehead.com)** | **[Account Executive - The Sheets Agency](https://jobright.ai/jobs/info/68b2097d1ade4306aa633fcb?utm_campaign=Sales&utm_source=1103)** | Houston, TX | On Site | Oct 28 |
 | **[Spirit Halloween](http://www.spirithalloween.com)** | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b58f71f4e41a61efd90243?utm_campaign=Sales&utm_source=1103)** | Ashwaubenon, WI | On Site | Oct 28 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b98c948043103d4f21819b?utm_campaign=Sales&utm_source=1103)** | Willow Grove, PA | On Site | Oct 28 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68bae2fa6105227d118a140c?utm_campaign=Sales&utm_source=1103)** | Upper Arlington, OH | On Site | Oct 28 |
@@ -124,13 +127,11 @@ For a complete list, click the following sortable link below:
 | **[Spirit Halloween](http://www.spirithalloween.com)** | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68ce3e4924dd5209002f0d76?utm_campaign=Sales&utm_source=1103)** | Watchung, NJ | On Site | Oct 22 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b58be8bc187f64e1be71d9?utm_campaign=Sales&utm_source=1103)** | Olean, NY | On Site | Oct 22 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68daf2cf07c157682e57003a?utm_campaign=Sales&utm_source=1103)** | Rockaway, NJ | On Site | Oct 22 |
-| ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68ce3f5824dd5209002f0e79?utm_campaign=Sales&utm_source=1103)** | Rocky River, OH | On Site | Oct 22 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68da97b807c157682e56b363?utm_campaign=Sales&utm_source=1103)** | Hurst, TX | On Site | Oct 22 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68daef636df7b8311bb143a4?utm_campaign=Sales&utm_source=1103)** | Sand City, CA | On Site | Oct 22 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b6e899f4e41a61efd948a4?utm_campaign=Sales&utm_source=1103)** | Fairview Heights, IL | On Site | Oct 22 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68da98196df7b8311bb0fdbd?utm_campaign=Sales&utm_source=1103)** | Camp Hill, PA | On Site | Oct 22 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b58be2bc187f64e1be71cd?utm_campaign=Sales&utm_source=1103)** | Riverdale, UT | On Site | Oct 22 |
-| ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b438fbbc187f64e1be30fd?utm_campaign=Sales&utm_source=1103)** | Fairfield, OH | On Site | Oct 22 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b5890e1ade4306aa642163?utm_campaign=Sales&utm_source=1103)** | Easton, MD | On Site | Oct 22 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b58744bc187f64e1be70b9?utm_campaign=Sales&utm_source=1103)** | Torrington, CT | On Site | Oct 22 |
 | **[Vertigo Real Estate Ventures](https://www.vertigorev.com)** | **[Real Estate Sales Rep](https://jobright.ai/jobs/info/68ca38eaf61c922772a75556?utm_campaign=Sales&utm_source=1103)** | Denver, CO | On Site | Oct 22 |
@@ -138,8 +139,4 @@ For a complete list, click the following sortable link below:
 | **[Spirit Halloween](http://www.spirithalloween.com)** | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68da978207c157682e56b316?utm_campaign=Sales&utm_source=1103)** | Louisville, KY | On Site | Oct 22 |
 | **[Neiman Marcus](https://www.neimanmarcusgroup.com)** | **[Designer Sportswear Client Advisor - Palo Alto](https://jobright.ai/jobs/info/68c0dce2702aa35207ab12d2?utm_campaign=Sales&utm_source=1103)** | Palo Alto, CA | Hybrid | Oct 22 |
 | **[Ulta Beauty](https://www.ulta.com)** | **[Seasonal Task Associate](https://jobright.ai/jobs/info/68d539641f7fb2169ab0df33?utm_campaign=Sales&utm_source=1103)** | Rancho Santa Margarita, CA | On Site | Oct 22 |
-| **[ADP](http://www.adp.com)** | **[Entry Level Outside Sales Associate](https://jobright.ai/jobs/info/68d7155245853d0e39ccccbc?utm_campaign=Sales&utm_source=1103)** | Pleasanton, CA | On Site | Oct 22 |
-| ↳ | **[Entry Level Outside Sales Rep](https://jobright.ai/jobs/info/68d357e38c62e63bc7fdff32?utm_campaign=Sales&utm_source=1103)** | Irvine, CA | On Site | Oct 22 |
-| ↳ | **[Entry Level Outside Sales Rep](https://jobright.ai/jobs/info/68c14b803fd8b059a20ef5e7?utm_campaign=Sales&utm_source=1103)** | Rancho Cucamonga, CA | On Site | Oct 22 |
-| **[L'OCCITANE Group (B Corp)](https://group.loccitane.com/)** | **[Beauty Host - Full Time - Palo Alto](https://jobright.ai/jobs/info/68c085995c5d5f14f46debdd?utm_campaign=Sales&utm_source=1103)** | Palo Alto, CA | On Site | Oct 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
