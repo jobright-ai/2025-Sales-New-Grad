@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Williams-Sonoma, Inc.](http://www.williams-sonomainc.com)** | **[Sales Associate, Holiday Seasonal, North Market- Williams Sonoma](https://jobright.ai/jobs/info/6890b7f2f5ee707a15db933f?utm_campaign=Sales&utm_source=1103)** | Montvale, NJ | On Site | Oct 29 |
 | **[West Elm](https://www.westelm.com/)** | **[Sales Associate, Holiday Seasonal, Riverhead- West Elm Outlet](https://jobright.ai/jobs/info/68adeb92d627244576e4fd52?utm_campaign=Sales&utm_source=1103)** | Riverhead, NY | On Site | Oct 29 |
+| **[TruGreen](http://trugreen.com)** | **[Residential Lawn Specialist/Aerator](https://jobright.ai/jobs/info/685801f600765e147b8701bf?utm_campaign=Sales&utm_source=1103)** | Memphis, TN | On Site | Oct 29 |
 | **[Spirit Halloween](http://www.spirithalloween.com)** | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68cad5a0d905e25191d9caff?utm_campaign=Sales&utm_source=1103)** | National City, CA | On Site | Oct 28 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68c84a58f9c6ff7aedf0c925?utm_campaign=Sales&utm_source=1103)** | Reading, MA | On Site | Oct 28 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68c5b7017d0db41142734e26?utm_campaign=Sales&utm_source=1103)** | Santa Rosa, CA | On Site | Oct 28 |
@@ -133,5 +135,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b58be8bc187f64e1be71d9?utm_campaign=Sales&utm_source=1103)** | Olean, NY | On Site | Oct 22 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68daf2cf07c157682e57003a?utm_campaign=Sales&utm_source=1103)** | Rockaway, NJ | On Site | Oct 22 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68da97b807c157682e56b363?utm_campaign=Sales&utm_source=1103)** | Hurst, TX | On Site | Oct 22 |
-| ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68daef636df7b8311bb143a4?utm_campaign=Sales&utm_source=1103)** | Sand City, CA | On Site | Oct 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
