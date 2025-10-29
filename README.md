@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Abercrombie & Fitch Co.](http://abercrombie.com)** | **[Hollister Co. - Assistant Manager, Smith Haven](https://jobright.ai/jobs/info/683bac2598d8c539fda4e5f4?utm_campaign=Sales&utm_source=1103)** | Stony Brook, NY | On Site | Oct 29 |
 | **[Williams-Sonoma, Inc.](http://www.williams-sonomainc.com)** | **[Sales Associate, Holiday Seasonal, North Market- Williams Sonoma](https://jobright.ai/jobs/info/6890b7f2f5ee707a15db933f?utm_campaign=Sales&utm_source=1103)** | Montvale, NJ | On Site | Oct 29 |
 | **[West Elm](https://www.westelm.com/)** | **[Sales Associate, Holiday Seasonal, Riverhead- West Elm Outlet](https://jobright.ai/jobs/info/68adeb92d627244576e4fd52?utm_campaign=Sales&utm_source=1103)** | Riverhead, NY | On Site | Oct 29 |
 | **[TruGreen](http://trugreen.com)** | **[Residential Lawn Specialist/Aerator](https://jobright.ai/jobs/info/685801f600765e147b8701bf?utm_campaign=Sales&utm_source=1103)** | Memphis, TN | On Site | Oct 29 |
@@ -134,5 +135,4 @@ For a complete list, click the following sortable link below:
 | **[Spirit Halloween](http://www.spirithalloween.com)** | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68ce3e4924dd5209002f0d76?utm_campaign=Sales&utm_source=1103)** | Watchung, NJ | On Site | Oct 22 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b58be8bc187f64e1be71d9?utm_campaign=Sales&utm_source=1103)** | Olean, NY | On Site | Oct 22 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68daf2cf07c157682e57003a?utm_campaign=Sales&utm_source=1103)** | Rockaway, NJ | On Site | Oct 22 |
-| ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68da97b807c157682e56b363?utm_campaign=Sales&utm_source=1103)** | Hurst, TX | On Site | Oct 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
