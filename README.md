@@ -61,13 +61,15 @@ For a complete list, click the following sortable link below:
 | **[Williams-Sonoma, Inc.](http://www.williams-sonomainc.com)** | **[Sales Associate, Holiday Seasonal, North Market- Williams Sonoma](https://jobright.ai/jobs/info/6890b7f2f5ee707a15db933f?utm_campaign=Sales&utm_source=1103)** | Montvale, NJ | On Site | Oct 29 |
 | **[West Elm](https://www.westelm.com/)** | **[Sales Associate, Holiday Seasonal, Riverhead- West Elm Outlet](https://jobright.ai/jobs/info/68adeb92d627244576e4fd52?utm_campaign=Sales&utm_source=1103)** | Riverhead, NY | On Site | Oct 29 |
 | **[TruGreen](http://trugreen.com)** | **[Residential Lawn Specialist/Aerator](https://jobright.ai/jobs/info/685801f600765e147b8701bf?utm_campaign=Sales&utm_source=1103)** | Memphis, TN | On Site | Oct 29 |
-| **[Spirit Halloween](http://www.spirithalloween.com)** | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68cad5a0d905e25191d9caff?utm_campaign=Sales&utm_source=1103)** | National City, CA | On Site | Oct 28 |
+| **[Spirit Halloween](http://www.spirithalloween.com)** | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b58f7ef4e41a61efd9026b?utm_campaign=Sales&utm_source=1103)** | Wyomissing, PA | On Site | Oct 28 |
+| ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68cad5a0d905e25191d9caff?utm_campaign=Sales&utm_source=1103)** | National City, CA | On Site | Oct 28 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68c84a58f9c6ff7aedf0c925?utm_campaign=Sales&utm_source=1103)** | Reading, MA | On Site | Oct 28 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68c5b7017d0db41142734e26?utm_campaign=Sales&utm_source=1103)** | Santa Rosa, CA | On Site | Oct 28 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68ce3f5824dd5209002f0e79?utm_campaign=Sales&utm_source=1103)** | Rocky River, OH | On Site | Oct 28 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b438fbbc187f64e1be30fd?utm_campaign=Sales&utm_source=1103)** | Fairfield, OH | On Site | Oct 28 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68bd7b42c4c5904ff6003957?utm_campaign=Sales&utm_source=1103)** | Saugus, MA | On Site | Oct 28 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/6872a073a5ae807a59d06dc3?utm_campaign=Sales&utm_source=1103)** | Monterey, CA | On Site | Oct 28 |
+| ↳ | **[Sales Associate](https://jobright.ai/jobs/info/68bc2baa6105227d118ac154?utm_campaign=Sales&utm_source=1103)** | Fair Oaks, CA | On Site | Oct 28 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68c2ca425adaee6c9bda418f?utm_campaign=Sales&utm_source=1103)** | Port Angeles, WA | On Site | Oct 28 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68c95ccc95f5211cd2cefb90?utm_campaign=Sales&utm_source=1103)** | Apache Junction, AZ | On Site | Oct 28 |
 | **[Goosehead Insurance](https://www.goosehead.com)** | **[Account Executive - The Sheets Agency](https://jobright.ai/jobs/info/68b20b97bc187f64e1bd8ecd?utm_campaign=Sales&utm_source=1103)** | Houston, TX | On Site | Oct 28 |
@@ -105,8 +107,7 @@ For a complete list, click the following sortable link below:
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[Client Relationship Analyst](https://jobright.ai/jobs/info/68d2ef88f0d9af73038dd047?utm_campaign=Sales&utm_source=1103)** | Barrington, IL | On Site | Oct 24 |
 | **[Paradies Lagardère](https://paradieslagardere.com/)** | **[Stock Replenisher](https://jobright.ai/jobs/info/67fd60a346fb01cc98467cfa?utm_campaign=Sales&utm_source=1103)** | Atlanta Metro | On Site | Oct 24 |
 | **[H&M](http://www.hm.com)** | **[Department Supervisor - Coral RidgeMall](https://jobright.ai/jobs/info/68a52518b6a3617d7fa6ed90?utm_campaign=Sales&utm_source=1103)** | Coralville, IA | On Site | Oct 24 |
-| **[Madison Reed](http://www.madison-reed.com)** | **[Hair Color Bar Assistant, Licensed Cosmetologist](https://jobright.ai/jobs/info/68a769c9758f2e4ac3febb95?utm_campaign=Sales&utm_source=1103)** | Roslyn, NY | On Site | Oct 24 |
-| **[H&M](http://www.hm.com)** | **[H&M Sales Advisor - Full Time](https://jobright.ai/jobs/info/68cc599a16d00d2beeb1da61?utm_campaign=Sales&utm_source=1103)** | Short Pump, VA | On Site | Oct 24 |
+| ↳ | **[H&M Sales Advisor - Full Time](https://jobright.ai/jobs/info/68cc599a16d00d2beeb1da61?utm_campaign=Sales&utm_source=1103)** | Short Pump, VA | On Site | Oct 24 |
 | ↳ | **[Department Supervisor - Arbor Lakes](https://jobright.ai/jobs/info/68a525fb33dd7158bbc9787c?utm_campaign=Sales&utm_source=1103)** | Maple Grove, MN | On Site | Oct 24 |
 | ↳ | **[Visual Keyholder - Tanger Outlets Charleston](https://jobright.ai/jobs/info/6893f2c8f47efe2113967fed?utm_campaign=Sales&utm_source=1103)** | North Charleston, SC | Hybrid | Oct 24 |
 | **[CosmoProf Beauty](http://www.cosmoprofbeauty.com)** | **[Inside Sales Associate CosmoProf 66000](https://jobright.ai/jobs/info/67a34474a39d448bdddb5275?utm_campaign=Sales&utm_source=1103)** | Novi, MI | On Site | Oct 24 |
@@ -134,6 +135,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[BEST - Technical Sales - Equipment - Houston, TX](https://jobright.ai/jobs/info/68c15c50233c7d3e64d01755?utm_campaign=Sales&utm_source=1103)** | Houston, TX | On Site | Oct 23 |
 | ↳ | **[BEST - Technical Sales - HVAC Controls - St Louis, MO](https://jobright.ai/jobs/info/68c289f2b535a221b153bb87?utm_campaign=Sales&utm_source=1103)** | St Louis, MO | On Site | Oct 23 |
 | **[Spirit Halloween](http://www.spirithalloween.com)** | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b6e70ff4e41a61efd94776?utm_campaign=Sales&utm_source=1103)** | Charleston, SC | On Site | Oct 23 |
-| **[Spirit Halloween](http://www.spirithalloween.com)** | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68ce3e4924dd5209002f0d76?utm_campaign=Sales&utm_source=1103)** | Watchung, NJ | On Site | Oct 22 |
-| ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b58be8bc187f64e1be71d9?utm_campaign=Sales&utm_source=1103)** | Olean, NY | On Site | Oct 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
