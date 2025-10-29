@@ -138,5 +138,4 @@ For a complete list, click the following sortable link below:
 | **[Abercrombie & Fitch Co.](http://abercrombie.com)** | **[Hollister Co. - Assistant Manager, Weberstown](https://jobright.ai/jobs/info/68c0870a5c5d5f14f46ded3c?utm_campaign=Sales&utm_source=1103)** | Stockton, CA | On Site | Oct 22 |
 | **[Spirit Halloween](http://www.spirithalloween.com)** | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68da978207c157682e56b316?utm_campaign=Sales&utm_source=1103)** | Louisville, KY | On Site | Oct 22 |
 | **[Neiman Marcus](https://www.neimanmarcusgroup.com)** | **[Designer Sportswear Client Advisor - Palo Alto](https://jobright.ai/jobs/info/68c0dce2702aa35207ab12d2?utm_campaign=Sales&utm_source=1103)** | Palo Alto, CA | Hybrid | Oct 22 |
-| **[Ulta Beauty](https://www.ulta.com)** | **[Seasonal Task Associate](https://jobright.ai/jobs/info/68d539641f7fb2169ab0df33?utm_campaign=Sales&utm_source=1103)** | Rancho Santa Margarita, CA | On Site | Oct 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
