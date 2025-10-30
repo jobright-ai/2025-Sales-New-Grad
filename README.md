@@ -132,5 +132,4 @@ For a complete list, click the following sortable link below:
 | **[Adobe](http://www.adobe.com)** | **[Business Development Representative](https://jobright.ai/jobs/info/68c98596a0c52d598ea3823a?utm_campaign=Sales&utm_source=1103)** | Littleton, CO | On Site | Oct 23 |
 | **[Sazerac Company](https://www.sazerac.com/)** | **[Market Development Representative - Daytona, FL Off Premise](https://jobright.ai/jobs/info/68d01468fb49c96ca6eadcfc?utm_campaign=Sales&utm_source=1103)** | DeLand, FL | Hybrid | Oct 23 |
 | **[Tawa Supermarket, Inc.](http://www.99ranch.com)** | **[Sales Assistant (IL)](https://jobright.ai/jobs/info/6842e315613815dc8868d8e9?utm_campaign=Sales&utm_source=1103)** | Bolingbrook, IL | On Site | Oct 23 |
-| **[Kimball Midwest](https://www.kimballmidwest.com)** | **[Outside Sales Representative](https://jobright.ai/jobs/info/68b9e1c46105227d1189888c?utm_campaign=Sales&utm_source=1103)** | Jersey Village, TX | Hybrid | Oct 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
