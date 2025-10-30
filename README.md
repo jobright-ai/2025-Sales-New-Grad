@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Concentrix](https://www.concentrix.com)** | **[Inside Sales Representative-Remote (Soft Sales)](https://jobright.ai/jobs/info/68ae80a0d627244576e54708?utm_campaign=Sales&utm_source=1103)** | Eldorado at Santa Fe, NM | Remote | Oct 30 |
-| **[Lonestar Forklift, Inc.](http://lonestarforklift.com)** | **[Parts Sales Representative](https://jobright.ai/jobs/info/68cb7341ba798c1a501cfb92?utm_campaign=Sales&utm_source=1103)** | Corpus Christi, TX | On Site | Oct 30 |
 | **[Madison Reed](http://www.madison-reed.com)** | **[Shift Lead, Licensed Cosmetologist](https://jobright.ai/jobs/info/68acb4fbdaf1431824c977a7?utm_campaign=Sales&utm_source=1103)** | Eastchester, NY | On Site | Oct 30 |
 | **[Option Care Health](https://optioncarehealth.com)** | **[Territory Sales Manager](https://jobright.ai/jobs/info/68c86e2d95f5211cd2ce5263?utm_campaign=Sales&utm_source=1103)** | Frankfort, KY | On Site | Oct 30 |
 | **[Abercrombie & Fitch Co.](http://abercrombie.com)** | **[Hollister Co. - Assistant Manager, Smith Haven](https://jobright.ai/jobs/info/683bac2598d8c539fda4e5f4?utm_campaign=Sales&utm_source=1103)** | Stony Brook, NY | On Site | Oct 29 |
@@ -86,7 +85,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Associate](https://jobright.ai/jobs/info/68bc2baa6105227d118ac154?utm_campaign=Sales&utm_source=1103)** | Fair Oaks, CA | On Site | Oct 28 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68c2ca425adaee6c9bda418f?utm_campaign=Sales&utm_source=1103)** | Port Angeles, WA | On Site | Oct 28 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68c95ccc95f5211cd2cefb90?utm_campaign=Sales&utm_source=1103)** | Apache Junction, AZ | On Site | Oct 28 |
-| **[Goosehead Insurance](https://www.goosehead.com)** | **[Account Executive - The Sheets Agency](https://jobright.ai/jobs/info/68b2097d1ade4306aa633fcb?utm_campaign=Sales&utm_source=1103)** | Houston, TX | On Site | Oct 28 |
+| **[Goosehead Insurance](https://www.goosehead.com)** | **[Account Executive - The Sheets Agency](https://jobright.ai/jobs/info/68b20b97bc187f64e1bd8ecd?utm_campaign=Sales&utm_source=1103)** | Houston, TX | On Site | Oct 28 |
 | **[Spirit Halloween](http://www.spirithalloween.com)** | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b58f71f4e41a61efd90243?utm_campaign=Sales&utm_source=1103)** | Ashwaubenon, WI | On Site | Oct 28 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b98c948043103d4f21819b?utm_campaign=Sales&utm_source=1103)** | Willow Grove, PA | On Site | Oct 28 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68bae2fa6105227d118a140c?utm_campaign=Sales&utm_source=1103)** | Upper Arlington, OH | On Site | Oct 28 |
@@ -129,7 +128,4 @@ For a complete list, click the following sortable link below:
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[BEST - Technical Sales - HVAC Controls - Phoenix, AZ](https://jobright.ai/jobs/info/68c3d45980e77b1fa6fcd94a?utm_campaign=Sales&utm_source=1103)** | Tempe, AZ | On Site | Oct 24 |
 | ↳ | **[BEST - Technical Sales - HVAC Controls - Houston, TX](https://jobright.ai/jobs/info/68c9b4b7a0c52d598ea3a3fa?utm_campaign=Sales&utm_source=1103)** | Houston, TX | On Site | Oct 24 |
 | **[ADP](http://www.adp.com)** | **[Entry Level Outside Sales Rep](https://jobright.ai/jobs/info/68ce89b2fb49c96ca6ea166f?utm_campaign=Sales&utm_source=1103)** | San Diego, CA | On Site | Oct 23 |
-| **[Johnson Controls](http://www.johnsoncontrols.com)** | **[BEST - Technical Sales - Equipment - Washington D.C](https://jobright.ai/jobs/info/68c12a934d652f0447756498?utm_campaign=Sales&utm_source=1103)** | Capitol Heights, MD | On Site | Oct 23 |
-| **[TruGreen](http://trugreen.com)** | **[Residential Lawn Specialist/Aerator](https://jobright.ai/jobs/info/6850c107e5a6ebcd0e55c3ca?utm_campaign=Sales&utm_source=1103)** | El Paso, TX | On Site | Oct 23 |
-| **[Adobe](http://www.adobe.com)** | **[Business Development Representative](https://jobright.ai/jobs/info/68c98596a0c52d598ea3823a?utm_campaign=Sales&utm_source=1103)** | Littleton, CO | On Site | Oct 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
