@@ -61,7 +61,8 @@ For a complete list, click the following sortable link below:
 | **[Williams-Sonoma, Inc.](http://www.williams-sonomainc.com)** | **[Sales Associate, Holiday Seasonal, North Market- Williams Sonoma](https://jobright.ai/jobs/info/6890b7f2f5ee707a15db933f?utm_campaign=Sales&utm_source=1103)** | Montvale, NJ | On Site | Oct 29 |
 | **[West Elm](https://www.westelm.com/)** | **[Sales Associate, Holiday Seasonal, Riverhead- West Elm Outlet](https://jobright.ai/jobs/info/68adeb92d627244576e4fd52?utm_campaign=Sales&utm_source=1103)** | Riverhead, NY | On Site | Oct 29 |
 | **[TruGreen](http://trugreen.com)** | **[Residential Lawn Specialist/Aerator](https://jobright.ai/jobs/info/685801f600765e147b8701bf?utm_campaign=Sales&utm_source=1103)** | Memphis, TN | On Site | Oct 29 |
-| **[Spirit Halloween](http://www.spirithalloween.com)** | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68bae1046105227d118a11be?utm_campaign=Sales&utm_source=1103)** | Troy, OH | On Site | Oct 28 |
+| **[Spirit Halloween](http://www.spirithalloween.com)** | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b19fe81ade4306aa630c35?utm_campaign=Sales&utm_source=1103)** | Webster Groves, MO | On Site | Oct 28 |
+| ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68bae1046105227d118a11be?utm_campaign=Sales&utm_source=1103)** | Troy, OH | On Site | Oct 28 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68daf2cf07c157682e57003a?utm_campaign=Sales&utm_source=1103)** | Rockaway, NJ | On Site | Oct 28 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68bd76eedf5eec448f63cbe9?utm_campaign=Sales&utm_source=1103)** | Springfield, PA | On Site | Oct 28 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68cd49d4e23def7af55b7c44?utm_campaign=Sales&utm_source=1103)** | Paramus, NJ | On Site | Oct 28 |
@@ -135,7 +136,4 @@ For a complete list, click the following sortable link below:
 | **[Spirit Halloween](http://www.spirithalloween.com)** | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b43cbdf4e41a61efd8c06f?utm_campaign=Sales&utm_source=1103)** | Shawnee, OK | On Site | Oct 23 |
 | **[Ulta Beauty](https://www.ulta.com)** | **[Seasonal Task Associate](https://jobright.ai/jobs/info/68ce668cfb49c96ca6ea0027?utm_campaign=Sales&utm_source=1103)** | Cerritos, CA | On Site | Oct 23 |
 | **[New Western](http://www.newwestern.com)** | **[Investment Real Estate Sales Agent](https://jobright.ai/jobs/info/659dd642b181d53e6de3a13b?utm_campaign=Sales&utm_source=1103)** | Atlanta, GA | Hybrid | Oct 23 |
-| **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Retail Front End Supervisor - Full-Time](https://jobright.ai/jobs/info/68c299e703b99f6b3429709c?utm_campaign=Sales&utm_source=1103)** | Whitestown, IN | On Site | Oct 23 |
-| **[TruGreen](http://trugreen.com)** | **[Residential Lawn Specialist/Aerator](https://jobright.ai/jobs/info/68ca59f65f9f0336447dc465?utm_campaign=Sales&utm_source=1103)** | Orlando, FL | On Site | Oct 23 |
-| **[Johnson Controls](http://www.johnsoncontrols.com)** | **[BEST - Technical Sales - Equipment - Atlanta, GA](https://jobright.ai/jobs/info/68c135104d652f0447756a89?utm_campaign=Sales&utm_source=1103)** | Roswell, GA | On Site | Oct 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
