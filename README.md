@@ -69,6 +69,7 @@ For a complete list, click the following sortable link below:
 | **[TruGreen](http://trugreen.com)** | **[Residential Lawn Specialist/Aerator](https://jobright.ai/jobs/info/685801f600765e147b8701bf?utm_campaign=Sales&utm_source=1103)** | Memphis, TN | On Site | Oct 29 |
 | **[Spirit Halloween](http://www.spirithalloween.com)** | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68bd775fdf5eec448f63cc1d?utm_campaign=Sales&utm_source=1103)** | Uniontown, PA | On Site | Oct 29 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68ce3e4924dd5209002f0d76?utm_campaign=Sales&utm_source=1103)** | Watchung, NJ | On Site | Oct 29 |
+| ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b97ee26105227d11895148?utm_campaign=Sales&utm_source=1103)** | Midlothian, VA | On Site | Oct 29 |
 | **[Spirit Halloween](http://www.spirithalloween.com)** | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b19fe81ade4306aa630c35?utm_campaign=Sales&utm_source=1103)** | Webster Groves, MO | On Site | Oct 28 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68bae1046105227d118a11be?utm_campaign=Sales&utm_source=1103)** | Troy, OH | On Site | Oct 28 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68daf2cf07c157682e57003a?utm_campaign=Sales&utm_source=1103)** | Rockaway, NJ | On Site | Oct 28 |
@@ -78,11 +79,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68da97f40b832179ca4ae9d4?utm_campaign=Sales&utm_source=1103)** | Queensbury, NY | On Site | Oct 28 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b4353e1ade4306aa63e0ee?utm_campaign=Sales&utm_source=1103)** | Allen Park, MI | On Site | Oct 28 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68cad5a0d905e25191d9caff?utm_campaign=Sales&utm_source=1103)** | National City, CA | On Site | Oct 28 |
-| ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68c84a58f9c6ff7aedf0c925?utm_campaign=Sales&utm_source=1103)** | Reading, MA | On Site | Oct 28 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68c5b7017d0db41142734e26?utm_campaign=Sales&utm_source=1103)** | Santa Rosa, CA | On Site | Oct 28 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68ce3f5824dd5209002f0e79?utm_campaign=Sales&utm_source=1103)** | Rocky River, OH | On Site | Oct 28 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b2eccbbc187f64e1bdf557?utm_campaign=Sales&utm_source=1103)** | North Lakeport, MI | On Site | Oct 28 |
-| ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b438fbbc187f64e1be30fd?utm_campaign=Sales&utm_source=1103)** | Fairfield, OH | On Site | Oct 28 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68bd7b42c4c5904ff6003957?utm_campaign=Sales&utm_source=1103)** | Saugus, MA | On Site | Oct 28 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/6872a073a5ae807a59d06dc3?utm_campaign=Sales&utm_source=1103)** | Monterey, CA | On Site | Oct 28 |
 | ↳ | **[Sales Associate](https://jobright.ai/jobs/info/68bc2baa6105227d118ac154?utm_campaign=Sales&utm_source=1103)** | Fair Oaks, CA | On Site | Oct 28 |
@@ -98,6 +97,7 @@ For a complete list, click the following sortable link below:
 | **[EMR USA](https://liinks.co/emr.usa)** | **[Bilingual Spanish Business Development Representative/Auto Industry](https://jobright.ai/jobs/info/683e7f3c24304d31f3b4f168?utm_campaign=Sales&utm_source=1103)** | Camden, NJ | On Site | Oct 26 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[BEST - Technical Sales - Fire Systems - Harrisburg, PA](https://jobright.ai/jobs/info/68c429b4e396b25cb5c65d1f?utm_campaign=Sales&utm_source=1103)** | New Cumberland, PA | On Site | Oct 26 |
 | ↳ | **[BEST - Technical Sales - HVAC Controls - Roanoke, VA](https://jobright.ai/jobs/info/68daf99b6df7b8311bb14e76?utm_campaign=Sales&utm_source=1103)** | Roanoke, VA | On Site | Oct 26 |
+| ↳ | **[BEST - Technical Sales - HVAC Controls - Miami, FL](https://jobright.ai/jobs/info/68c64ab5c96a22563ececd54?utm_campaign=Sales&utm_source=1103)** | Miramar, FL | On Site | Oct 26 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[BEST - Technical Sales - Fire Systems - Atlanta, GA](https://jobright.ai/jobs/info/68dafbf70dffed6f83d2b91b?utm_campaign=Sales&utm_source=1103)** | Roswell, GA | On Site | Oct 25 |
 | ↳ | **[BEST - Technical Sales - Security Systems - Charleston, SC](https://jobright.ai/jobs/info/68dafaac0dffed6f83d2b797?utm_campaign=Sales&utm_source=1103)** | North Charleston, SC | On Site | Oct 25 |
 | ↳ | **[BEST - Technical Sales - Security Systems - Minneapolis, MN](https://jobright.ai/jobs/info/68c9e6de84fc1901fd41a7b6?utm_campaign=Sales&utm_source=1103)** | Roseville, MN | On Site | Oct 25 |
