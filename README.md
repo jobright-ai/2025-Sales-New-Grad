@@ -128,6 +128,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Visual Keyholder - Tanger Outlets Charleston](https://jobright.ai/jobs/info/6893f2c8f47efe2113967fed?utm_campaign=Sales&utm_source=1103)** | North Charleston, SC | Hybrid | Oct 24 |
 | **[CosmoProf Beauty](http://www.cosmoprofbeauty.com)** | **[Inside Sales Associate CosmoProf 66000](https://jobright.ai/jobs/info/67a34474a39d448bdddb5275?utm_campaign=Sales&utm_source=1103)** | Novi, MI | On Site | Oct 24 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[BEST - Technical Sales - HVAC Controls - Fargo, ND](https://jobright.ai/jobs/info/68c2e4eb5001f8077bf5f1d7?utm_campaign=Sales&utm_source=1103)** | Fargo, ND | On Site | Oct 24 |
-| ↳ | **[BEST - Technical Sales - HVAC Controls - Phoenix, AZ](https://jobright.ai/jobs/info/68c3d45980e77b1fa6fcd94a?utm_campaign=Sales&utm_source=1103)** | Tempe, AZ | On Site | Oct 24 |
-| ↳ | **[BEST - Technical Sales - HVAC Controls - Houston, TX](https://jobright.ai/jobs/info/68c9b4b7a0c52d598ea3a3fa?utm_campaign=Sales&utm_source=1103)** | Houston, TX | On Site | Oct 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
