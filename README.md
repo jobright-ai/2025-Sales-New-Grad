@@ -75,6 +75,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68bd76eedf5eec448f63cbe9?utm_campaign=Sales&utm_source=1103)** | Springfield, PA | On Site | Oct 28 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68cd49d4e23def7af55b7c44?utm_campaign=Sales&utm_source=1103)** | Paramus, NJ | On Site | Oct 28 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b58f7ef4e41a61efd9026b?utm_campaign=Sales&utm_source=1103)** | Wyomissing, PA | On Site | Oct 28 |
+| ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68da97f40b832179ca4ae9d4?utm_campaign=Sales&utm_source=1103)** | Queensbury, NY | On Site | Oct 28 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b4353e1ade4306aa63e0ee?utm_campaign=Sales&utm_source=1103)** | Allen Park, MI | On Site | Oct 28 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68cad5a0d905e25191d9caff?utm_campaign=Sales&utm_source=1103)** | National City, CA | On Site | Oct 28 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68c84a58f9c6ff7aedf0c925?utm_campaign=Sales&utm_source=1103)** | Reading, MA | On Site | Oct 28 |
@@ -87,7 +88,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Associate](https://jobright.ai/jobs/info/68bc2baa6105227d118ac154?utm_campaign=Sales&utm_source=1103)** | Fair Oaks, CA | On Site | Oct 28 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68c2ca425adaee6c9bda418f?utm_campaign=Sales&utm_source=1103)** | Port Angeles, WA | On Site | Oct 28 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68c95ccc95f5211cd2cefb90?utm_campaign=Sales&utm_source=1103)** | Apache Junction, AZ | On Site | Oct 28 |
-| **[Goosehead Insurance](https://www.goosehead.com)** | **[Account Executive - The Sheets Agency](https://jobright.ai/jobs/info/68b20b97bc187f64e1bd8ecd?utm_campaign=Sales&utm_source=1103)** | Houston, TX | On Site | Oct 28 |
+| **[Goosehead Insurance](https://www.goosehead.com)** | **[Account Executive - The Sheets Agency](https://jobright.ai/jobs/info/68b2097d1ade4306aa633fcb?utm_campaign=Sales&utm_source=1103)** | Houston, TX | On Site | Oct 28 |
 | **[Spirit Halloween](http://www.spirithalloween.com)** | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b58f71f4e41a61efd90243?utm_campaign=Sales&utm_source=1103)** | Ashwaubenon, WI | On Site | Oct 28 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b98c948043103d4f21819b?utm_campaign=Sales&utm_source=1103)** | Willow Grove, PA | On Site | Oct 28 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68bae2fa6105227d118a140c?utm_campaign=Sales&utm_source=1103)** | Upper Arlington, OH | On Site | Oct 28 |
@@ -102,7 +103,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[BEST - Technical Sales - Security Systems - Charleston, SC](https://jobright.ai/jobs/info/68dafaac0dffed6f83d2b797?utm_campaign=Sales&utm_source=1103)** | North Charleston, SC | On Site | Oct 25 |
 | ↳ | **[BEST - Technical Sales - Security Systems - Minneapolis, MN](https://jobright.ai/jobs/info/68c9e6de84fc1901fd41a7b6?utm_campaign=Sales&utm_source=1103)** | Roseville, MN | On Site | Oct 25 |
 | ↳ | **[BEST - Technical Sales - Security Systems - Dublin, OH](https://jobright.ai/jobs/info/68cc3b11128dc347fd92131d?utm_campaign=Sales&utm_source=1103)** | Dublin, OH | On Site | Oct 25 |
-| ↳ | **[BEST - Technical Sales - Security Systems - Charlotte, NC](https://jobright.ai/jobs/info/68daf7630dffed6f83d2b743?utm_campaign=Sales&utm_source=1103)** | Charlotte, NC | On Site | Oct 25 |
+| **[Madison Reed](http://www.madison-reed.com)** | **[Hair Color Bar Assistant, Licensed Cosmetologist](https://jobright.ai/jobs/info/68a76c2433dd7158bbca6e05?utm_campaign=Sales&utm_source=1103)** | Westport, CT | On Site | Oct 25 |
+| **[Johnson Controls](http://www.johnsoncontrols.com)** | **[BEST - Technical Sales - Security Systems - Charlotte, NC](https://jobright.ai/jobs/info/68daf7630dffed6f83d2b743?utm_campaign=Sales&utm_source=1103)** | Charlotte, NC | On Site | Oct 25 |
 | ↳ | **[BEST - Technical Sales - Security](https://jobright.ai/jobs/info/68db498ae19b9e63ba20a3de?utm_campaign=Sales&utm_source=1103)** | Grand Rapids, MI | On Site | Oct 25 |
 | **[CIM Group](https://www.cimgroup.com)** | **[Associate, Client Engagement Group](https://jobright.ai/jobs/info/68531459c555b2c8c8304d11?utm_campaign=Sales&utm_source=1103)** | Los Angeles, CA | On Site | Oct 25 |
 | **[Duro-Last](https://duro-last.com)** | **[Technical Sales Rep - DC](https://jobright.ai/jobs/info/68ce4a91dbd9fb154edddc29?utm_campaign=Sales&utm_source=1103)** | Massachusetts, United States | On Site | Oct 25 |
@@ -126,8 +128,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Visual Keyholder - Tanger Outlets Charleston](https://jobright.ai/jobs/info/6893f2c8f47efe2113967fed?utm_campaign=Sales&utm_source=1103)** | North Charleston, SC | Hybrid | Oct 24 |
 | **[CosmoProf Beauty](http://www.cosmoprofbeauty.com)** | **[Inside Sales Associate CosmoProf 66000](https://jobright.ai/jobs/info/67a34474a39d448bdddb5275?utm_campaign=Sales&utm_source=1103)** | Novi, MI | On Site | Oct 24 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[BEST - Technical Sales - HVAC Controls - Fargo, ND](https://jobright.ai/jobs/info/68c2e4eb5001f8077bf5f1d7?utm_campaign=Sales&utm_source=1103)** | Fargo, ND | On Site | Oct 24 |
-| **[Supermicro](http://www.supermicro.com)** | **[Account Manager](https://jobright.ai/jobs/info/68c2057633864f172f9bc65e?utm_campaign=Sales&utm_source=1103)** | San Jose, CA | On Site | Oct 24 |
-| **[Johnson Controls](http://www.johnsoncontrols.com)** | **[BEST - Technical Sales - HVAC Controls - Phoenix, AZ](https://jobright.ai/jobs/info/68c3d45980e77b1fa6fcd94a?utm_campaign=Sales&utm_source=1103)** | Tempe, AZ | On Site | Oct 24 |
+| ↳ | **[BEST - Technical Sales - HVAC Controls - Phoenix, AZ](https://jobright.ai/jobs/info/68c3d45980e77b1fa6fcd94a?utm_campaign=Sales&utm_source=1103)** | Tempe, AZ | On Site | Oct 24 |
 | ↳ | **[BEST - Technical Sales - HVAC Controls - Houston, TX](https://jobright.ai/jobs/info/68c9b4b7a0c52d598ea3a3fa?utm_campaign=Sales&utm_source=1103)** | Houston, TX | On Site | Oct 24 |
-| **[ADP](http://www.adp.com)** | **[Entry Level Outside Sales Rep](https://jobright.ai/jobs/info/68ce89b2fb49c96ca6ea166f?utm_campaign=Sales&utm_source=1103)** | San Diego, CA | On Site | Oct 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
