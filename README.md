@@ -91,7 +91,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/6872a073a5ae807a59d06dc3?utm_campaign=Sales&utm_source=1103)** | Monterey, CA | On Site | Oct 28 |
 | ↳ | **[Sales Associate](https://jobright.ai/jobs/info/68bc2baa6105227d118ac154?utm_campaign=Sales&utm_source=1103)** | Fair Oaks, CA | On Site | Oct 28 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68c95ccc95f5211cd2cefb90?utm_campaign=Sales&utm_source=1103)** | Apache Junction, AZ | On Site | Oct 28 |
-| **[Goosehead Insurance](https://www.goosehead.com)** | **[Account Executive - The Sheets Agency](https://jobright.ai/jobs/info/68b20b97bc187f64e1bd8ecd?utm_campaign=Sales&utm_source=1103)** | Houston, TX | On Site | Oct 28 |
+| **[Goosehead Insurance](https://www.goosehead.com)** | **[Account Executive - The Sheets Agency](https://jobright.ai/jobs/info/68b2097d1ade4306aa633fcb?utm_campaign=Sales&utm_source=1103)** | Houston, TX | On Site | Oct 28 |
 | **[Spirit Halloween](http://www.spirithalloween.com)** | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b58f71f4e41a61efd90243?utm_campaign=Sales&utm_source=1103)** | Ashwaubenon, WI | On Site | Oct 28 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b98c948043103d4f21819b?utm_campaign=Sales&utm_source=1103)** | Willow Grove, PA | On Site | Oct 28 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b4427ebc187f64e1be31df?utm_campaign=Sales&utm_source=1103)** | Zanesville, OH | On Site | Oct 28 |
@@ -107,6 +107,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[BEST - Technical Sales - Security Systems - Dublin, OH](https://jobright.ai/jobs/info/68cc3b11128dc347fd92131d?utm_campaign=Sales&utm_source=1103)** | Dublin, OH | On Site | Oct 25 |
 | **[Madison Reed](http://www.madison-reed.com)** | **[Hair Color Bar Assistant, Licensed Cosmetologist](https://jobright.ai/jobs/info/68a76c2433dd7158bbca6e05?utm_campaign=Sales&utm_source=1103)** | Westport, CT | On Site | Oct 25 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[BEST - Technical Sales - Security Systems - Charlotte, NC](https://jobright.ai/jobs/info/68daf7630dffed6f83d2b743?utm_campaign=Sales&utm_source=1103)** | Charlotte, NC | On Site | Oct 25 |
+| ↳ | **[BEST - Technical Sales - HVAC Controls - Shreveport, LA](https://jobright.ai/jobs/info/68dafb4e0dffed6f83d2b832?utm_campaign=Sales&utm_source=1103)** | Bossier City, LA | On Site | Oct 25 |
 | ↳ | **[BEST - Technical Sales - Security](https://jobright.ai/jobs/info/68db498ae19b9e63ba20a3de?utm_campaign=Sales&utm_source=1103)** | Grand Rapids, MI | On Site | Oct 25 |
 | **[CIM Group](https://www.cimgroup.com)** | **[Associate, Client Engagement Group](https://jobright.ai/jobs/info/68531459c555b2c8c8304d11?utm_campaign=Sales&utm_source=1103)** | Los Angeles, CA | On Site | Oct 25 |
 | **[Duro-Last](https://duro-last.com)** | **[Technical Sales Rep - DC](https://jobright.ai/jobs/info/68ce4a91dbd9fb154edddc29?utm_campaign=Sales&utm_source=1103)** | Massachusetts, United States | On Site | Oct 25 |
@@ -118,5 +119,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[BEST - Technical Sales - Security Systems - San Diego, CA](https://jobright.ai/jobs/info/68daff2ee9b48513789b0f64?utm_campaign=Sales&utm_source=1103)** | San Diego, CA | On Site | Oct 25 |
 | ↳ | **[BEST - Technical Sales - HVAC Controls- Plymouth, MN](https://jobright.ai/jobs/info/68db79ff9f13662d20e4b9df?utm_campaign=Sales&utm_source=1103)** | Plymouth, MN | On Site | Oct 25 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[BEST - Technical Sales - HVAC Controls - Baltimore, MD](https://jobright.ai/jobs/info/68db494a34f2c406da6d6243?utm_campaign=Sales&utm_source=1103)** | Rosedale, MD | On Site | Oct 24 |
-| ↳ | **[BEST - Technical Sales - HVAC Controls - Buffalo, NY](https://jobright.ai/jobs/info/68c3d1ea80e77b1fa6fcd7ac?utm_campaign=Sales&utm_source=1103)** | Williamsville, NY | On Site | Oct 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
