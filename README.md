@@ -93,7 +93,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b98c948043103d4f21819b?utm_campaign=Sales&utm_source=1103)** | Willow Grove, PA | On Site | Oct 28 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68bae2fa6105227d118a140c?utm_campaign=Sales&utm_source=1103)** | Upper Arlington, OH | On Site | Oct 28 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b4427ebc187f64e1be31df?utm_campaign=Sales&utm_source=1103)** | Zanesville, OH | On Site | Oct 28 |
-| **[Parker Hannifin](http://www.parker.com)** | **[Technical Sales Associate](https://jobright.ai/jobs/info/68aca2ef758f2e4ac30074cb?utm_campaign=Sales&utm_source=1103)** | Cleveland, OH | On Site | Oct 28 |
 | **[Alpine Physician Partners](https://alpine-physicians.com)** | **[Post Acute PA Opportunity: RVU Based Model – Above Market Earning Potential!](https://jobright.ai/jobs/info/6855f09e3a8383185c04a2b9?utm_campaign=Sales&utm_source=1103)** | Denver, CO | On Site | Oct 27 |
 | **[Ernest](http://www.ernestpackaging.com)** | **[Territory Sales Representative](https://jobright.ai/jobs/info/6894d6408c6d6b4426774cc7?utm_campaign=Sales&utm_source=1103)** | Tacoma, WA | Hybrid | Oct 27 |
 | **[EMR USA](https://liinks.co/emr.usa)** | **[Bilingual Spanish Business Development Representative/Auto Industry](https://jobright.ai/jobs/info/683e7f3c24304d31f3b4f168?utm_campaign=Sales&utm_source=1103)** | Camden, NJ | On Site | Oct 26 |
@@ -125,7 +124,4 @@ For a complete list, click the following sortable link below:
 | **[H&M](http://www.hm.com)** | **[Department Supervisor - Coral RidgeMall](https://jobright.ai/jobs/info/68a52518b6a3617d7fa6ed90?utm_campaign=Sales&utm_source=1103)** | Coralville, IA | On Site | Oct 24 |
 | ↳ | **[H&M Sales Advisor - Full Time](https://jobright.ai/jobs/info/68cc599a16d00d2beeb1da61?utm_campaign=Sales&utm_source=1103)** | Short Pump, VA | On Site | Oct 24 |
 | ↳ | **[Department Supervisor - Arbor Lakes](https://jobright.ai/jobs/info/68a525fb33dd7158bbc9787c?utm_campaign=Sales&utm_source=1103)** | Maple Grove, MN | On Site | Oct 24 |
-| ↳ | **[Visual Keyholder - Tanger Outlets Charleston](https://jobright.ai/jobs/info/6893f2c8f47efe2113967fed?utm_campaign=Sales&utm_source=1103)** | North Charleston, SC | Hybrid | Oct 24 |
-| **[CosmoProf Beauty](http://www.cosmoprofbeauty.com)** | **[Inside Sales Associate CosmoProf 66000](https://jobright.ai/jobs/info/67a34474a39d448bdddb5275?utm_campaign=Sales&utm_source=1103)** | Novi, MI | On Site | Oct 24 |
-| **[Johnson Controls](http://www.johnsoncontrols.com)** | **[BEST - Technical Sales - HVAC Controls - Fargo, ND](https://jobright.ai/jobs/info/68c2e4eb5001f8077bf5f1d7?utm_campaign=Sales&utm_source=1103)** | Fargo, ND | On Site | Oct 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
