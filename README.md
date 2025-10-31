@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Spirit Halloween](http://www.spirithalloween.com)** | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68c2ca425adaee6c9bda418f?utm_campaign=Sales&utm_source=1103)** | Port Angeles, WA | On Site | Oct 31 |
+| **[Signet Jewelers](http://www.signetjewelers.com)** | **[Sales Associate / Jewelry Consultant - Zales Outlet - Citadel Outlets - Commerce, CA](https://jobright.ai/jobs/info/6876c66cae2f413e4a5b3793?utm_campaign=Sales&utm_source=1103)** | Commerce, CA | On Site | Oct 31 |
+| **[Blue Ocean Wealth Solutions](https://www.blueocean.us.com/)** | **[Financial Services Representative](https://jobright.ai/jobs/info/68c3996e6031587f8458c836?utm_campaign=Sales&utm_source=1103)** | East Hills, NY | On Site | Oct 31 |
 | **[AMBA](https://amba.info)** | **[Benefits Representative](https://jobright.ai/jobs/info/68946e3a8c6d6b4426771bdd?utm_campaign=Sales&utm_source=1103)** | Lincoln, NE | On Site | Oct 31 |
 | **[Spirit Halloween](http://www.spirithalloween.com)** | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68c5b7017d0db41142734e26?utm_campaign=Sales&utm_source=1103)** | Santa Rosa, CA | On Site | Oct 31 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68ce3f5824dd5209002f0e79?utm_campaign=Sales&utm_source=1103)** | Rocky River, OH | On Site | Oct 31 |
@@ -87,9 +90,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b2eccbbc187f64e1bdf557?utm_campaign=Sales&utm_source=1103)** | North Lakeport, MI | On Site | Oct 28 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/6872a073a5ae807a59d06dc3?utm_campaign=Sales&utm_source=1103)** | Monterey, CA | On Site | Oct 28 |
 | ↳ | **[Sales Associate](https://jobright.ai/jobs/info/68bc2baa6105227d118ac154?utm_campaign=Sales&utm_source=1103)** | Fair Oaks, CA | On Site | Oct 28 |
-| ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68c2ca425adaee6c9bda418f?utm_campaign=Sales&utm_source=1103)** | Port Angeles, WA | On Site | Oct 28 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68c95ccc95f5211cd2cefb90?utm_campaign=Sales&utm_source=1103)** | Apache Junction, AZ | On Site | Oct 28 |
-| **[Goosehead Insurance](https://www.goosehead.com)** | **[Account Executive - The Sheets Agency](https://jobright.ai/jobs/info/68b2097d1ade4306aa633fcb?utm_campaign=Sales&utm_source=1103)** | Houston, TX | On Site | Oct 28 |
+| **[Goosehead Insurance](https://www.goosehead.com)** | **[Account Executive - The Sheets Agency](https://jobright.ai/jobs/info/68b20b97bc187f64e1bd8ecd?utm_campaign=Sales&utm_source=1103)** | Houston, TX | On Site | Oct 28 |
 | **[Spirit Halloween](http://www.spirithalloween.com)** | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b58f71f4e41a61efd90243?utm_campaign=Sales&utm_source=1103)** | Ashwaubenon, WI | On Site | Oct 28 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b98c948043103d4f21819b?utm_campaign=Sales&utm_source=1103)** | Willow Grove, PA | On Site | Oct 28 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b4427ebc187f64e1be31df?utm_campaign=Sales&utm_source=1103)** | Zanesville, OH | On Site | Oct 28 |
