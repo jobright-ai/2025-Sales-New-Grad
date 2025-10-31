@@ -119,5 +119,4 @@ For a complete list, click the following sortable link below:
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[BEST - Technical Sales - HVAC Controls - Baltimore, MD](https://jobright.ai/jobs/info/68db494a34f2c406da6d6243?utm_campaign=Sales&utm_source=1103)** | Rosedale, MD | On Site | Oct 24 |
 | ↳ | **[BEST - Technical Sales - HVAC Controls - Buffalo, NY](https://jobright.ai/jobs/info/68c3d1ea80e77b1fa6fcd7ac?utm_campaign=Sales&utm_source=1103)** | Williamsville, NY | On Site | Oct 24 |
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[Breast Care Sales Representative - Inland Empire, CA - Endoscopy](https://jobright.ai/jobs/info/68c65efa7d0db411427392db?utm_campaign=Sales&utm_source=1103)** | Riverside, CA | On Site | Oct 24 |
-| **[Johnson Controls](http://www.johnsoncontrols.com)** | **[BEST - Technical Sales - Fire Systems - Cranberry Township, PA](https://jobright.ai/jobs/info/68d2103917554c2d9eee2b5e?utm_campaign=Sales&utm_source=1103)** | Cranberry Township, PA | On Site | Oct 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
