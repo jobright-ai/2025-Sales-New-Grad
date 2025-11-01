@@ -113,5 +113,4 @@ For a complete list, click the following sortable link below:
 | **[Madison Reed](http://www.madison-reed.com)** | **[Hair Color Bar Assistant, Licensed Cosmetologist](https://jobright.ai/jobs/info/68a76c2433dd7158bbca6e05?utm_campaign=Sales&utm_source=1103)** | Westport, CT | On Site | Oct 25 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[BEST - Technical Sales - Security Systems - Charlotte, NC](https://jobright.ai/jobs/info/68daf7630dffed6f83d2b743?utm_campaign=Sales&utm_source=1103)** | Charlotte, NC | On Site | Oct 25 |
 | ↳ | **[BEST - Technical Sales - HVAC Controls - Shreveport, LA](https://jobright.ai/jobs/info/68dafb4e0dffed6f83d2b832?utm_campaign=Sales&utm_source=1103)** | Bossier City, LA | On Site | Oct 25 |
-| ↳ | **[BEST - Technical Sales - Security](https://jobright.ai/jobs/info/68db498ae19b9e63ba20a3de?utm_campaign=Sales&utm_source=1103)** | Grand Rapids, MI | On Site | Oct 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
