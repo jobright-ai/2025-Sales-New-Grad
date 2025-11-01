@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Spirit Halloween](http://www.spirithalloween.com)** | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68c2ca425adaee6c9bda418f?utm_campaign=Sales&utm_source=1103)** | Port Angeles, WA | On Site | Oct 31 |
+| **[Spirit Halloween](http://www.spirithalloween.com)** | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68beccf0702aa35207aa0833?utm_campaign=Sales&utm_source=1103)** | Middletown, CT | On Site | Oct 31 |
+| ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68c2ca425adaee6c9bda418f?utm_campaign=Sales&utm_source=1103)** | Port Angeles, WA | On Site | Oct 31 |
 | **[Signet Jewelers](http://www.signetjewelers.com)** | **[Sales Associate / Jewelry Consultant - Zales Outlet - Citadel Outlets - Commerce, CA](https://jobright.ai/jobs/info/6876c66cae2f413e4a5b3793?utm_campaign=Sales&utm_source=1103)** | Commerce, CA | On Site | Oct 31 |
 | **[Blue Ocean Wealth Solutions](https://www.blueocean.us.com/)** | **[Financial Services Representative](https://jobright.ai/jobs/info/68c3996e6031587f8458c836?utm_campaign=Sales&utm_source=1103)** | East Hills, NY | On Site | Oct 31 |
 | **[AMBA](https://amba.info)** | **[Benefits Representative](https://jobright.ai/jobs/info/68946e3a8c6d6b4426771bdd?utm_campaign=Sales&utm_source=1103)** | Lincoln, NE | On Site | Oct 31 |
@@ -111,7 +112,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[BEST - Technical Sales - HVAC Controls - Shreveport, LA](https://jobright.ai/jobs/info/68dafb4e0dffed6f83d2b832?utm_campaign=Sales&utm_source=1103)** | Bossier City, LA | On Site | Oct 25 |
 | ↳ | **[BEST - Technical Sales - Security](https://jobright.ai/jobs/info/68db498ae19b9e63ba20a3de?utm_campaign=Sales&utm_source=1103)** | Grand Rapids, MI | On Site | Oct 25 |
 | **[CIM Group](https://www.cimgroup.com)** | **[Associate, Client Engagement Group](https://jobright.ai/jobs/info/68531459c555b2c8c8304d11?utm_campaign=Sales&utm_source=1103)** | Los Angeles, CA | On Site | Oct 25 |
-| **[Duro-Last](https://duro-last.com)** | **[Technical Sales Rep - DC](https://jobright.ai/jobs/info/68ce4a91dbd9fb154edddc29?utm_campaign=Sales&utm_source=1103)** | Massachusetts, United States | On Site | Oct 25 |
-| **[Samsara](http://www.samsara.com)** | **[Enterprise Business Development Representative- Outbound](https://jobright.ai/jobs/info/68a774afd627244576e2ca28?utm_campaign=Sales&utm_source=1103)** | Atlanta, GA | Hybrid | Oct 25 |
-| **[Johnson Controls](http://www.johnsoncontrols.com)** | **[BEST - Technical Sales - Security Systems - Long Island, NY](https://jobright.ai/jobs/info/68d8f656022fc803b487697a?utm_campaign=Sales&utm_source=1103)** | New York, NY | On Site | Oct 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
