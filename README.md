@@ -58,7 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Salesforce](https://www.salesforce.com)** | **[Business Development Representative - Central](https://jobright.ai/jobs/info/68b0ec69b47fb001d68967b0?utm_campaign=Sales&utm_source=1103)** | Chicago, IL | On Site | Nov 02 |
-| **[Spirit Halloween](http://www.spirithalloween.com)** | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68cad5a0d905e25191d9caff?utm_campaign=Sales&utm_source=1103)** | National City, CA | On Site | Nov 01 |
+| **[Spirit Halloween](http://www.spirithalloween.com)** | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b43d92bc187f64e1be3193?utm_campaign=Sales&utm_source=1103)** | Troy Hills, NJ | On Site | Nov 01 |
+| ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68cad5a0d905e25191d9caff?utm_campaign=Sales&utm_source=1103)** | National City, CA | On Site | Nov 01 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68bd775fdf5eec448f63cc1d?utm_campaign=Sales&utm_source=1103)** | Uniontown, PA | On Site | Nov 01 |
 | **[Virtucom, Inc.](http://virtucom.com/)** | **[Entry - Level Bid and Procurement Specialist](https://jobright.ai/jobs/info/67087b674f4839cf864ac7bd?utm_campaign=Sales&utm_source=1103)** | Peachtree Corners, GA | On Site | Oct 31 |
 | **[Spirit Halloween](http://www.spirithalloween.com)** | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/6872a073a5ae807a59d06dc3?utm_campaign=Sales&utm_source=1103)** | Monterey, CA | On Site | Oct 31 |
