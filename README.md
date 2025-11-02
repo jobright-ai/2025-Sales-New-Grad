@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Friedkin Group](https://www.friedkin.com/)** | **[Subaru Brand Specialist](https://jobright.ai/jobs/info/667ca04bc08973d614a46e24?utm_campaign=Sales&utm_source=1103)** | Las Vegas, NV | On Site | Nov 02 |
 | **[Salesforce](https://www.salesforce.com)** | **[Business Development Representative - Central](https://jobright.ai/jobs/info/68b0ec69b47fb001d68967b0?utm_campaign=Sales&utm_source=1103)** | Chicago, IL | On Site | Nov 02 |
 | **[Spirit Halloween](http://www.spirithalloween.com)** | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68bc24705f383274918751b2?utm_campaign=Sales&utm_source=1103)** | Kannapolis, NC | On Site | Nov 01 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68daf2cf07c157682e57003a?utm_campaign=Sales&utm_source=1103)** | Rockaway, NJ | On Site | Nov 01 |
