@@ -58,6 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Selling Associate-Logan Valley](https://jobright.ai/jobs/info/68d105547727df7d5a85046d?utm_campaign=Sales&utm_source=1103)** | Altoona, PA | On Site | Nov 03 |
+| **[7 For All Mankind](http://www.7forallmankind.com)** | **[Seasonal Stylist - 7 For All Mankind, Cabazon](https://jobright.ai/jobs/info/6710b872e9337b67b37d1eaa?utm_campaign=Sales&utm_source=1103)** | Cabazon, CA | On Site | Nov 02 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Account Executive](https://jobright.ai/jobs/info/6840f778d087bdc43f4e3cfa?utm_campaign=Sales&utm_source=1103)** | Washington, DC | On Site | Nov 02 |
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[Sales Solutions Analyst (Bilingual)](https://jobright.ai/jobs/info/68cef10ddbd9fb154ede3bb1?utm_campaign=Sales&utm_source=1103)** | Richardson, TX | Hybrid | Nov 02 |
 | **[The Friedkin Group](https://www.friedkin.com/)** | **[Subaru Brand Specialist](https://jobright.ai/jobs/info/667ca04bc08973d614a46e24?utm_campaign=Sales&utm_source=1103)** | Las Vegas, NV | On Site | Nov 02 |
 | **[Zurich North America](https://www.zurichna.com)** | **[Market Facing Underwriting Trainee](https://jobright.ai/jobs/info/68cea01c846f0b04af67b9c4?utm_campaign=Sales&utm_source=1103)** | Parsippany, NJ | Hybrid | Nov 02 |
@@ -65,6 +67,7 @@ For a complete list, click the following sortable link below:
 | **[Salesforce](https://www.salesforce.com)** | **[Business Development Representative - Central](https://jobright.ai/jobs/info/68b0ec69b47fb001d68967b0?utm_campaign=Sales&utm_source=1103)** | Chicago, IL | On Site | Nov 02 |
 | **[Spirit Halloween](http://www.spirithalloween.com)** | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68bc24705f383274918751b2?utm_campaign=Sales&utm_source=1103)** | Kannapolis, NC | On Site | Nov 01 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68daf2cf07c157682e57003a?utm_campaign=Sales&utm_source=1103)** | Rockaway, NJ | On Site | Nov 01 |
+| ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68c95d69a0c52d598ea36bd0?utm_campaign=Sales&utm_source=1103)** | Belton, MO | On Site | Nov 01 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68c50cebdb52c07d288407a2?utm_campaign=Sales&utm_source=1103)** | Township of Delran, NJ | On Site | Nov 01 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68bd76eedf5eec448f63cbe9?utm_campaign=Sales&utm_source=1103)** | Springfield, PA | On Site | Nov 01 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b43d92bc187f64e1be3193?utm_campaign=Sales&utm_source=1103)** | Troy Hills, NJ | On Site | Nov 01 |
