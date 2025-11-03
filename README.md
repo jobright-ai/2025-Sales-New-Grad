@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Selling Associate-Logan Valley](https://jobright.ai/jobs/info/68d105547727df7d5a85046d?utm_campaign=Sales&utm_source=1103)** | Altoona, PA | On Site | Nov 03 |
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[Sales Solutions Analyst (Bilingual)](https://jobright.ai/jobs/info/68cef10ddbd9fb154ede3bb1?utm_campaign=Sales&utm_source=1103)** | Richardson, TX | Hybrid | Nov 02 |
 | **[The Friedkin Group](https://www.friedkin.com/)** | **[Subaru Brand Specialist](https://jobright.ai/jobs/info/667ca04bc08973d614a46e24?utm_campaign=Sales&utm_source=1103)** | Las Vegas, NV | On Site | Nov 02 |
 | **[Zurich North America](https://www.zurichna.com)** | **[Market Facing Underwriting Trainee](https://jobright.ai/jobs/info/68cea01c846f0b04af67b9c4?utm_campaign=Sales&utm_source=1103)** | Parsippany, NJ | Hybrid | Nov 02 |
@@ -107,8 +108,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b4353e1ade4306aa63e0ee?utm_campaign=Sales&utm_source=1103)** | Allen Park, MI | On Site | Oct 28 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b2eccbbc187f64e1bdf557?utm_campaign=Sales&utm_source=1103)** | North Lakeport, MI | On Site | Oct 28 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68c95ccc95f5211cd2cefb90?utm_campaign=Sales&utm_source=1103)** | Apache Junction, AZ | On Site | Oct 28 |
-| **[Goosehead Insurance](https://www.goosehead.com)** | **[Account Executive - The Sheets Agency](https://jobright.ai/jobs/info/68b20b97bc187f64e1bd8ecd?utm_campaign=Sales&utm_source=1103)** | Houston, TX | On Site | Oct 28 |
+| **[Goosehead Insurance](https://www.goosehead.com)** | **[Account Executive - The Sheets Agency](https://jobright.ai/jobs/info/68b2097d1ade4306aa633fcb?utm_campaign=Sales&utm_source=1103)** | Houston, TX | On Site | Oct 28 |
 | **[Spirit Halloween](http://www.spirithalloween.com)** | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b58f71f4e41a61efd90243?utm_campaign=Sales&utm_source=1103)** | Ashwaubenon, WI | On Site | Oct 28 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68b4427ebc187f64e1be31df?utm_campaign=Sales&utm_source=1103)** | Zanesville, OH | On Site | Oct 28 |
-| **[Alpine Physician Partners](https://alpine-physicians.com)** | **[Post Acute PA Opportunity: RVU Based Model – Above Market Earning Potential!](https://jobright.ai/jobs/info/6855f09e3a8383185c04a2b9?utm_campaign=Sales&utm_source=1103)** | Denver, CO | On Site | Oct 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
