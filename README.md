@@ -65,6 +65,7 @@ For a complete list, click the following sortable link below:
 | **[Zurich North America](https://www.zurichna.com)** | **[Market Facing Underwriting Trainee](https://jobright.ai/jobs/info/68cea01c846f0b04af67b9c4?utm_campaign=Sales&utm_source=1103)** | Parsippany, NJ | Hybrid | Nov 02 |
 | **[CosmoProf Beauty](http://www.cosmoprofbeauty.com)** | **[CosmoProf Inside Sales Associate-87018](https://jobright.ai/jobs/info/68ce8834846f0b04af67ac27?utm_campaign=Sales&utm_source=1103)** | San Leandro, CA | On Site | Nov 02 |
 | **[Salesforce](https://www.salesforce.com)** | **[Business Development Representative - Central](https://jobright.ai/jobs/info/68b0ec69b47fb001d68967b0?utm_campaign=Sales&utm_source=1103)** | Chicago, IL | On Site | Nov 02 |
+| **[Owens & Minor](http://owens-minor.com)** | **[Commercial Technology Sales Specialist, Customer Relations-PHILLY](https://jobright.ai/jobs/info/68b098c22d46f6396cae6e28?utm_campaign=Sales&utm_source=1103)** | Philadelphia, PA | Hybrid | Nov 01 |
 | **[Spirit Halloween](http://www.spirithalloween.com)** | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68bc24705f383274918751b2?utm_campaign=Sales&utm_source=1103)** | Kannapolis, NC | On Site | Nov 01 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68daf2cf07c157682e57003a?utm_campaign=Sales&utm_source=1103)** | Rockaway, NJ | On Site | Nov 01 |
 | ↳ | **[Sales Associate - Spirit](https://jobright.ai/jobs/info/68c95d69a0c52d598ea36bd0?utm_campaign=Sales&utm_source=1103)** | Belton, MO | On Site | Nov 01 |
