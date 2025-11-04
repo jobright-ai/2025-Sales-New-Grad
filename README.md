@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Selling Associate-Logan Valley](https://jobright.ai/jobs/info/68d105547727df7d5a85046d?utm_campaign=Sales&utm_source=1103)** | Altoona, PA | On Site | Nov 03 |
+| **[CosmoProf Beauty](http://www.cosmoprofbeauty.com)** | **[Inside Sales Associate CosmoProf 06435](https://jobright.ai/jobs/info/6777eeebd3b17fa10ca44c1a?utm_campaign=Sales&utm_source=1103)** | Fredericksburg, VA | On Site | Nov 03 |
 | **[7 For All Mankind](http://www.7forallmankind.com)** | **[Seasonal Stylist - 7 For All Mankind, Cabazon](https://jobright.ai/jobs/info/6710b872e9337b67b37d1eaa?utm_campaign=Sales&utm_source=1103)** | Cabazon, CA | On Site | Nov 02 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Account Executive](https://jobright.ai/jobs/info/6840f778d087bdc43f4e3cfa?utm_campaign=Sales&utm_source=1103)** | Washington, DC | On Site | Nov 02 |
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[Sales Solutions Analyst (Bilingual)](https://jobright.ai/jobs/info/68cef10ddbd9fb154ede3bb1?utm_campaign=Sales&utm_source=1103)** | Richardson, TX | Hybrid | Nov 02 |
